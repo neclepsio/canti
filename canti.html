@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <!-- In seguito alla richiesta di come realizzare un "foglietto" per i canti sul cellulare, 
-ho realizzato un semplice file HTML facile da modificare. Aprite 
-https://raw.githubusercontent.com/neclepsio/canti/master/canti.html, 
-copiate tutto ed incollatelo in editor di testo, per esempio Blocco 
+ho realizzato un semplice file HTML facile da modificare. 
+Copiate tutto ed incollatelo in editor di testo, per esempio Blocco 
 note, salvate come html e modificate la parte dei canti. Le righe che 
-cominciano con "#" sono titoli, ">" definisce un ritornello e "/" un bridge. 
+cominciano con "." sono i nomi dei momenti, con "#" sono titoli, 
+con ">" i ritornelli e con "/" i bridge. 
 Tutto qua. -->
 <html>
-<head><meta name="viewport" content="width=device-width, initial-scale=.5, maximum-scale=12.0, minimum-scale=.25, user-scalable=yes"/></head>
+<head><meta name="viewport" content="width=device-width, user-scalable=no" /></head>
 <body><pre>
+.Ingresso
 #Sono qui a lodarti
 
-Luce del mondo nel buio del cuore
+Luce del mondo nel buio del cue34e2ore
 Vieni ed illuminami
 Tu mia sola speranza di vita
 Resta per sempre con me
@@ -43,7 +44,9 @@ Per dimostrarci il Tuo amor
 >E solo Tu sei Santo, sei meraviglioso
 >Degno e glorioso sei per me
 
+-----------------------
 
+.Dopo comunione
 #Abbracciami
 Gesù parola viva e vera
 Sorgente che disseta
@@ -66,6 +69,10 @@ Questo cuore sciogli con ogni sua paura
 /Il tuo spirito in me in eterno ti loderà
 >Abbracciami...
 </pre>
+	<div id="buttons">
+		<button id="zoomMinus">-</button>
+		<button id="zoomPlus">+</button>
+	</div>
 	<script>
 		var p = document.querySelector("pre");
 		p.style.display = "none";
@@ -79,7 +86,20 @@ Questo cuore sciogli con ogni sua paura
 				continue
 			}
 			
+			if (line.match(/^-+$/)) {
+				if (lastKlass != "") {
+					document.write("</p>");
+				}
+				document.write("<hr/>");
+				lastKlass = "";
+				continue;
+			}
+			
 			var klass = "strofa";
+			if (line[0] == ".") {
+				klass = "momento";
+				line = line.substr(1);
+			}
 			if (line[0] == "#") {
 				klass = "titolo";
 				line = line.substr(1);
@@ -94,7 +114,10 @@ Questo cuore sciogli con ogni sua paura
 			}
 			
 			if (klass != lastKlass) {
-				document.write("</p><p class='" + klass + "'>");
+				if (lastKlass != "") {
+					document.write("</p>");
+				}
+				document.write("<p class='" + klass + "'>");
 				lastKlass = klass;
 			}
 			
@@ -102,35 +125,77 @@ Questo cuore sciogli con ogni sua paura
 		}
 
 		document.write(line + "</p>");
+		
+		document.body.style.fontSize = "100%";
+		function zoom(delta) {
+			var s = parseInt(document.body.style.fontSize);
+			s += delta;
+			s = Math.max(s, 50);
+			s = Math.min(s, 200);
+			document.body.style.fontSize = s + "%";
+		}
+		
+		document.getElementById("zoomMinus").addEventListener("click", function(e) {
+			zoom(-10);
+		});
+		document.getElementById("zoomPlus").addEventListener("click", function(e) {
+			zoom(+10);
+		});
 	</script>
 	
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 	<style>
+		body {
+			font-family: 'Lato', sans-serif;
+			padding: 1rem;
+		}
+		
+		hr {
+			margin-top: 4rem;
+			margin-bottom: 4rem;
+		}
+		
 		p {
 			line-height: 150%;
 			margin-top: 0;
-			margin-bottom: 1em;
+			margin-bottom: 1rem;
 		}
 		
 		.titolo { 
 			font-weight: bold;
-			font-size: 150%; 
+			font-size: 250%; 
 			text-align: center;
+			font-variant: small-caps;
 		}
 		
-		.titolo {
-			margin-top: 1em;
-			padding-top: 1em;
-			border-top: 1px solid black;
-			font-variant: small-caps;
+		.momento {
+			font-size: 100%; 
+			text-align: center;
+			margin-bottom: -1rem;
 		}
 		
 		.ritornello {
 			font-weight: bold;
-			margin-left: 1em;
+			margin-left: 1rem;
 		}
 		
 		.bridge {
 			font-style: italic;
+		}
+		
+		#buttons {
+			position: fixed;
+			text-align: right;
+			left: 1rem;
+			right: 1rem;
+			bottom: 1rem;
+		}
+		
+		button {
+			width: 3rem;
+			height: 3rem;
+			font-size: 2rem;
+			margin: 0.25rem;
 		}
 	</style>
 </body>
