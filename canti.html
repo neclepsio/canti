@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<body><pre>
+#Sono qui a lodarti
+
+Luce del mondo nel buio del cuore
+Vieni ed illuminami
+Tu mia sola speranza di vita
+Resta per sempre con me
+>Sono qui a lodarti, qui per adorarti
+>Qui per dirti che Tu sei il mio Dio
+>E solo Tu sei Santo, sei meraviglioso
+>Degno e glorioso sei per me
+
+Re della storia e Re della gloria
+Sei sceso in terra fra noi
+Con umiltà il Tuo trono hai lasciato
+Per dimostrarci il Tuo amor
+>Sono qui a lodarti, qui per adorarti
+>Qui per dirti che Tu sei il mio Dio
+>E solo Tu sei Santo, sei meraviglioso
+>Degno e glorioso sei per me
+
+/Io mai saprò quanto ti costò
+/Lì sulla croce morir per me
+/Io mai saprò quanto ti costò
+/Lì sulla croce morir per me
+/Io mai saprò quanto ti costò
+/Lì sulla croce morir per me
+/Io mai saprò quanto ti costò
+/Lì sulla croce morir per me
+
+>Sono qui a lodarti, qui per adorarti
+>Qui per dirti che Tu sei il mio Dio
+>E solo Tu sei Santo, sei meraviglioso
+>Degno e glorioso sei per me
+
+
+#Abbracciami
+Gesù parola viva e vera
+Sorgente che disseta
+E cura ogni ferita
+Ferma se di me i tuoi occhi
+La tua mano stendi
+E donami la vita
+>Abbracciami Dio dell'eternità
+>Rifugio dell'anima
+>Grazia che opera
+>Riscaldami fuoco che libera
+>Manda il tuo spirito
+>Maranatha gesu
+Gesù asciuga il nostro pianto
+Leone vincitore della tribù di giuda
+Vedi nella tua potenza
+Questo cuore sciogli con ogni sua paura
+>Abbracciami...
+/Per sempre io cantero la tua immensa fedeltà
+/Il tuo spirito in me in eterno ti loderà
+>Abbracciami...
+</pre>
+	<script>
+		var p = document.querySelector("pre");
+		p.style.display = "none";
+		var lines = p.textContent.split("\n");
+		var lastKlass = "";
+		
+		for (var i in lines) {
+			var line = lines[i].trim();
+			
+			if (line.length == 0) {
+				continue
+			}
+			
+			var klass = "strofa";
+			if (line[0] == "#") {
+				klass = "titolo";
+				line = line.substr(1);
+			}
+			if (line[0] == "/") {
+				klass = "bridge";
+				line = line.substr(1);
+			}
+			if (line[0] == ">") {
+				klass = "ritornello";
+				line = line.substr(1);
+			}
+			
+			if (klass != lastKlass) {
+				document.write("</p><p class='" + klass + "'>");
+				lastKlass = klass;
+			}
+			
+			document.write(line + "<br/>");
+		}
+
+		document.write(line + "</p>");
+	</script>
+	
+	<style>
+		p {
+			line-height: 150%;
+			margin-top: 0;
+			margin-bottom: 1em;
+		}
+		
+		.titolo { 
+			font-weight: bold;
+			font-size: 150%; 
+			text-align: center;
+		}
+		
+		.titolo {
+			margin-top: 1em;
+			padding-top: 1em;
+			border-top: 1px solid black;
+			font-variant: small-caps;
+		}
+		
+		.ritornello {
+			font-weight: bold;
+			margin-left: 1em;
+		}
+		
+		.bridge {
+			font-style: italic;
+		}
+	</style>
+</body>
+</html>
