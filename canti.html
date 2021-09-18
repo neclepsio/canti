@@ -1,8 +1,20 @@
-<!DOCTYPE html>
-<!-- In seguito alla richiesta di come realizzare un "foglietto" per i canti sul cellulare, 
-ho realizzato un semplice file HTML facile da modificare. 
-Copiate tutto ed incollatelo in editor di testo, per esempio Blocco 
-note, salvate come html e modificate la parte del testo. 
+<!DOCTYPE html><!-- 
+Foglietto dei canti - v1.0.0
+
+Copyright (c) 2021 Ignazio Di Napoli -- vedi licenza in fondo a questo file.
+
+In seguito alla richiesta di come realizzare un "foglietto" per i canti sul 
+cellulare, ho realizzato questa pagina in modo che sia facile da modificare. 
+
+Se la usi, mandami una email a neclepsio@gmail.com e fammi sapere cosa ne
+pensi.
+
+Per personalizzare i testi è sufficiente modificare la parte tra
+'<script id="contenuto" type="none">' e '</script>', lasciando invariato
+tutto il resto.
+
+Il formato è abbastanza intuitivo dagli esempi, ma aggiungo le istruzioni.
+
 
 Per applicare la formattazione far iniziare le righe come di seguito.
   .    i nomi dei momenti, centrati, prima del titolo;
@@ -10,284 +22,494 @@ Per applicare la formattazione far iniziare le righe come di seguito.
   ##   riga in grassetto;
   >    i ritornelli, in grassetto e rientrati;
   /    i bridge, in corsivo;
-  ---  separatore di sezione.
+  ---  separatore di sezione;
+  ?    spiegazioni (da mettere subito dopo il titolo).
 
-Per lasciare spazio tra i paragrafi, lasciate una riga vuota. -->
-<html>
-<head><meta name="viewport" content="width=device-width, user-scalable=no" /></head>
-<body><pre>
-<!-- Inizio della parte da modificare -->
-.Ingresso
-#Sono qui a lodarti
+Per lasciare spazio tra i paragrafi lasciate una riga vuota. 
 
-Luce del mondo nel buio del cuore
-Vieni ed illuminami
-Tu mia sola speranza di vita
-Resta per sempre con me
->Sono qui a lodarti, qui per adorarti
->Qui per dirti che Tu sei il mio Dio
->E solo Tu sei Santo, sei meraviglioso
->Degno e glorioso sei per me
+Le righe che cominciano con @, gli undescore (_) ed il testo riportato tra 
+[parentesi quadre] non verrano visualizzati. Questo permette di incollare
+i testi dei canti con accordi per alcuni programmi. 
 
-Re della storia e Re della gloria
-Sei sceso in terra fra noi
-Con umiltà il Tuo trono hai lasciato
-Per dimostrarci il Tuo amor
->Sono qui a lodarti, qui per adorarti
->Qui per dirti che Tu sei il mio Dio
->E solo Tu sei Santo, sei meraviglioso
->Degno e glorioso sei per me
+Il carettere @ può essere usato quindi per inserire commenti o per nascondere
+parti che non si voglioni cancellare.
 
-/Io mai saprò quanto ti costò
-/Lì sulla croce morir per me
-/Io mai saprò quanto ti costò
-/Lì sulla croce morir per me
-/Io mai saprò quanto ti costò
-/Lì sulla croce morir per me
-/Io mai saprò quanto ti costò
-/Lì sulla croce morir per me
+Talvolta nelle letture ci sono però parti aggiunte segnate tra parentesi 
+quadre, siccome verrebbero eliminati è necessario scriverli \[in questo modo],
+aggiungendo \ prima di [.
 
->Sono qui a lodarti, qui per adorarti
->Qui per dirti che Tu sei il mio Dio
->E solo Tu sei Santo, sei meraviglioso
->Degno e glorioso sei per me
+La tilde (~) inserisce uno spazio unificatore, è utile per non far andare a 
+capo un riferimento: "Gv 1,1" potrebbe far scrivere "Gv" su un rigo e "1,1"
+a capo, mentre "Gv~1,1" tiene tutto sullo stesso rigo. Per inserire ~ usando
+Windows il modo migliore è fare il copia e incolla, con Linux usa AltGr+ì.
 
------------------------
+Se viene inserita una riga con scritto {indice}, verrà sostituita con l'indice
+dei titoli, escludendo quelli che precedono la prima occorrenza.
 
-#Prima Lettura
-/Venite all'acqua: ascoltate e vivrete.
+Per inserire l'immagine di una croce, usare {croce}.
+Per inserire la R per la risposta, usare {risposta}.
+Per inserire una chiave di violino, usare {musica}.
+Le immagini nei titoli saranno rimosse nella voce dell'indice.
 
-##Dal libro del profeta Isaìa (Is 55,1-11)
+La punteggiatura verrà abbellita: 
+  '     diventa   ‘ o ’
+  "     diventa   “ o ”
+  <<    diventa   «
+  >>    diventa   »
+  ...   diventa   …
+  --    diventa   – (largo quanto una n)
+  ---   diventa   — (largo quanto una m)
 
-Così dice il Signore: «O voi tutti assetati, venite all'acqua, voi che non avete denaro, venite; comprate e mangiate; venite, comprate senza denaro, senza pagare, vino e latte. Perché spendete denaro per ciò che non è pane, il vostro guadagno per ciò che non sazia? Su, ascoltatemi e mangerete cose buone e gusterete cibi succulenti. Porgete l'orecchio e venite a me, ascoltate e vivrete.
-Io stabilirò per voi un'alleanza eterna, i favori assicurati a Davide.
-Ecco, l'ho costituito testimone fra i popoli, principe e sovrano sulle nazioni.
-Ecco, tu chiamerai gente che non conoscevi; accorreranno a te nazioni che non ti conoscevano a causa del Signore, tuo Dio, del Santo d'Israele, che ti onora.
-Cercate il Signore, mentre si fa trovare, invocatelo, mentre è vicino. L'empio abbandoni la sua via e l'uomo iniquo i suoi pensieri; ritorni al Signore che avrà misericordia di lui e al nostro Dio che largamente perdona. Perché i miei pensieri non sono i vostri pensieri, le vostre vie non sono le mie vie. Oracolo del Signore.
-Quanto il cielo sovrasta la terra, tanto le mie vie sovrastano le vostre vie, i miei pensieri sovrastano i vostri pensieri. Come infatti la pioggia e la neve scendono dal cielo e non vi ritornano senza avere irrigato la terra, senza averla fecondata e fatta germogliare, perché dia il seme a chi semina e il pane a chi mangia, così sarà della mia parola uscita dalla mia bocca: non ritornerà a me senza effetto, senza aver operato ciò che desidero e senza aver compiuto ciò per cui l'ho mandata».
+Una riga che finisce con \ verrà concatenata alla successiva aggiungendo uno
+spazio, è utile per dividere le letture su più righe non imponendo un'andata
+a capo nel risultato finale. In alternativa, i paragrafi possono essere 
+scritti tutti su una singola riga.
 
----
+Ricorda di leggere la licenza in fondo a questo file.
+--><script id="contenuto" type="none">
 
-#Salmo Responsoriale
->Is 12,1-6
+. 19 settembre 2021
+# XXV domenica del T.O.
 
-/R. Attingeremo con gioia alle sorgenti della salvezza.
+Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 
-Ecco, Dio è la mia salvezza;
-io avrò fiducia, non avrò timore,
-perché mia forza e mio canto è il Signore;
-egli è stato la mia salvezza. R.
+{indice}
 
-Rendete grazie al Signore e invocate il suo nome,
-proclamate fra i popoli le sue opere,
-fate ricordare che il suo nome è sublime. R.
+--------------------------------------------------------------------------------
 
-Cantate inni al Signore, perché ha fatto cose eccelse,
-le conosca tutta la terra.
-Canta ed esulta, tu che abiti in Sion,
-perché grande in mezzo a te è il Santo d'Israele. R.
+. Ingresso
+# {musica} Apri i miei occhi
 
----
+@*Intro: E2 E *(4_volte)
+@E2
+>Apri i miei occhi Signore,
+@B4/D#
+>aprimi gli occhi del cuor:
+@         A2/C#               E2
+>voglio vederti, voglio vederti! (2 volte)
+@       B            C#-
+Vederti splendere, Signor,
+@A                    B4
+_nella luce della Tua gloria.
+@B                C#-
+_Ricolmi del Tuo amor
+@          F#-    A      B4
+cantiamo: "Santo, Santo, Santo".
 
-#Seconda Lettura
-/Lo Spirito, l'acqua e il sangue.
+@E2                   B4/D#
+_Santo, Santo, Santo! Santo, Santo, Santo!
+@A2/C#                         E2
+_Santo, Santo, Santo, voglio vederti! (2 volte)
+@E2
 
-##Dalla prima lettera di san Giovanni apostolo (1Gv 5,1-9)
+>Apri i miei occhi Signore, (Santo, Santo, Santo!)
+@B4/D#
+>aprimi gli occhi del cuor: (Santo, Santo, Santo!)
+@A2/C#
+>voglio vederti, (Santo, Santo, Santo!)
+@E2
+>voglio vederti! (2 volte)
 
-Carissimi, chiunque crede che Gesù è il Cristo, è stato generato da Dio; e chi ama colui che ha generato, ama anche chi da lui è stato generato. In questo conosciamo di amare i figli di Dio: quando amiamo Dio e osserviamo i suoi comandamenti. In questo infatti consiste l'amore di Dio, nell'osservare i suoi comandamenti; e i suoi comandamenti non sono gravosi. Chiunque è stato generato da Dio vince il mondo; e questa è la vittoria che ha vinto il mondo: la nostra fede. E chi è che vince il mondo se non chi crede che Gesù è il Figlio di Dio? Egli è colui che è venuto con acqua e sangue, Gesù Cristo; non con l'acqua soltanto, ma con l'acqua e con il sangue. Ed è lo Spirito che dà testimonianza, perché lo Spirito è la verità. Poiché tre sono quelli che danno testimonianza: lo Spirito, l'acqua e il sangue, e questi tre sono concordi. Se accettiamo la testimonianza degli uomini, la testimonianza di Dio è superiore: e questa è la testimonianza di Dio, che egli ha dato riguardo al proprio Figlio.
+--------------------------------------------------------------------------------
 
----
+#{musica} Gloria nell'alto dei cieli
 
-#Acclamazione al Vangelo
+>G[Fa]loria, g[Sib]loria a Dio[Re-7].[Do]
+>Gloria, glori[Fa]a nell’alt[Sib]o dei cieli.[Re-7][Do]
+>[Fa]Pace in te[Sib]rra agli uomin[Re-7]i[Do]
+>amati dal Signor.
+>[Fa/mib]Glo[Sib/re][Fa]ria!
 
-Alleluia, alleluia.
+Noi [Sib]ti lo[Fa/la]diamo, [Sol-7]ti benedi[Fa]ciamo,
+ti[Sib] adori[Fa/la]amo, glori[Mib]fichiamo te,[Fa]
+[Sib]ti rend[Fa/la]iamo gra[Sol-7]zie per la tua i[Fa]mmensa
+[Mib]glor[Do4]ia.[Do]
 
-Giovanni, vedendo Gesù venire verso di lui, disse:
-"Ecco l'agnello di Dio, colui che toglie il peccato del mondo!" (Cfr. Gv 1,29)
+Signore Dio, gloria! 
+Re del cielo, gloria!
+Dio Padre, Dio onnipotente, glor[Mib]ia![Do][Sol-/sib][Mib][Do]
 
-Alleluia.
+>G[Fa]loria, g[Sib]loria a Dio[Re-7]...
 
----
+Si[Fa]gnore, Figlio unigenito,[Mib/fa] Gesù Cri[Sib/fa]sto,[Fa]
+Signore, Agnello di Dio, Figlio del Padre.
+Tu che togli i peccati del mondo,
+abbi pietà di noi;
+tu che togli i peccati del mondo,
+accogli la nostra supplica;
+tu che siedi alla destra del Padre,
+[Sib/fa]abbi pietà di noi[Do4].[Do]
 
-#Vangelo
-/Tu sei il Figlio mio, l'amato: in te ho posto il mio compiacimento.
+>G[Fa]loria, g[Sib]loria a Dio[Re-7]...
 
-##Dal Vangelo secondo Marco (Mc 1,7-11)
+Perché, tu solo, il Santo il Signore,
+tu solo l’Altissimo, Cristo Gesù
+con lo Spirito Santo nella gloria
+del Padre.
 
-In quel tempo, Giovanni proclamava: «Viene dopo di me colui che è più forte di me: io non sono degno di chinarmi per slegare i lacci dei suoi sandali. Io vi ho battezzato con acqua, ma egli vi battezzerà in Spirito Santo». Ed ecco, in quei giorni, Gesù venne da Nàzaret di Galilea e fu battezzato nel Giordano da Giovanni. E, subito, uscendo dall'acqua, vide squarciarsi i cieli e lo Spirito discendere verso di lui come una colomba. E venne una voce dal cielo: «Tu sei il Figlio mio, l'amato: in te ho posto il mio compiacimento».
+>G[Fa]loria, g[Sib]loria a Dio[Re-7]...
 
------------------------
+--------------------------------------------------------------------------------
 
-.Dopo comunione
-#Abbracciami
-Gesù parola viva e vera
-Sorgente che disseta
-E cura ogni ferita
-Ferma se di me i tuoi occhi
-La tua mano stendi
-E donami la vita
->Abbracciami Dio dell'eternità
->Rifugio dell'anima
->Grazia che opera
->Riscaldami fuoco che libera
->Manda il tuo spirito
->Maranatha gesu
-Gesù asciuga il nostro pianto
-Leone vincitore della tribù di giuda
-Vedi nella tua potenza
-Questo cuore sciogli con ogni sua paura
->Abbracciami...
-/Per sempre io cantero la tua immensa fedeltà
-/Il tuo spirito in me in eterno ti loderà
->Abbracciami...
-<!-- Fine della parte da modificare -->
-</pre>
-	<div id="buttons">
-		<button id="zoomMinus">-</button>
-		<button id="zoomPlus">+</button>
-	</div>
-	<script>
-		var p = document.querySelector("pre");
-		p.style.display = "none";
-		var lines = p.textContent.split("\n");
-		var lastKlass = "";
-		var emptyLine = false;
-		
-		for (var i in lines) {
-			var line = lines[i].trim();
-			
-			if (line.length == 0) {
-			    emptyLine = true;
-				continue
-			}
-			
-			if (line.match(/^-+$/)) {
-				if (lastKlass != "") {
-					document.write("</p>");
-				}
-				document.write("<hr/>");
-				lastKlass = "";
-				continue;
-			}
-			
-			var klass = "strofa";
-			if (line[0] == ".") {
-				klass = "momento";
-				line = line.substr(1);
-			}
-			if (line[0] == "#") {
-			    if (line.length > 1 && line[1] == "#") {
-					klass = "grassetto";
-				    line = line.substr(2);
-			    } else {
-    				klass = "titolo";
-				    line = line.substr(1);
-				}
-			}
-			if (line[0] == "/") {
-				klass = "bridge";
-				line = line.substr(1);
-			}
-			if (line[0] == ">") {
-				klass = "ritornello";
-				line = line.substr(1);
-			}
-			
-			if (klass != lastKlass) {
-				if (lastKlass != "") {
-					document.write("</p>");
-				}
-				document.write("<p class='" + klass + "'>");
-				lastKlass = klass;
-			} else if (emptyLine) {
-				if (lastKlass != "") {
-					document.write("</p>");
-				}
-				document.write("<p class='" + klass + " prev-empty'>");
-			}
-			
-			emptyLine = false;
-			
-			document.write(line + "<br/>");
-		}
+# Prima Lettura
+/ Condanniamo il giusto a una morte infamante.
 
-		document.write(line + "</p>");
-		
-		document.body.style.fontSize = "100%";
-		function zoom(delta) {
-			var s = parseInt(document.body.style.fontSize);
-			s += delta;
-			s = Math.max(s, 50);
-			s = Math.min(s, 200);
-			document.body.style.fontSize = s + "%";
-		}
-		
-		document.getElementById("zoomMinus").addEventListener("click", function(e) {
-			zoom(-10);
-		});
-		document.getElementById("zoomPlus").addEventListener("click", function(e) {
-			zoom(+10);
-		});
-	</script>
-	
-	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-	<style>
-		body {
-			font-family: 'Lato', sans-serif;
-			padding: 1rem;
-		}
-		
-		hr {
-			margin-top: 4rem;
-			margin-bottom: 4rem;
-		}
-		
-		p {
-			line-height: 150%;
-			margin-top: 0;
-			margin-bottom: 1rem;
-		}
-		
-		.titolo { 
-			font-weight: bold;
-			font-size: 250%; 
-			text-align: center;
-			font-variant: small-caps;
-		}
-		
-		.momento {
-			font-size: 100%; 
-			text-align: center;
-			margin-bottom: -1rem;
-		}
-		
-		.ritornello {
-			font-weight: bold;
-			margin-left: 1rem;
-		}
-		
-		.grassetto {
-			font-weight: bold;
-		}
-		
-		.bridge {
-			font-style: italic;
-		}
-		
-		#buttons {
-			position: fixed;
-			text-align: right;
-			left: 1rem;
-			right: 1rem;
-			bottom: 1rem;
-		}
-		
-		button {
-			width: 3rem;
-			height: 3rem;
-			font-size: 2rem;
-			margin: 0.25rem;
-		}
-	</style>
-</body>
-</html>
+## Dal libro della Sapienza (Sap~2,~12.17-20)
+
+\[Dissero gli empi:]
+«Tendiamo insidie al giusto, che per noi è d’incomodo
+e si oppone alle nostre azioni;
+ci rimprovera le colpe contro la legge
+e ci rinfaccia le trasgressioni contro l’educazione ricevuta.
+
+Vediamo se le sue parole sono vere,
+consideriamo ciò che gli accadrà alla fine.
+Se infatti il giusto è figlio di Dio, egli verrà in suo aiuto
+e lo libererà dalle mani dei suoi avversari.
+Mettiamolo alla prova con violenze e tormenti,
+per conoscere la sua mitezza
+e saggiare il suo spirito di sopportazione.
+Condanniamolo a una morte infamante,
+perché, secondo le sue parole, il soccorso gli verrà».
+
+--------------------------------------------------------------------------------
+
+# Salmo Responsoriale
+## Sal 53
+
+/ {risposta} Il Signore sostiene la mia vita.
+
+Dio, per il tuo nome salvami,
+per la tua potenza rendimi giustizia.
+Dio, ascolta la mia preghiera,
+porgi l’orecchio alle parole della mia bocca.
+
+/ {risposta} Il Signore sostiene la mia vita.
+
+Poiché stranieri contro di me sono insorti
+e prepotenti insidiano la mia vita;
+non pongono Dio davanti ai loro occhi.
+
+/ {risposta} Il Signore sostiene la mia vita.
+
+Ecco, Dio è il mio aiuto,
+il Signore sostiene la mia vita.
+Ti offrirò un sacrificio spontaneo,
+loderò il tuo nome, Signore, perché è buono. 
+
+/ {risposta} Il Signore sostiene la mia vita.
+
+--------------------------------------------------------------------------------
+
+# Seconda Lettura
+/ Per coloro che fanno opera di pace viene seminato nella pace un frutto di \
+giustizia.
+
+## Dalla lettera di san Giacomo apostolo (Giac~3,16-4,3)
+
+Fratelli miei, dove c’è gelosia e spirito di contesa, c’è disordine e ogni \
+sorta di cattive azioni. Invece la sapienza che viene dall’alto anzitutto è \
+pura, poi pacifica, mite, arrendevole, piena di misericordia e di buoni \
+frutti, imparziale e sincera. Per coloro che fanno opera di pace viene \
+seminato nella pace un frutto di giustizia.
+
+Da dove vengono le guerre e le liti che sono in mezzo a voi? Non vengono forse \
+dalle vostre passioni che fanno guerra nelle vostre membra? Siete pieni di \
+desideri e non riuscite a possedere; uccidete, siete invidiosi e non riuscite \
+a ottenere; combattete e fate guerra! Non avete perché non chiedete; chiedete \
+e non ottenete perché chiedete male, per soddisfare cioè le vostre passioni.
+
+--------------------------------------------------------------------------------
+
+# Acclamazione al Vangelo
+
+## Alleluia, alleluia.
+
+Dio ci ha chiamati mediante il Vangelo, \
+per entrare in possesso della gloria \
+del Signore nostro Gesù Cristo. (Cfr. 2Ts~2,~14)
+
+## Alleluia.
+
+--------------------------------------------------------------------------------
+
+# Vangelo
+/ Tu sei il Cristo… Il Figlio dell'uomo deve molto soffrire.
+
+## {croce} Dal Vangelo secondo Marco (Mc~9,~30-37)
+
+In quel tempo, Gesù e i suoi discepoli attraversavano la Galilea, ma egli non \
+voleva che alcuno lo sapesse. Insegnava infatti ai suoi discepoli e diceva \
+loro: «Il Figlio dell’uomo viene consegnato nelle mani degli uomini e lo \
+uccideranno; ma, una volta ucciso, dopo tre giorni risorgerà». Essi però non \
+capivano queste parole e avevano timore di interrogarlo.
+
+Giunsero a Cafàrnao. Quando fu in casa, chiese loro: «Di che cosa stavate \
+discutendo per la strada?». Ed essi tacevano. Per la strada infatti avevano \
+discusso tra loro chi fosse più grande. Sedutosi, chiamò i Dodici e disse \
+loro: «Se uno vuole essere il primo, sia l’ultimo di tutti e il servitore di \
+tutti».
+
+E, preso un bambino, lo pose in mezzo a loro e, abbracciandolo, disse loro: \
+«Chi accoglie uno solo di questi bambini nel mio nome, accoglie me; e chi \
+accoglie me, non accoglie me, ma colui che mi ha mandato».
+
+--------------------------------------------------------------------------------
+
+@ .Dopo battesimo
+@ #{musica} Uno spirito nuovo
+@ 
+@ Ringrazio te Signore per questo immenso amore,
+@ solo in te io rivivrò.
+@ Concludi un'alleanza, rinnova questo cuor,
+@ e camminerò con te nella fedeltà.
+@ 
+@ >Metti in me uno spirito nuovo,
+@ >con acqua viva mi purificherai.
+@ >Poni in me la tua legge Signore,
+@ >sul mio cuore la scriverai.
+@
+@ --------------------------------------------------------------------------------
+
+. Offertorio
+# {musica} Il nosto cuore offriamo a te
+
+@G B- C G/B F4+ F D4 D
+
+@SOL    SI-  DO *        SOL4 SOL
+_Con il pane    e con il vi___no
+@MI-      SOL/b     DO
+_noi ti offriamo la vita,
+@SOL   RE/f#    DO/E *   SOL/B
+_dalle mani del      tuo servo
+@DO        SOL/B            FA  RE  D4
+_prendi, o Padre, il nostro do__no.
+
+@          SOL     RE/F#    MI- DO
+>Il nostro cuore offriamo a Te,
+@            SOL/B DO *        RE/F# DO/E
+>su questo altare     lo presentiamo,
+@RE          SOL4 SOL  SI/D#    MI- DO
+>è il nostro cuo__re   pieno di Te,
+@            G4 G  RE4 *    RE    DO  SOL
+>su questo alta_re     lo accoglierai.
+
+@G b- c g/b f4+ f d4 d
+
+Della terra portiamo il frutto
+che tu accogli, Signore,
+una mensa per noi prepari,
+segno eterno del tuo amore.
+
+>Il nostro cuore offriamo...
+
+Con i santi a te veniamo
+Rendici uno o Signore
+Benedici i tuoi figli
+qui riuniti nel tuo nome
+
+>Il nostro cuore offriamo...
+
+@DO/e      RE/f#  SOL/b   DO
+/Veniamo a te con voci di lode,
+@c/e     RE/f#   SOL/b    DO
+/il tuo amore ci trasformerà,
+@DO/e       RE/F# FA4+   F *  SOL/d  d d4
+/offriamo a te il cuore,   la vita.
+
+>Il nostro cuore offriamo...
+
+--------------------------------------------------------------------------------
+
+@. Santo
+# {musica} Santo
+
+[*Intro: primo rigo]
+@d  g   d  g   d a d
+>Santo, santo, sa__nto.
+@d  g   d  g   d a d
+>Santo, santo, sa__nto.
+
+@  g                d
+Il Signore Dio dell'universo,
+@  g                d
+il Signore Dio dell'universo,
+@ g          d
+i cieli e la Terra
+@    a               d
+sono pieni della tua gloria.
+
+@ g      d           a        d
+_Osanna, osanna nell'alto dei cieli.
+@ g      d           a        d
+_Osanna, osanna nell'alto dei cieli.
+
+@d  g   d  g   d a d
+>Santo, santo, sa__nto.
+@d  g   d  g   d a d
+>Santo, santo, sa__nto.
+
+@   g               d
+Benedetto colui che viene
+@ g          d
+nel nome del Signore.
+@   g               d
+Benedetto colui che viene
+@   a          d
+nel nome del Signore.
+
+@ g      d           a        d
+_Osanna, osanna nell'alto dei cieli.
+@ g      d           a        d
+_Osanna, osanna nell'alto dei cieli.
+
+@d  g   d  g   d a d
+>Santo, santo, sa__nto.
+@d  g   d  g   d a d
+>Santo, santo, sa__nto.
+
+--------------------------------------------------------------------------------
+
+. Comunione
+# {musica} Con~questo~pane, con~questo~vino
+
+@         DO-          Fa-           Reb7+
+In questo pane noi riceviamo il vero corpo
+@        DO-  Lab           Sib-          Mib4  Mib/G
+del Salvatore     che si fa cibo per tutti noi.
+@           Lab  Sib-7/Db
+>Con questo pane,
+@           Lab/C Reb7+
+>con questo vino,
+@       Fa-
+>Gesù Signore
+@  Mib             Reb7+ Reb6
+>dimora in mezzo a noi,
+@        DO- Lab
+>è la salvez_za
+@  Sib-     Mib  Lab
+>offerta ad ogni uomo.
+@*Intermezzo C-7 F- Bb- Eb Ab
+@         DO-          Fa-           Reb7+
+In questo vino noi riceviamo il vero sangue
+@        DO-  Lab               Sib-      Mib4  Mib/G
+dell'alleanza     che è bevanda per tutti noi.
+>Con questo pane...
+@         DO-          Fa-           Reb7+
+Su questa mensa noi celebriamo il sacrificio
+@        DO-  Lab           Sib-           Mib4  Mib/G
+del Redentore     che ci consacra nel suo amore.
+>Con questo pane...
+
+--------------------------------------------------------------------------------
+
+. Dopo Comunione
+# {musica} Ave Maria
+? Nel Vangelo di oggi Gesù dice: «se uno vuole essere il primo, sia l’ultimo \
+di tutti e il servitore di tutti». Gesù stesso si è fatto ultimo e ci ha \
+preceduto sulla via. Con questo canto esprimiamo il nostro "sì" alla sua proposta, \ 
+decidendo di affidarci a lui e di seguirlo.
+
+
+@D        B-   G        B
+_Ave, o Maria, piena di grazia,
+@    E-          C
+il Signore è con te,
+@    B           E-  E7
+il Signore è con te.
+
+@  A-      E-        B        E-    E7
+Tu sei benedetta fra tutte le donne
+@     A-                        E-      Bsus4 B
+e benedetto è il frutto del tuo seno, Gesù.
+
+@E  B/D# C#-  F#- C#-/E  B/D# B
+_Santa Maria, Ma__dre di Dio,
+@E  B/D#   C#-      F#- C#-/E B/D# B
+_prega per noi peccato________ri,
+@C#-          G#- A            Bsus4 B
+adesso e nell'ora della nostra mor___te.
+@E G#- A Bsus4 B E
+_A_______________men.
+
+--------------------------------------------------------------------------------
+
+# Supplica alla Madonna di Campitelli
+
+Vergine Santissima, per la tua materna
+intecessione, tante volte da noi invocata
+davanti a questa immagine, il tuo Figlio Gesù
+ha esaudito le nostre preghiere,
+mostrandoci il suo braccio potente
+e misericordioso.
+
+Guarda con tenerezza, o Maria,
+le anime nostre, le nostre famiglie,
+questa Città e questa Nazione
+e fa' che sperimentiamo la forza e la dolcezza
+della tua carità materna.
+
+Per i meriti di Cristo, vero Dio e vero uomo,
+allontana da noi la malattia,
+la fame, la guerra, l'ingiustizia sociale,
+donaci l'abbondanza delle tue grazie
+e guidaci al porto della salvezza.
+
+Fa' di noi, o Maria, un popolo santo e devoto.
+Fa' che, rivolgendoci a te come Madre di Dio,
+possiamo godere il tuo amore qui in terra
+e la tua gloria nei cieli.
+
+Amen.
+
+--------------------------------------------------------------------------------
+
+. Canto finale
+# {musica} Ascolta la nostra lode
+
+[Do][]Danze[Do4]remo nel tuo [Do]nome, [G/B]
+[La-][]per le stra[Fa]de esulte[Sol4]remo,
+[Do][]costrui[Do4]remo la tua [Do]pace, [G/B]
+[La-][]che ogni uo[Fa]mo invochi [Sol4]Dio.
+>Là nei [Do]cieli [Sol/B]e sulla [Fa2/A]terra
+>questo [La-7]canto [Mi-7]giunge[Fa]rà,[Sol4]
+>là sui [Do]monti [Sol/B]e per le [Fa2/A]valli
+>questa [La-7]lode [Mi-7]corre[Fa]rà.[Sol4][Do][Do4][Do][Do4]
+Splenderemo nella fede
+camminando insieme o te,
+dalla Croce che ci guida
+la tua gloria brillerà.
+>Là nei [Do]cieli [Sol/B]e sulla [Fa2/A]terra...
+[Fa][Re-][La-][Mi-][Fa][Re-][Sol4]
+[Sol][]Alle[Fa]luia, [Re-][]alle[La-]luia, [Mi-][]alle[Fa]luia, [Re-][]alle[Sol4]luia.[Sol] (6 volte)
+>Là nei [Do]cieli [Sol/B]e sulla [Fa2/A]terra...
+
+--------------------------------------------------------------------------------
+
+{indice}
+</script>
+<!--
+Copyright (c) 2021 Ignazio Di Napoli
+Tutti i diritti riservati.
+
+La ridistribuzione e l'uso in forma di codice sorgente e binaria, con o senza
+modifiche, sono permesse purché siano rispettate le seguenti condizioni:
+1. Le ridistribuzioni di codice originale devono conservare la nota di copyright
+   sopra riportato, questa lista di condizioni e il seguente disconoscimento.
+2. Le ridistribuzioni in formule binarie devono riprodurre la nota di copyright
+   sopra riportata, questa lista di condizioni e il seguente disconoscimento
+   nella documentazione e/o altri materiali forniti con la distribuzione.
+
+Questo software è fornito dal possessore di copyright "così com'è" e qualsiasi
+garanzia espressa o implicita, che includa, ma che non sia limitata a, garanzie
+implicite di commerciabilità e idoneità a scopo particolare, viene
+disconosciuta. In nessun caso il possessore di copyright sarà ritenuto
+responsabile per qualsiasi danno diretto, indiretto, connesso, particolare,
+esemplare o conseguente (includente, ma non limitato a, approvvigionamenti di
+beni o servizi alternativi; perdita di utilità, dati o profitti; interruzione di
+affari) comunque causati e su qualsiasi ipotesi di responsabilità, come da
+contratto, responsabilità oggettiva, o torto (compresa negligenza o altro)
+derivante in qualsiasi modo dall'utilizzo di questo software anche se al
+corrente della possibilità di tale danno.
+-->
+<script src="canti.js"></script>

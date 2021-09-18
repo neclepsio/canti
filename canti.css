@@ -1,0 +1,220 @@
+/* generale */
+
+body {
+    font-family: 'Lato', sans-serif;
+    padding: 16px;
+    touch-action: pan-y;
+    transition: background-color 200ms ease;
+}
+
+body.spiegazione-visibile {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+a:link {
+    color: #00e;
+}
+
+a:visited {
+    color: #00e;
+}
+
+hr {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, 
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0, 0.75), 
+        rgba(0, 0, 0, 0));
+}
+
+
+
+/* immagini */
+
+img {
+    height: 1em;
+    position: relative;
+    margin-right: 0.3em;
+}
+
+img.risposta {
+    top: 0.2em;
+}
+
+img.croce {
+    top: 0.1em;
+}
+
+img.musica {
+    top: 0.2em;
+}
+
+
+
+/* canto */
+
+p {
+    line-height: 150%;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.momento {
+    font-size: 100%; 
+    text-align: center;
+    margin-bottom: -0.8rem;
+}
+
+a[id] {
+    position:relative;
+    top: -1em;
+}
+
+.titolo { 
+    font-weight: bold;
+    font-size: 200%; 
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.ritornello {
+    font-weight: bold;
+    margin-left: 16px;
+}
+
+.grassetto {
+    font-weight: bold;
+}
+
+.bridge {
+    font-style: italic;
+}
+
+/*
+ * Multi colonna su desktop
+ */
+@media all and (min-width: 900px) and (orientation: landscape) {
+    .song {
+        display: flex;
+        flex-flow: column wrap;
+        max-height: calc(100vh - 6rem);
+    }
+}
+
+
+
+/* spiegazione */
+
+.pulsante-spiegazione {
+    float: right;
+    /* l'altezza dello spazio è 3rem: (h1 font-size == 200%) * (p line-height == 150%) */
+    height: 32px;
+    width: 32px;
+    margin-top: calc((3rem - 32px) / 2);
+}
+
+.spiegazione {
+    position: absolute;
+    background-color: white;
+    
+    /*font-style: italic;*/
+    font-size: 100%;
+
+    padding: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    right: 32px;
+    left: 32px;
+    margin-top: 4px;
+    
+    transform: scale(0);
+    transform-origin: top right;
+}
+
+.spiegazione.animate {
+    transition: transform 200ms ease;
+}
+
+.spiegazione.visible {
+    transform: scale(1);
+}
+
+
+
+/* pulsanti zoom */
+
+#buttons {
+    position: fixed;
+    right: 16px;
+    bottom: 16px;
+}
+
+#spacer {
+    height: 48px;
+}
+
+#buttons button {
+    width: 48px;
+    height: 48px;
+    font-size: 32px;
+}
+
+button {
+    margin: 4px;
+    box-shadow: 0 0 8px rgb(0 0 0 / 0.2);
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+
+
+/* banner modalità offline */
+
+#online {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    color: white;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgb(0 0 0 / 0.8);
+    transition: opacity 800ms ease;
+    background-color: rgba(0,0,0, 0.7);
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* 
+ * mostra il banner sulla modalità aereo solo
+ * sui dispositivi mobili, in modo da consentire
+ * l'uso di computer con proiettori (anche se 
+ * non è il formato ideale e sarebbe meglio preparare
+ * una presentazione a parte)
+ */
+@media all and (max-device-width: 900px) {
+    #online.online {
+        opacity: 1;
+    }
+}
+
+#online > div {
+    display: table-row;
+}
+
+#online img {
+    padding: 8px;
+    font-size: 1.5em;
+}
+
+#online span {
+    margin-right: 0px;
+    display: table-cell;
+    vertical-align: middle;
+}
