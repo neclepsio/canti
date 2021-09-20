@@ -15,7 +15,9 @@ Le principali caratteristiche di questo foglietto sono:
   tasto;
 - quando visualizzato su un telefono collegato ad internet, viene visualizzato
   un messaggio che invita a mettere in modalità aereo per evitare distrazioni
-  durante la Messa.
+  durante la Messa;
+- quando visualizzato su un computer con schermo orizzontale i canti vengono
+  visualizzati su più colonne, in modo da poterlo usare per le proiezioni.
 
 Per preparare il tuo foglietto, copia tutti i file di questo repository e
 modifica `canti.html` secondo le istruzioni all'interno del file, aprendolo con
