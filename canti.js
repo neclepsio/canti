@@ -101,6 +101,9 @@ function parseSource() {
             titolo = titolo.replace(/~/g, " ");
             indice += "<a href='#titolo" + n.toString() + "'>" + titolo + "</a><br>\n";
             ultimoMomento = "";
+            if (n == 0) {
+                document.title = titolo;
+            }
             n += 1;
         } else if (line.startsWith("/")) {
             klass = "bridge";
@@ -334,7 +337,7 @@ let header = `<!DOCTYPE html>
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <link href="canti.css" rel="stylesheet">
 
-    <title>Messa</title>
+    <title></title>
 </head>
 <body style="display: none;">
 `;
@@ -358,6 +361,7 @@ let footer = `
 
 function main() {
     let content = parseSource();
+    header = header.replace("<title></title>", "<title>" + document.title + "</title>")
     document.querySelector("html").innerHTML = header + content + footer;
     setEvents();
     handlePopups();
