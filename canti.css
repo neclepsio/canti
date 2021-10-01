@@ -169,6 +169,8 @@ button {
     border: 1px solid #ccc;
     border-radius: 4px;
     font-weight: bold;
+    padding: 0px;
+    color: black;
 }
 
 
