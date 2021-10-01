@@ -160,7 +160,6 @@ a[id] {
     width: 48px;
     height: 48px;
     font-size: 32px;
-    line-height: 48px;
 }
 
 button {
@@ -172,6 +171,10 @@ button {
     font-weight: bold;
     padding: 0px;
     color: black;
+    
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
