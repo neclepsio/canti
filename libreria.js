@@ -301,3 +301,111 @@ la tua gloria brillerà.
 [Sol][]Alle[Fa]luia, [Re-][]alle[La-]luia, [Mi-][]alle[Fa]luia, [Re-][]alle[Sol4]luia.[Sol] (6 volte)
 >Là nei [Do]cieli [Sol/B]e sulla [Fa2/A]terra...
 `;
+
+libreria["ad una voce"] = `
+# {musica} Ad una voce
+
+[F]Con un [A-]cuore solo, [Bb]
+figli [C7]dello stesso [C]Pa[F]dre, [D-7]
+vogliamo [G]vivere Si[Bb7]gno[C]re.
+[F]Con un [A-]cuore solo, [Bb7+]
+figli [C7]dello stesso [D-]Padre, [A-7]
+per ado[G]rare [G-]Te.
+>[D4][]A [D]Te grid[G-]iamo Abbà,[G-7] rendici [C]uno in Te,
+>[F]con il Tuo [A-]Santo Spiri[Bb]to. [D7]
+>A Te grid[G-]iamo Abbà,[G-7] rendici [C]uno in Te, [C7]
+>[F]con il Tuo [A-]Santo Spiri[Bb7+]to. [F7+]
+>Canteremo a [G/B]Te ad una [C4]vo[C7]ce.
+Nel Tuo nome Padre
+facci segno del Tuo amore
+perché il mondo creda in Te.
+Nel Tuo nome Padre
+facci segno del Tuo amore
+per annunciare Te.
+>[D4][]A [D]Te grid[G-]iamo Abbà...
+[G]Con un [B-]cuore solo, [C7+]
+figli [D7]dello stesso [E-]Padre, [B-7]
+per ado[A]rare [A-]Te.
+>[D4][]A [D]Te grid[G-]iamo Abbà...
+[G]Con un [B-]cuore solo,[C7+] con un cuore solo,
+[E-7]con un [B-7]cuore solo,[C7+]
+[G]con un [B-]cuore solo,[C7+] con un cuore solo.[E-7][B-7][D7][G]
+`;
+
+libreria["benedetto tu signore"] = `
+# {musica} Benedetto tu Signore
+
+>Benedetto tu, Signore.
+>Benedetto tu nei secoli.
+>Benedetto tu, Signore.
+
+@DO              FA              DO        FA
+_Prendi da queste mani il pane  che offriamo a te,
+@LA-               em/g        FA     SOL4 SOL
+fanne cibo che porterà la vita tua.
+>Benedetto tu, Signore...
+Prendi da queste mani il vino che offriamo a te,
+fanne linfa che porterà l’eternità.
+
+@SOL         FA            DO          FA
+>Queste nostre offerte, accoglile, Signore,
+@SOL       FA      DO   FA
+>e saranno offerte pure.
+@SOL          FA         DO          FA
+>Questo nostro mondo accogli, o Signore,
+@SOL                     FA
+>e saranno cieli e terre   che tu farai nuovi.
+
+>Benedetto tu, Signore...
+
+@DO              FA          DO        FA
+_Prendi da queste mani il cuore che offriamo a te,
+@LA-             em/g     FA     SOL4 SOL
+fanne dono che porterà la vita tua.
+`;
+
+libreria["lode al nome tuo"] = `
+# {musica} Lode al nome tuo
+
+@*Intro:_prime_due_righe
+@Sol     Re              Mi-       Do
+_Lode al nome tuo, dalle terre più floride,
+@    Sol          Re           Do
+dove tutto sembra vivere, lode al nome tuo.
+@Sol     Re              Mi-        Do
+_Lode al nome tuo, dalle terre più aride,
+@    Sol          Re            Do
+dove tutto sembra sterile, lode al nome tuo.
+
+@Sol         Re            Mi-           Do
+_Tornerò a lodarti sempre, per ogni dono tuo,
+@Sol            Re          Mi-         Do
+_e quando scenderà la notte sempre io dirò:
+@               Sol        Re
+>benedetto è il nome del Signor,
+@             Mi- Do
+>lode al nome tuo.
+@                Sol            Re
+>Benedetto è il nome del Signor,
+@            Mi-       Do
+>il glorioso nome di Gesù.
+@Sol     Re                  Mi-          Do
+_Lode al nome tuo, quando il sole splende su di me,
+@      Sol          Re           Do
+quando tutto è incantevole, lode al nome tuo.
+@Sol     Re               Mi-      Do
+_Lode al nome tuo, quando io sto davanti a te,
+@      Sol            Re            Do
+con il cuore triste e fragile, lode al nome tuo.
+
+@Sol         Re            Mi-           Do
+_Tornerò a lodarti sempre, per ogni dono tuo,
+@Sol            Re          Mi-         Do
+_e quando scenderà la notte sempre io dirò:
+>benedetto è il nome del Signor...
+
+@   Sol          Re      Mi-           Do
+>Tu doni e porti via, tu doni e porti via,
+@   Sol           Re    Mi-      Do
+>ma sempre sceglierò di benedire te. (2 volte)
+`;
