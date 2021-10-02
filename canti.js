@@ -10,8 +10,16 @@ Vuoi realizzare una pagina simile a questa? {github}.
 `;
 
 function parseSource() {
-    let p = document.querySelector("#contenuto");
-    let lines = (contentHeader + p.textContent + contentFooter).split("\n");
+    let text = document.querySelector("#contenuto").textContent;
+    
+    text = text.replace(/^[ \t]*\{(.*)\}/gm, function(match, p1) {
+        if (p1 in libreria) {
+            return libreria[p1].trim();
+        }
+        return match;
+    })
+    
+    let lines = (contentHeader + text + contentFooter).split("\n");
     let lastKlass = "";
     let lastSezione = "";
     let emptyLine = false;
