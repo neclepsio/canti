@@ -404,8 +404,43 @@ _Tornerò a lodarti sempre, per ogni dono tuo,
 _e quando scenderà la notte sempre io dirò:
 >benedetto è il nome del Signor...
 
-@   Sol          Re      Mi-           Do
+@   Sol          ;Re      Mi-           Do
 >Tu doni e porti via, tu doni e porti via,
 @   Sol           Re    Mi-      Do
 >ma sempre sceglierò di benedire te. (2 volte)
+`;
+
+libreria["tu sei santo tu sei re"] = `
+# {musica} Tu sei santo tu sei re
+
+@C *                       G/B
+>  Tu sei santo tu sei re,
+@                        A-7
+>Tu sei santo tu sei re,
+@                        F
+>Tu sei santo tu sei re.
+
+>Tu sei santo tu sei re,
+>Tu sei santo tu sei re,
+>Tu sei santo tu sei re.
+
+Lo confesso con il cuor
+lo professo a te Signor,
+quando canto lode a te
+
+sempre io ti cercherò,
+tu sei tutto ciò che ho,
+oggi io ritorno a te.
+
+Io mi getto in te Signor,
+stretto fra le braccia tue
+voglio vivere con te
+
+@C                        G/B
+__e ricevo il tuo perdono
+@                 E/G# A-7
+__la dolcezza del tuo amor,
+@                   F
+tu non mi abbandoni mai, Gesù.
+>*
 `;

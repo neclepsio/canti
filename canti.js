@@ -24,6 +24,7 @@ function parseSource() {
     let lastSezione = "";
     let emptyLine = false;
     let prevLine = "";
+    let lastRitornello = "";
 
     let res = "";
 
@@ -112,6 +113,7 @@ function parseSource() {
             if (n == 0) {
                 document.title = titolo;
             }
+            lastRitornello = "";
             n += 1;
         } else if (line.startsWith("/")) {
             klass = "bridge";
@@ -120,7 +122,14 @@ function parseSource() {
         } else if (line.startsWith(">")) {
             klass = "ritornello";
             sezione = "song";
-            line = line.substr(1);
+            if (line == ">*" && lastRitornello != "") {
+                line = lastRitornello;
+            } else {
+                line = line.substr(1);
+            }
+            if (lastRitornello == "") {
+                lastRitornello = line.replace(/[\.,;:]*$/, "...");
+            }
         } else {
             klass = "strofa";
             sezione = "song";
