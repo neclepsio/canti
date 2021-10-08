@@ -1,33 +1,19 @@
-# {musica} Apri i miei occhi
+#{musica} Apri i miei occhi
 
-@*Intro: E2 E *(4_volte)
-@E2
 >Apri i miei occhi Signore,
-@B4/D#
 >aprimi gli occhi del cuor:
-@         A2/C#               E2
 >voglio vederti, voglio vederti! (2 volte)
-@       B            C#-
 Vederti splendere, Signor,
-@A                    B4
-_nella luce della Tua gloria.
-@B                C#-
-_Ricolmi del Tuo amor
-@          F#-    A      B4
+nella luce della Tua gloria.
+Ricolmi del Tuo amor
 cantiamo: "Santo, Santo, Santo".
 
-@E2                   B4/D#
-_Santo, Santo, Santo! Santo, Santo, Santo!
-@A2/C#                         E2
-_Santo, Santo, Santo, voglio vederti! (2 volte)
-@E2
+Santo, Santo, Santo! Santo, Santo, Santo!
+Santo, Santo, Santo, voglio vederti! (2 volte)
 
 >Apri i miei occhi Signore, (Santo, Santo, Santo!)
-@B4/D#
 >aprimi gli occhi del cuor: (Santo, Santo, Santo!)
-@A2/C#
 >voglio vederti, (Santo, Santo, Santo!)
-@E2
 >voglio vederti! (2 volte)
 
 
@@ -47,40 +33,40 @@ Kyrie eleison, Christe eleison.
 
 #{musica} Gloria nell'alto dei cieli
 
->G[Fa]loria, g[Sib]loria a Dio[Re-7].[Do]
->Gloria, glori[Fa]a nell’alt[Sib]o dei cieli.[Re-7][Do]
->[Fa]Pace in te[Sib]rra agli uomin[Re-7]i[Do]
+>Gloria, gloria a Dio.
+>Gloria, gloria nell’alto dei cieli.
+>Pace in terra agli uomini
 >amati dal Signor.
->[Fa/mib]Glo[Sib/re][Fa]ria!
+>Gloria!
 
-Noi [Sib]ti lo[Fa/la]diamo, [Sol-7]ti benedi[Fa]ciamo,
-ti[Sib] adori[Fa/la]amo, glori[Mib]fichiamo te,[Fa]
-[Sib]ti rend[Fa/la]iamo gra[Sol-7]zie per la tua i[Fa]mmensa
-[Mib]glor[Do4]ia.[Do]
+Noi ti lodiamo, ti benediciamo,
+ti adoriamo, glorifichiamo te,
+ti rendiamo grazie per la tua immensa
+gloria.
 
 Signore Dio, gloria! 
 Re del cielo, gloria!
-Dio Padre, Dio onnipotente, glor[Mib]ia![Do][Sol-/sib][Mib][Do]
+Dio Padre, Dio onnipotente, gloria!
 
->G[Fa]loria, g[Sib]loria a Dio[Re-7]...
+>Gloria, gloria a Dio...
 
-Si[Fa]gnore, Figlio unigenito,[Mib/fa] Gesù Cri[Sib/fa]sto,[Fa]
+Signore, Figlio unigenito, Gesù Cristo,
 Signore, Agnello di Dio, Figlio del Padre.
 Tu che togli i peccati del mondo,
 abbi pietà di noi;
 tu che togli i peccati del mondo,
 accogli la nostra supplica;
 tu che siedi alla destra del Padre,
-[Sib/fa]abbi pietà di noi[Do4].[Do]
+abbi pietà di noi.
 
->G[Fa]loria, g[Sib]loria a Dio[Re-7]...
+>Gloria, gloria a Dio...
 
 Perché, tu solo, il Santo il Signore,
 tu solo l’Altissimo, Cristo Gesù
 con lo Spirito Santo nella gloria
 del Padre.
 
->G[Fa]loria, g[Sib]loria a Dio[Re-7]...
+>Gloria, gloria a Dio...
 
 
 
@@ -98,29 +84,17 @@ e camminerò con te nella fedeltà.
 
 
 
-# {musica} Il nosto cuore offriamo a te
+#{musica} Il nosto cuore offriamo a te
 
-@G B- C G/B F4+ F D4 D
+Con il pane e con il vino
+noi ti offriamo la vita,
+dalle mani del tuo servo
+prendi, o Padre, il nostro dono.
 
-@SOL    SI-  DO *        SOL4 SOL
-_Con il pane    e con il vi___no
-@MI-      SOL/b     DO
-_noi ti offriamo la vita,
-@SOL   RE/f#    DO/E *   SOL/B
-_dalle mani del      tuo servo
-@DO        SOL/B            FA  RE  D4
-_prendi, o Padre, il nostro do__no.
-
-@          SOL     RE/F#    MI- DO
 >Il nostro cuore offriamo a te,
-@            SOL/B DO *        RE/F# DO/E
->su questo altare     lo presentiamo,
-@RE        SOL4 SOL   SI/D#    MI- DO
->il nostro cuo__re  è pieno di te,
-@            G4 G  RE4 *    RE    DO  SOL
->su questo alta_re     lo accoglierai.
-
-@G b- c g/b f4+ f d4 d
+>su questo altare lo presentiamo,
+>il nostro cuore è pieno di te,
+>su questo altare lo accoglierai.
 
 Della terra portiamo il frutto
 che tu accogli, Signore,
@@ -136,98 +110,64 @@ qui riuniti nel tuo nome
 
 >Il nostro cuore offriamo a te...
 
-@DO/e      RE/f#  SOL/b   DO
 /Veniamo a te con voci di lode,
-@c/e     RE/f#   SOL/b    DO
 /il tuo amore ci trasformerà,
-@DO/e       RE/F# FA4+   F *  SOL/d  d d4
-/offriamo a te il cuore,   la vita.
+/offriamo a te il cuore, la vita.
 
 >Il nostro cuore offriamo a te...
 
 
 
-# {musica} Santo [gen verde]
+#{musica} Santo [Gen Verde]
 
-[*Intro: primo rigo]
-@d  g   d  g   d a d
->Santo, santo, sa__nto.
-@d  g   d  g   d a d
->Santo, santo, sa__nto.
+>Santo, santo, santo.
+>Santo, santo, santo.
 
-@  g                d
 Il Signore Dio dell'universo,
-@  g                d
 il Signore Dio dell'universo,
-@ g          d
 i cieli e la Terra
-@    a               d
 sono pieni della tua gloria.
 
-@ g      d           a        d
-_Osanna, osanna nell'alto dei cieli.
-@ g      d           a        d
-_Osanna, osanna nell'alto dei cieli.
+Osanna, osanna nell'alto dei cieli.
+Osanna, osanna nell'alto dei cieli.
 
-@d  g   d  g   d a d
->Santo, santo, sa__nto.
-@d  g   d  g   d a d
->Santo, santo, sa__nto.
+>Santo, santo, santo.
+>Santo, santo, santo.
 
-@   g               d
 Benedetto colui che viene
-@ g          d
 nel nome del Signore.
-@   g               d
 Benedetto colui che viene
-@   a          d
 nel nome del Signore.
 
-@ g      d           a        d
-_Osanna, osanna nell'alto dei cieli.
-@ g      d           a        d
-_Osanna, osanna nell'alto dei cieli.
+Osanna, osanna nell'alto dei cieli.
+Osanna, osanna nell'alto dei cieli.
 
-@d  g   d  g   d a d
->Santo, santo, sa__nto.
-@d  g   d  g   d a d
->Santo, santo, sa__nto.
+>Santo, santo, santo.
+>Santo, santo, santo.
 
 
 
-# {musica} Con~questo~pane, con~questo~vino
+#{musica} Con~questo~pane, con~questo~vino
 
-@         DO-          Fa-           Reb7+
 In questo pane noi riceviamo il vero corpo
-@        DO-  Lab           Sib-          Mib4  Mib/G
-del Salvatore     che si fa cibo per tutti noi.
-@           Lab  Sib-7/Db
+del Salvatore che si fa cibo per tutti noi.
 >Con questo pane,
-@           Lab/C Reb7+
 >con questo vino,
-@       Fa-
 >Gesù Signore
-@  Mib             Reb7+ Reb6
 >dimora in mezzo a noi,
-@        DO- Lab
->è la salvez_za
-@  Sib-     Mib  Lab
+>è la salvezza
 >offerta ad ogni uomo.
-@*Intermezzo C-7 F- Bb- Eb Ab
-@         DO-          Fa-           Reb7+
 In questo vino noi riceviamo il vero sangue
-@        DO-  Lab               Sib-      Mib4  Mib/G
-dell'alleanza     che è bevanda per tutti noi.
+dell'alleanza che è bevanda per tutti noi.
 >Con questo pane...
-@         DO-          Fa-           Reb7+
 Su questa mensa noi celebriamo il sacrificio
-@        DO-  Lab           Sib-           Mib4  Mib/G
-del Redentore     che ci consacra nel suo amore.
+del Redentore che ci consacra nel suo amore.
 >Con questo pane...
 
 
 
-# {musica} Parla al mio cuore
+#{musica} Parla al mio cuore
+
 ? Quando il profeta Elia fuggì dall’Oreb, si rifugiò in una caverna sul monte \
 Carmelo. <<Ci fu un vento impetuoso e gagliardo da spaccare i monti e spezzare \
 le rocce davanti al Signore, ma il Signore non era nel vento. Dopo il vento, \
@@ -238,23 +178,22 @@ fermò all'ingresso della caverna.>>
 ? Il Signore infatti era nella brezza: è nel silenzio che il Lui parla al \
 nostro cuore, come una brezza leggera.
 
-[a][f#-][d][b-][a]
-[A]Parla al mio cuore o Signore,
-nel silenzio più in[f#-]tenso ti riconoscerò,
-e una brezza so[d]ave accarezza il mio cuo[b-]re,
-solo tu sei per sem[d7+]pre, e sei per sempre con [esus4]me, ti cerco.
+Parla al mio cuore o Signore,
+nel silenzio più intenso ti riconoscerò,
+e una brezza soave accarezza il mio cuore,
+solo tu sei per sempre, e sei per sempre con me, ti cerco.
 
 Parla al mio cuore o Signore,
 nella notte più buia io t'incontrerò,
 tu sei luce del mondo, sole senza tramonto,
 sei sorgente di vita scaturita per me, per me.
 
->[a]Guardo te Signore, [d7+][]guardi me,
->tu da [f#-]sempre mi conosci,
->nel pro[esus4]fondo mi guarisci.
->[a/c#]Vivo del tuo amore, [e/g#]vivi in me,
->voce e[f#-]terna che mi chiama,
->pre[d(2)]senza che perdona.
+>Guardo te Signore, guardi me,
+>tu da sempre mi conosci,
+>nel profondo mi guarisci.
+>Vivo del tuo amore, vivi in me,
+>voce eterna che mi chiama,
+>presenza che perdona.
 
 Parla al mio cuore o Signore,
 nel silenzio più intenso la tua voce udirò,
@@ -266,155 +205,125 @@ nella notte più lunga io t'invocherò,
 tu sei luce del mondo, sole senza tramonto,
 misericordia infinita, riversata in me, in me.
 
->[a]Guardo te Signore...
+>Guardo te Signore...
 
-/[f#-]Parla al mio cuo[D7+]re.
-/[a]Parla al mio cuo[e/g#]re.
-/[f#-]Parla al mio cuo[D6(2)]re.
-/[a]Parla al mio cuo[e]re.
+/Parla al mio cuore.
+/Parla al mio cuore.
+/Parla al mio cuore.
+/Parla al mio cuore.
 
->[a]Guardo te Signore...
+>Guardo te Signore...
 
-[a]Parla al mio cuore Gesù, io ti ascolto.
+Parla al mio cuore Gesù, io ti ascolto.
 
 
 
-# {musica} Ascolta la nostra lode
+#{musica} Ascolta la nostra lode
 
-[Do][]Danze[Do4]remo nel tuo [Do]nome, [G/B]
-[La-][]per le stra[Fa]de esulte[Sol4]remo,
-[Do][]costrui[Do4]remo la tua [Do]pace, [G/B]
-[La-][]che ogni uo[Fa]mo invochi [Sol4]Dio.
->Là nei [Do]cieli [Sol/B]e sulla [Fa2/A]terra
->questo [La-7]canto [Mi-7]giunge[Fa]rà,[Sol4]
->là sui [Do]monti [Sol/B]e per le [Fa2/A]valli
->questa [La-7]lode [Mi-7]corre[Fa]rà.[Sol4][Do][Do4][Do][Do4]
+Danzeremo nel tuo nome, 
+per le strade esulteremo,
+costruiremo la tua pace, 
+che ogni uomo invochi Dio.
+>Là nei cieli e sulla terra
+>questo canto giungerà,
+>là sui monti e per le valli
+>questa lode correrà.
 Splenderemo nella fede
 camminando insieme o te,
 dalla Croce che ci guida
 la tua gloria brillerà.
->Là nei [Do]cieli [Sol/B]e sulla [Fa2/A]terra...
-[Fa][Re-][La-][Mi-][Fa][Re-][Sol4]
-[Sol][]Alle[Fa]luia, [Re-][]alle[La-]luia, [Mi-][]alle[Fa]luia, [Re-][]alle[Sol4]luia.[Sol] (6 volte)
->Là nei [Do]cieli [Sol/B]e sulla [Fa2/A]terra...
+>Là nei cieli e sulla terra...
+
+Alleluia, alleluia, alleluia, alleluia. (6 volte)
+>Là nei cieli e sulla terra...
 
 
 
-# {musica} Ad una voce
+#{musica} Ad una voce
 
-[F]Con un [A-]cuore solo, [Bb]
-figli [C7]dello stesso [C]Pa[F]dre, [D-7]
-vogliamo [G]vivere Si[Bb7]gno[C]re.
-[F]Con un [A-]cuore solo, [Bb7+]
-figli [C7]dello stesso [D-]Padre, [A-7]
-per ado[G]rare [G-]Te.
->[D4][]A [D]Te grid[G-]iamo Abbà,[G-7] rendici [C]uno in Te,
->[F]con il Tuo [A-]Santo Spiri[Bb]to. [D7]
->A Te grid[G-]iamo Abbà,[G-7] rendici [C]uno in Te, [C7]
->[F]con il Tuo [A-]Santo Spiri[Bb7+]to. [F7+]
->Canteremo a [G/B]Te ad una [C4]vo[C7]ce.
+Con un cuore solo, 
+figli dello stesso Padre, 
+vogliamo vivere Signore.
+Con un cuore solo, 
+figli dello stesso Padre, 
+per adorare Te.
+>A Te gridiamo Abbà, rendici uno in Te,
+>con il Tuo Santo Spirito. 
+>A Te gridiamo Abbà, rendici uno in Te, 
+>con il Tuo Santo Spirito. 
+>Canteremo a Te ad una voce.
 Nel Tuo nome Padre
 facci segno del Tuo amore
 perché il mondo creda in Te.
 Nel Tuo nome Padre
 facci segno del Tuo amore
 per annunciare Te.
->[D4][]A [D]Te grid[G-]iamo Abbà...
-[G]Con un [B-]cuore solo, [C7+]
-figli [D7]dello stesso [E-]Padre, [B-7]
-per ado[A]rare [A-]Te.
->[D4][]A [D]Te grid[G-]iamo Abbà...
-[G]Con un [B-]cuore solo,[C7+] con un cuore solo,
-[E-7]con un [B-7]cuore solo,[C7+]
-[G]con un [B-]cuore solo,[C7+] con un cuore solo.[E-7][B-7][D7][G]
+>A Te gridiamo Abbà...
+Con un cuore solo, 
+figli dello stesso Padre, 
+per adorare Te.
+>A Te gridiamo Abbà...
+Con un cuore solo, con un cuore solo,
+con un cuore solo,
+con un cuore solo, con un cuore solo.
 
 
 
-# {musica} Benedetto tu Signore
+#{musica} Benedetto tu Signore
 
 >Benedetto tu, Signore.
 >Benedetto tu nei secoli.
 >Benedetto tu, Signore.
 
-@DO              FA              DO        FA
-_Prendi da queste mani il pane  che offriamo a te,
-@LA-               em/g        FA     SOL4 SOL
+Prendi da queste mani il pane che offriamo a te,
 fanne cibo che porterà la vita tua.
 >Benedetto tu, Signore...
 Prendi da queste mani il vino che offriamo a te,
 fanne linfa che porterà l’eternità.
 
-@SOL         FA            DO          FA
 >Queste nostre offerte, accoglile, Signore,
-@SOL       FA      DO   FA
 >e saranno offerte pure.
-@SOL          FA         DO          FA
 >Questo nostro mondo accogli, o Signore,
-@SOL                     FA
->e saranno cieli e terre   che tu farai nuovi.
+>e saranno cieli e terre che tu farai nuovi.
 
 >Benedetto tu, Signore...
 
-@DO              FA          DO        FA
-_Prendi da queste mani il cuore che offriamo a te,
-@LA-             em/g     FA     SOL4 SOL
+Prendi da queste mani il cuore che offriamo a te,
 fanne dono che porterà la vita tua.
 
 
 
-# {musica} Lode al nome tuo
+#{musica} Lode al nome tuo
 
-@*Intro:_prime_due_righe
-@Sol     Re              Mi-       Do
-_Lode al nome tuo, dalle terre più floride,
-@    Sol          Re           Do
+Lode al nome tuo, dalle terre più floride,
 dove tutto sembra vivere, lode al nome tuo.
-@Sol     Re              Mi-        Do
-_Lode al nome tuo, dalle terre più aride,
-@    Sol          Re            Do
+Lode al nome tuo, dalle terre più aride,
 dove tutto sembra sterile, lode al nome tuo.
 
-@Sol         Re            Mi-           Do
-_Tornerò a lodarti sempre, per ogni dono tuo,
-@Sol            Re          Mi-         Do
-_e quando scenderà la notte sempre io dirò:
-@               Sol        Re
+Tornerò a lodarti sempre, per ogni dono tuo,
+e quando scenderà la notte sempre io dirò:
 >benedetto è il nome del Signor,
-@             Mi- Do
 >lode al nome tuo.
-@                Sol            Re
 >Benedetto è il nome del Signor,
-@            Mi-       Do
 >il glorioso nome di Gesù.
-@Sol     Re                  Mi-          Do
-_Lode al nome tuo, quando il sole splende su di me,
-@      Sol          Re           Do
+Lode al nome tuo, quando il sole splende su di me,
 quando tutto è incantevole, lode al nome tuo.
-@Sol     Re               Mi-      Do
-_Lode al nome tuo, quando io sto davanti a te,
-@      Sol            Re            Do
+Lode al nome tuo, quando io sto davanti a te,
 con il cuore triste e fragile, lode al nome tuo.
 
-@Sol         Re            Mi-           Do
-_Tornerò a lodarti sempre, per ogni dono tuo,
-@Sol            Re          Mi-         Do
-_e quando scenderà la notte sempre io dirò:
+Tornerò a lodarti sempre, per ogni dono tuo,
+e quando scenderà la notte sempre io dirò:
 >benedetto è il nome del Signor...
 
-@   Sol          ;Re      Mi-           Do
 >Tu doni e porti via, tu doni e porti via,
-@   Sol           Re    Mi-      Do
 >ma sempre sceglierò di benedire te. (2 volte)
 
 
 
-# {musica} Tu sei santo tu sei re
+#{musica} Tu sei santo tu sei re
 
-@C *                       G/B
->  Tu sei santo tu sei re,
-@                        A-7
+> Tu sei santo tu sei re,
 >Tu sei santo tu sei re,
-@                        F
 >Tu sei santo tu sei re.
 
 >Tu sei santo tu sei re,
@@ -433,11 +342,8 @@ Io mi getto in te Signor,
 stretto fra le braccia tue
 voglio vivere con te
 
-@C                        G/B
-__e ricevo il tuo perdono
-@                 E/G# A-7
-__la dolcezza del tuo amor,
-@                   F
+e ricevo il tuo perdono
+la dolcezza del tuo amor,
 tu non mi abbandoni mai, Gesù.
 >*
 
@@ -473,36 +379,119 @@ Amen.
 
 
 
-# {musica} Agnello di Dio
+#{musica} Agnello di Dio
 
-^-4
-[*Intro:][E]
-#[B][A][*(x3)][A][B][A][B]
-A[E]gnello di Dio che [C#-]togli i peccati del [A]mondo,
-[F#-]abbi pie[A]tà di [B4]no[B]i.
-A[E]gnello di Dio che [C#-]togli i peccati del [A]mondo,
-[F#-]abbi pie[F#]tà di [B4]no[B7]i.
-A[G#-]gnello di Dio che [C#-]togli i peccati del [A]mondo,
-[F#-]dona a [B4]no[B]i la [A-]pa[A-/C][E]ce.[B]
+Agnello di Dio che togli i peccati del mondo,
+abbi pietà di noi.
+Agnello di Dio che togli i peccati del mondo,
+abbi pietà di noi.
+Agnello di Dio che togli i peccati del mondo,
+dona a noi la pace.
 
 
 
-# {musica} Serviremo il Signore
+#{musica} Serviremo il Signore
 
-[*Intro:][A-][E-/G][F][C/E][D-][A-/C][B-7b5][E5+][E7]
-Mi hai chia[A-]mato per [G2/B]nome, mi hai do[E7/G#]nato la [A-]vita,
-crea[F]tore del [C2/E]mondo, Dio di e[D-]terna bon[E7]tà.
-Tu sei il [A-]mio Si[G]gnore, il mio [E7]unico [A-]bene,
-la mia [F]anima e[C]sulta per [Bb]te.[F/A][E4][E]
->Quanto a [A-]me e alla mia [E-/G]casa
->servi[F7+]remo il Nome [C2/E]tuo,
->la tua [D-]voce o Si[A-/C]gnore ascolte[B-7b5]remo.[E7]
->Quanto a [A-]me e alla mia [E-/G]casa
->servi[F7+]remo il Nome [C2/E]tuo,
->ed il [D-]cuore volge[A-/C]remo a te Si[Bb]gnor,[F/A][G4]
->per l'e[G]terni[C]tà.
+Mi hai chiamato per nome, mi hai donato la vita,
+creatore del mondo, Dio di eterna bontà.
+Tu sei il mio Signore, il mio unico bene,
+la mia anima esulta per te.
+>Quanto a me e alla mia casa
+>serviremo il Nome tuo,
+>la tua voce o Signore ascolteremo.
+>Quanto a me e alla mia casa
+>serviremo il Nome tuo,
+>ed il cuore volgeremo a te Signor,
+>per l'eternità.
 Mi hai donato il tuo spirito, hai guarito il mio cuore,
 salvatore potente, mi hai plasmato per te.
 Di te solo parlerò, Dio d'amore e di pace,
 la mia anima esulta per te.
+>*
+
+
+
+# Gloria a Dio
+
+>Gloria a Dio nell'alto dei cieli
+>e pace in terra agli uomini che egli ama. (2 volte)
+Noi ti lodiamo, ti benediciamo, ti adoriamo, ti glorifichiamo,
+ti rendiamo grazie per la tua im mensa gloria.
+Signore Dio, re del cielo, Dio Padre onnipotente,
+Figlio unigenito, Cristo Gesù.
+>* (1 volta)
+Signore Dio, Agnello di Dio, Figlio del Padre onnipotente
+tu che togli i peccati del mondo abbi pietà di noi.
+Tu che togli i peccati del mondo
+accogli benigno la nostra preghiera.
+Tu che siedi alla destra del Padre abbi pietà di noi.
+>* (1 volta)
+Tu solo il Santo, tu solo il Signore,
+tu solo l'Altissimo, Gesù Cristo.
+Con lo Spirito Santo nella gloria del Padre.
+>* (2 volte)
+
+
+#{musica} Tu sei la perla preziosa
+
+Tu sei la perla pre ziosa
+che alla mia vita da va lo re.
+Per te lascio ogni cosa
+e seguo te o mio Si gno re.
+>Voglio se guirti Si gnore 
+>per ché hai se dotto il mio cuo re 
+>voglio obbe dirti mae stro,
+>il tuo vo lere con gioia fa rò. 
+>Voglio se guirti Si gnore 
+>per ché hai se dotto il mio cuo re
+>voglio obbe dirti mae stro,
+>il tuo vo lere con gioia fa rò. 
+Tu sei il tesoro più grande,
+la vera fonte dell’a more, 
+per te vendo ogni bene
+e ti pro clamo mio Si gno re.
+>*
+
+
+# Abbracciami
+
+Gesù parola viva e vera,
+sorgente che disseta e cura ogni ferita,
+ferma su di me i tuoi occhi,
+la tua mano stendi e donami la vita.
+>Abbracciami Dio dell’eternità,
+>rifugio dell'anima,
+>grazia che opera,
+>riscaldami fuoco che libera,
+>manda il tuo Spirito
+>maranatha Gesù.
+Gesù asciuga il nostro pianto,
+leone vincitore della tribù di Giuda,
+vieni nella tua potenza,
+questo cuore sciogli con ogni sua paura.
+>*
+Per sempre io canterò la tua immensa fedeltà,
+il tuo Spirito in me in eterno ti loderà.
+Per sempre io canterò la tua immensa fedeltà,
+il tuo Spirito in me in eterno ti loderà.
+>*
+
+
+#{musica} Lodate il Signore
+
+Lodate il Signore dei cieli. Lodate angeli suoi.
+Lodate voi tutte sue schiere la sua maestà.
+Lodate da tutta la terra. Lodate popoli suoi.
+Lodate giovani e vecchi la sua bontà.
+>Cantate al Signore un cantico nuovo,
+>sia onore al re,
+>sia gloria a Dio che siede sul trono.
+>Risuoni la lode, la benedizione al Signor
+>che era e che è che sempre sarà.
+>Alleluia, alleluia.
+Gioiscano nel creatore. Esultino i figli di Sion.
+Danzino facciano festa al loro Dio.
+Lodino il nome del Padre.
+Con timpani inneggino a lui.
+Cieli e terra si prostrino al re dei re.
 >*

@@ -123,8 +123,8 @@ function parseSource() {
         } else if (line.startsWith(">")) {
             klass = "ritornello";
             sezione = "song";
-            if (line == ">*" && lastRitornello != "") {
-                line = lastRitornello;
+            if (line.startsWith(">*") && lastRitornello != "") {
+                line = lastRitornello + line.substr(2);
             } else {
                 line = line.substr(1);
             }
