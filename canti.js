@@ -318,7 +318,20 @@ function setEvents() {
 function handlePopups() {
     let spiegazioni = document.getElementsByClassName("spiegazione");
     for (let spiegazione of spiegazioni) {
-        let titolo = spiegazione.previousElementSibling;
+        let titolo = spiegazione;
+        while (titolo != null && !titolo.classList.contains("titolo")) {
+            titolo = titolo.nextElementSibling;
+        }
+        if (titolo == null) {
+            titolo = spiegazione;
+            while (titolo != null && !titolo.classList.contains("titolo")) {
+                titolo = titolo.previousElementSibling;
+            }
+        }
+        if (titolo == null) {
+            titolo = spiegazione;
+        }
+
         let button = document.createElement("button");
         button.classList.add("pulsante-spiegazione");
         button.textContent = "?";
