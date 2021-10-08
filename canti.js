@@ -12,9 +12,10 @@ Vuoi realizzare una pagina simile a questa? {github}.
 function parseSource() {
     let text = document.querySelector("#contenuto").textContent;
     
-    text = text.replace(/^[ \t]*\{(.*)\}/gm, function(match, p1) {
+    text = text.replace(/^[ \t]*\{[ \t]*(.*)[ \t]*\}/gm, function(match, p1) {
+        p1 = p1.toLowerCase();
         if (p1 in libreria) {
-            return libreria[p1].trim();
+            return libreria[p1];
         }
         return match;
     })
@@ -358,6 +359,29 @@ function handlePopups() {
     }, true);
 }
 
+
+let libreria = null;
+function leggiLibreria() {
+    libreria = {};
+    let src = document.querySelector("#libreria").contentDocument.body.textContent;
+
+    let key = "";
+    for (let line of src.split("\n")) {
+        line = line.trim();
+
+        if (line.startsWith("#")) {
+            key = line.replace(/\{.*?\}/g, "").replace(/~/g, " ").substr(1).trim().toLowerCase();
+        }
+        if (!(key in libreria)) {
+            libreria[key] = [];
+        }
+        libreria[key].push(line);
+    }
+    for (let key in libreria) {
+        libreria[key] = libreria[key].join("\n").trim()
+    }
+}
+
 let header = `<!DOCTYPE html>
 <html>
 <head>
@@ -390,6 +414,7 @@ let footer = `
 </html>`;
 
 function main() {
+    leggiLibreria();
     let content = parseSource();
     header = header.replace("<title></title>", "<title>" + document.title + "</title>")
     document.querySelector("html").innerHTML = header + content + footer;
@@ -410,4 +435,6 @@ function main() {
     });
 }
 
-main();
+document.querySelector("#libreria").addEventListener("load", function() {
+    main();
+});

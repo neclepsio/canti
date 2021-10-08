@@ -1,6 +1,3 @@
-let libreria = {};
-
-libreria["apri i miei occhi"] = `
 # {musica} Apri i miei occhi
 
 @*Intro: E2 E *(4_volte)
@@ -32,9 +29,9 @@ _Santo, Santo, Santo, voglio vederti! (2 volte)
 >voglio vederti, (Santo, Santo, Santo!)
 @E2
 >voglio vederti! (2 volte)
-`;
 
-libreria["kyrie eleison"] = `
+
+
 #{musica} Kyrie Eleison
 
 Kyrie eleison, Christe eleison.
@@ -45,9 +42,9 @@ Signore pietà, Cristo pietà.
 
 Kyrie eleison, Christe eleison.
 Kyrie eleison, Christe eleison.
-`;
 
-libreria["gloria nell'alto dei cieli"] = `
+
+
 #{musica} Gloria nell'alto dei cieli
 
 >G[Fa]loria, g[Sib]loria a Dio[Re-7].[Do]
@@ -84,9 +81,9 @@ con lo Spirito Santo nella gloria
 del Padre.
 
 >G[Fa]loria, g[Sib]loria a Dio[Re-7]...
-`;
 
-libreria["uno spirito nuovo"] = `
+
+
 #{musica} Uno spirito nuovo
 
 Ringrazio te Signore per questo immenso amore,
@@ -98,9 +95,9 @@ e camminerò con te nella fedeltà.
 >con acqua viva mi purificherai.
 >Poni in me la tua legge Signore,
 >sul mio cuore la scriverai.
-`;
 
-libreria["il nostro cuore offriamo a te"] = `
+
+
 # {musica} Il nosto cuore offriamo a te
 
 @G B- C G/B F4+ F D4 D
@@ -147,10 +144,10 @@ qui riuniti nel tuo nome
 /offriamo a te il cuore,   la vita.
 
 >Il nostro cuore offriamo a te...
-`;
 
-libreria["santo gen verde"] = `
-# {musica} Santo
+
+
+# {musica} Santo [gen verde]
 
 [*Intro: primo rigo]
 @d  g   d  g   d a d
@@ -195,9 +192,9 @@ _Osanna, osanna nell'alto dei cieli.
 >Santo, santo, sa__nto.
 @d  g   d  g   d a d
 >Santo, santo, sa__nto.
-`;
 
-libreria["con questo pane con questo vino"] = `
+
+
 # {musica} Con~questo~pane, con~questo~vino
 
 @         DO-          Fa-           Reb7+
@@ -227,9 +224,9 @@ Su questa mensa noi celebriamo il sacrificio
 @        DO-  Lab           Sib-           Mib4  Mib/G
 del Redentore     che ci consacra nel suo amore.
 >Con questo pane...
-`;
 
-libreria["parla al mio cuore"] = `
+
+
 # {musica} Parla al mio cuore
 ? Quando il profeta Elia fuggì dall’Oreb, si rifugiò in una caverna sul monte \
 Carmelo. <<Ci fu un vento impetuoso e gagliardo da spaccare i monti e spezzare \
@@ -279,9 +276,9 @@ misericordia infinita, riversata in me, in me.
 >[a]Guardo te Signore...
 
 [a]Parla al mio cuore Gesù, io ti ascolto.
-`;
 
-libreria["ascolta la nostra lode"] = `
+
+
 # {musica} Ascolta la nostra lode
 
 [Do][]Danze[Do4]remo nel tuo [Do]nome, [G/B]
@@ -300,9 +297,9 @@ la tua gloria brillerà.
 [Fa][Re-][La-][Mi-][Fa][Re-][Sol4]
 [Sol][]Alle[Fa]luia, [Re-][]alle[La-]luia, [Mi-][]alle[Fa]luia, [Re-][]alle[Sol4]luia.[Sol] (6 volte)
 >Là nei [Do]cieli [Sol/B]e sulla [Fa2/A]terra...
-`;
 
-libreria["ad una voce"] = `
+
+
 # {musica} Ad una voce
 
 [F]Con un [A-]cuore solo, [Bb]
@@ -330,9 +327,9 @@ per ado[A]rare [A-]Te.
 [G]Con un [B-]cuore solo,[C7+] con un cuore solo,
 [E-7]con un [B-7]cuore solo,[C7+]
 [G]con un [B-]cuore solo,[C7+] con un cuore solo.[E-7][B-7][D7][G]
-`;
 
-libreria["benedetto tu signore"] = `
+
+
 # {musica} Benedetto tu Signore
 
 >Benedetto tu, Signore.
@@ -362,9 +359,9 @@ fanne linfa che porterà l’eternità.
 _Prendi da queste mani il cuore che offriamo a te,
 @LA-             em/g     FA     SOL4 SOL
 fanne dono che porterà la vita tua.
-`;
 
-libreria["lode al nome tuo"] = `
+
+
 # {musica} Lode al nome tuo
 
 @*Intro:_prime_due_righe
@@ -408,9 +405,9 @@ _e quando scenderà la notte sempre io dirò:
 >Tu doni e porti via, tu doni e porti via,
 @   Sol           Re    Mi-      Do
 >ma sempre sceglierò di benedire te. (2 volte)
-`;
 
-libreria["tu sei santo tu sei re"] = `
+
+
 # {musica} Tu sei santo tu sei re
 
 @C *                       G/B
@@ -443,4 +440,69 @@ __la dolcezza del tuo amor,
 @                   F
 tu non mi abbandoni mai, Gesù.
 >*
-`;
+
+
+
+# Supplica alla Madonna di Campitelli
+
+Vergine Santissima, per la tua materna
+intecessione, tante volte da noi invocata
+davanti a questa immagine, il tuo Figlio Gesù
+ha esaudito le nostre preghiere,
+mostrandoci il suo braccio potente
+e misericordioso.
+
+Guarda con tenerezza, o Maria,
+le anime nostre, le nostre famiglie,
+questa Città e questa Nazione
+e fa' che sperimentiamo la forza e la dolcezza
+della tua carità materna.
+
+Per i meriti di Cristo, vero Dio e vero uomo,
+allontana da noi la malattia,
+la fame, la guerra, l'ingiustizia sociale,
+donaci l'abbondanza delle tue grazie
+e guidaci al porto della salvezza.
+
+Fa' di noi, o Maria, un popolo santo e devoto.
+Fa' che, rivolgendoci a te come Madre di Dio,
+possiamo godere il tuo amore qui in terra
+e la tua gloria nei cieli.
+
+Amen.
+
+
+
+# {musica} Agnello di Dio
+
+^-4
+[*Intro:][E]
+#[B][A][*(x3)][A][B][A][B]
+A[E]gnello di Dio che [C#-]togli i peccati del [A]mondo,
+[F#-]abbi pie[A]tà di [B4]no[B]i.
+A[E]gnello di Dio che [C#-]togli i peccati del [A]mondo,
+[F#-]abbi pie[F#]tà di [B4]no[B7]i.
+A[G#-]gnello di Dio che [C#-]togli i peccati del [A]mondo,
+[F#-]dona a [B4]no[B]i la [A-]pa[A-/C][E]ce.[B]
+
+
+
+# {musica} Serviremo il Signore
+
+[*Intro:][A-][E-/G][F][C/E][D-][A-/C][B-7b5][E5+][E7]
+Mi hai chia[A-]mato per [G2/B]nome, mi hai do[E7/G#]nato la [A-]vita,
+crea[F]tore del [C2/E]mondo, Dio di e[D-]terna bon[E7]tà.
+Tu sei il [A-]mio Si[G]gnore, il mio [E7]unico [A-]bene,
+la mia [F]anima e[C]sulta per [Bb]te.[F/A][E4][E]
+>Quanto a [A-]me e alla mia [E-/G]casa
+>servi[F7+]remo il Nome [C2/E]tuo,
+>la tua [D-]voce o Si[A-/C]gnore ascolte[B-7b5]remo.[E7]
+>Quanto a [A-]me e alla mia [E-/G]casa
+>servi[F7+]remo il Nome [C2/E]tuo,
+>ed il [D-]cuore volge[A-/C]remo a te Si[Bb]gnor,[F/A][G4]
+>per l'e[G]terni[C]tà.
+Mi hai donato il tuo spirito, hai guarito il mio cuore,
+salvatore potente, mi hai plasmato per te.
+Di te solo parlerò, Dio d'amore e di pace,
+la mia anima esulta per te.
+>*

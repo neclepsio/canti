@@ -67,12 +67,14 @@ spazio, è utile per dividere le letture su più righe non imponendo un'andata
 a capo nel risultato finale. In alternativa, i paragrafi possono essere 
 scritti tutti su una singola riga.
 
-Se preferisci, è possibile definire una libreria nel file "libreria.js", usando:
-    libreria["chiave"] = `...testo...`;
-I testi possono essere poi richiamati con "{chiave}" all'inizio della riga. È 
-necessario che la definizione della libreria e della chiave siano precisi,
-anche tra maiuscole e minuscole: in caso contrario verrà inserito il testo
-"{chiave}".
+Se preferisci, è possibile definire una libreria nel file "libreria.txt", 
+inserendo le varie sezioni. Per richiamare un elemento della libreria, usare
+"{titolo}". Il titolo definito nella riga che inizia con "#" viene ripulito
+di eventuali immagini. Per distinguere più elementi con lo stesso titolo,
+si può usare del testo tra [parentesi quadre], che verrà poi eliminato in fase
+di preparazione.
+Se vengono inseriti più elementi con lo stesso titolo, i relativi testi
+saranno accodati. 
 
 Ricorda di leggere la licenza in fondo a questo file.
 --><script id="contenuto" type="none">
@@ -218,7 +220,7 @@ eterna nel tempo che verrà».
 --------------------------------------------------------------------------------
 
 @. Santo
-{santo gen verde}
+{santo [gen verde]}
 
 --------------------------------------------------------------------------------
 
@@ -244,16 +246,7 @@ eterna nel tempo che verrà».
 
 {indice}
 </script>
-<script type="text/javascript">
-  let libreria = {};
-  onerror = function(msg, url, line_no) {
-    console.error("Error: " + msg + "\n" + 
-      "URL: " + url + "\n" +
-      "Line: " + line_no + "\n"); 
-    return true;
-  }
-</script>
-<script src="libreria.js"></script>
+<iframe id="libreria" src="libreria.txt" style="display: none;"></iframe>
 <script src="canti.js"></script>
 <!--
 Copyright (c) 2021 Ignazio Di Napoli
