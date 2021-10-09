@@ -432,25 +432,27 @@ Con lo Spirito Santo nella gloria del Padre.
 >* (2 volte)
 
 
+
 #{musica} Tu sei la perla preziosa
 
-Tu sei la perla pre ziosa
-che alla mia vita da va lo re.
+Tu sei la perla preziosa
+che alla mia vita da valore.
 Per te lascio ogni cosa
-e seguo te o mio Si gno re.
->Voglio se guirti Si gnore 
->per ché hai se dotto il mio cuo re 
->voglio obbe dirti mae stro,
->il tuo vo lere con gioia fa rò. 
->Voglio se guirti Si gnore 
->per ché hai se dotto il mio cuo re
->voglio obbe dirti mae stro,
->il tuo vo lere con gioia fa rò. 
+e seguo te o mio Signore.
+>Voglio seguirti Signore 
+>perché hai sedotto il mio cuore 
+>voglio obbedirti maestro,
+>il tuo volere con gioia farò. 
+>Voglio seguirti Signore 
+>perché hai sedotto il mio cuore
+>voglio obbedirti maestro,
+>il tuo volere con gioia farò. 
 Tu sei il tesoro più grande,
-la vera fonte dell’a more, 
+la vera fonte dell’amore, 
 per te vendo ogni bene
-e ti pro clamo mio Si gno re.
+e ti proclamo mio Signore.
 >*
+
 
 
 # Abbracciami
@@ -477,6 +479,7 @@ il tuo Spirito in me in eterno ti loderà.
 >*
 
 
+
 #{musica} Lodate il Signore
 
 Lodate il Signore dei cieli. Lodate angeli suoi.
@@ -494,4 +497,18 @@ Danzino facciano festa al loro Dio.
 Lodino il nome del Padre.
 Con timpani inneggino a lui.
 Cieli e terra si prostrino al re dei re.
+>*
+
+
+
+#{musica} Santo [Bonfitto]
+
+Santo, santo, santo il Signore
+Dio dell'universo.
+I cieli e la terra
+sono pieni della tua gloria.
+>Osanna, osanna, osanna
+>nell'alto dei cieli.
+Benedetto colui che viene
+nel nome del Signore.
 >*
