@@ -93,6 +93,14 @@ a[id] {
     font-style: italic;
 }
 
+p.debug {
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    padding: 12px;
+    border-radius: 4px;
+}
+
 /* multi colonna su desktop */
 @media all and (min-width: 900px) and (orientation: landscape) {
     .song {

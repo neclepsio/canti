@@ -17,6 +17,13 @@ function parseSource() {
         if (p1 in libreria) {
             return libreria[p1];
         }
+        if (" indice croce risposta musica ".indexOf(" "+p1+" ") >= 0) {
+            return match;
+        }
+        if (debug) {
+            alertAndLog("Impossibile trovare \"" + p1 + "\" nella libreria.");
+            return "% " + match;
+        }
         return match;
     })
     
@@ -130,6 +137,14 @@ function parseSource() {
             }
             if (lastRitornello == "") {
                 lastRitornello = line.replace(/[\.,;:]*$/, "...");
+            }
+        } else if (line.startsWith("%")) {
+            if (debug) {
+                klass = "debug";
+                sezione = "debug";
+                line = line.substr(1);
+            } else {
+                continue;
             }
         } else {
             klass = "strofa";
@@ -308,7 +323,7 @@ function setEvents() {
 
     setInterval(function() {
         let online = document.getElementById("online");
-        if (navigator.onLine) {
+        if (navigator.onLine && !debug) {
             online.classList.add("online");
         } else {
             online.classList.remove("online");
@@ -413,7 +428,25 @@ let footer = `
 </body>
 </html>`;
 
+function alertAndLog(err) {
+    console.log(err);
+    alert(err);
+}
+
+let debug = false;
+
 function main() {
+    debug = ((new URL(window.location)).searchParams.get("debug") != null);
+    if (debug) {
+        onerror = function(errorMsg, url, lineNumber) {
+            alertAndLog(errorMsg + "\n" +
+                "Url: " + url + "\n" +
+                "Line: " + lineNumber);
+          
+            return false;
+        };
+    }
+
     leggiLibreria();
     let content = parseSource();
     header = header.replace("<title></title>", "<title>" + document.title + "</title>")
