@@ -17,7 +17,7 @@ function parseSource() {
         if (p1 in libreria) {
             return libreria[p1];
         }
-        if (" indice croce risposta musica ".indexOf(" "+p1+" ") >= 0) {
+        if (" indice croce risposta musica github ".indexOf(" "+p1+" ") >= 0) {
             return match;
         }
         if (debug) {
@@ -214,6 +214,9 @@ function parseSource() {
 }
 
 function setZoomGestureHandler (handler) {
+    const minDoubleTapTimeOut = 50;
+    const maxDoubleTapTimeOut = 300;
+
     let el = document.body;
 
     let doubleTapTimeDown = 0;
@@ -236,7 +239,7 @@ function setZoomGestureHandler (handler) {
     }
 
     el.addEventListener("touchstart", function(ev) {
-        // dovrebbe controllare a[href] e click handler piuttosto
+        // dovrebbe controllare a[href] e click handler piuttosto,
         // idealmente anche se c'è una spiegazione aperta
         let ignoreElement = ev.target.tagName == "BUTTON" || ev.target.tagName == "A";
         if (ignoreElement) {
@@ -244,7 +247,8 @@ function setZoomGestureHandler (handler) {
         }
 
         doubleTapTimeDown = timeStamp();
-        doubleTapZoom = (doubleTapFirstTap && doubleTapTimeDown - doubleTapTimeUp < 300 && touchNearStart(ev));
+        let delta = doubleTapTimeDown - doubleTapTimeUp;
+        doubleTapZoom = (doubleTapFirstTap && delta > minDoubleTapTimeOut && delta < maxDoubleTapTimeOut && touchNearStart(ev));
         if (doubleTapZoom) {
             handler(-1);
             ev.preventDefault();
@@ -281,7 +285,8 @@ function setZoomGestureHandler (handler) {
         doubleTapTimeUp = timeStamp();
         doubleTapZoom = false;
 
-        if (doubleTapTimeDown > 0 && doubleTapTimeUp - doubleTapTimeDown < 300) {
+        let delta = doubleTapTimeUp - doubleTapTimeDown;
+        if (doubleTapTimeDown > 0 && delta > minDoubleTapTimeOut && delta < maxDoubleTapTimeOut) {
             doubleTapFirstTap = true;
         } else {
             doubleTapFirstTap = false;
