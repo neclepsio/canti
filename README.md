@@ -6,6 +6,9 @@ Copyright (c), 2021 Ignazio Di Napoli
 In seguito alla richiesta di come realizzare un "foglietto" per i canti sul
 cellulare, ho realizzato questa pagina in modo che sia facile da modificare. 
 
+Puoi vedere un esempio su [https://neclepsio.github.io/campitelli/canti.html]
+(neclepsio.github.io/campitelli/canti.html).
+
 Le principali caratteristiche di questo foglietto sono:
 - il testo è facile da modificare, con un modo semplice di gestire gli stili;
 - è possibile modificare lo zoom tramite pulsanti, usando due dita oppure con
@@ -24,9 +27,9 @@ modifica `canti.html` secondo le istruzioni all'interno del file, aprendolo con
 un editor di testo (come ad esempio Blocco Note). Visualizzalo poi nel browser.
 
 Per pubblicare il risultato potresti, per esempio, usare [GitHub
-Pages](https://pages.github.com/), che è gratuito ma in inglese. Suggerisco
-anche di usare [Bitly](https://www.bitly.com) per accorciare l'indirizzo e
-comunicarlo più facilmente.
+Pages](https://pages.github.com/), che è gratuito ma ha l'interfaccia in 
+inglese. Suggerisco anche di usare [Bitly](https://www.bitly.com) per accorciare 
+l'indirizzo e comunicarlo più facilmente.
 
 Non dimenticare di leggere la licenza.
 
