@@ -6,6 +6,8 @@ Copyright (c), 2021 Ignazio Di Napoli
 In seguito alla richiesta di come realizzare un "foglietto" per i canti sul
 cellulare, ho realizzato questa pagina in modo che sia facile da modificare. 
 
+<p align="center"><img src="screenshot.png" width="50%"></p>
+
 Puoi vedere un esempio su [neclepsio.github.io/campitelli/canti.html](https://neclepsio.github.io/campitelli/canti.html).
 
 Le principali caratteristiche di questo foglietto sono:
