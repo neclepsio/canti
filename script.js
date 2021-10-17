@@ -407,6 +407,16 @@ function leggiLibreria() {
     return res;
 }
 
+function setLetture() {
+    for (let song of document.querySelectorAll("#contenuto .song")) {
+        if (song.clientWidth > document.body.clientWidth / 2) {
+            song.classList.add("lettura");
+        } else {
+            song.classList.remove("lettura");
+        }
+    }
+}
+
 function main() {
     debug = ((new URL(window.location)).searchParams.get("debug") != null);
     if (debug) {
@@ -420,9 +430,14 @@ function main() {
     }
 
     libreriaCanti = leggiLibreria(libreria);
-    document.querySelector("#contenuto").innerHTML = parseSource(canti);
+    let contenuto = parseSource(canti);
+    document.querySelector("#contenuto").innerHTML = contenuto;
+
     setEvents();
     handlePopups();
     document.body.style.display = null;
+    setLetture();
+
+    window.addEventListener("resize", setLetture);
 }
 document.addEventListener("DOMContentLoaded", main);
