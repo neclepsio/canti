@@ -56,6 +56,11 @@ img.musica {
 
 /* canto */
 
+
+.song {
+    display: inline-block;
+}
+
 p {
     line-height: 150%;
     margin-top: 0;
@@ -101,12 +106,16 @@ p.debug {
     border-radius: 4px;
 }
 
+
+
 /* multi colonna su desktop */
 @media all and (min-width: 900px) and (orientation: landscape) {
-    .song {
+    .song:not(.lettura) {
         display: flex;
         flex-flow: column wrap;
-        max-height: calc(100vh - 6rem);
+        max-height: calc(100vh - 5rem);
+        max-width: 100%;
+        column-gap: 32px;
     }
 }
 
