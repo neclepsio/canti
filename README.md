@@ -24,8 +24,8 @@ Le principali caratteristiche di questo foglietto sono:
   visualizzati su più colonne, in modo da poterlo usare per le proiezioni.
 
 Per preparare il tuo foglietto, copia tutti i file di questo repository e
-modifica `canti.html` secondo le istruzioni all'interno del file, aprendolo con
-un editor di testo (come ad esempio Blocco Note). Visualizzalo poi nel browser.
+segui le istruzioni all'interno del file `guida.txt`. Visualizza poi `canti.html`
+nel browser.
 
 Per pubblicare il risultato potresti, per esempio, usare [GitHub
 Pages](https://pages.github.com/), che è gratuito ma ha l'interfaccia in 

@@ -1,21 +1,27 @@
-let contentHeader = ``;
+let debug = false;
+let libreriaCanti = null;
+
+const contentHeader = ``;
 
 // Per rispettare la licenza, se modifichi il footer predefinito è necessario
 // trovare un altro modo di rispettare il criterio di attribuzione.
-let contentFooter = `
+const contentFooter = `
 
 --------------------------------------------------------------------------------
 
 Vuoi realizzare una pagina simile a questa? {github}.
 `;
 
-function parseSource() {
-    let text = document.querySelector("#contenuto").textContent;
-    
+function alertAndLog(err) {
+    console.log(err);
+    alert(err);
+}
+
+function parseSource(text) {
     text = text.replace(/^[ \t]*\{[ \t]*(.*)[ \t]*\}/gm, function(match, p1) {
         p1 = p1.toLowerCase();
-        if (p1 in libreria) {
-            return libreria[p1];
+        if (p1 in libreriaCanti) {
+            return libreriaCanti[p1];
         }
         if (" indice croce risposta musica github ".indexOf(" "+p1+" ") >= 0) {
             return match;
@@ -379,66 +385,27 @@ function handlePopups() {
     }, true);
 }
 
-
-let libreria = null;
 function leggiLibreria() {
-    libreria = {};
-    let src = document.querySelector("#libreria").contentDocument.body.textContent;
+    let res = {};
 
     let key = "";
-    for (let line of src.split("\n")) {
+    for (let line of libreria.split("\n")) {
         line = line.trim();
 
         if (line.startsWith("#")) {
             key = line.replace(/\{.*?\}/g, "").replace(/~/g, " ").substr(1).trim().toLowerCase();
         }
-        if (!(key in libreria)) {
-            libreria[key] = [];
+        if (!(key in res)) {
+            res[key] = [];
         }
-        libreria[key].push(line);
+        res[key].push(line);
     }
-    for (let key in libreria) {
-        libreria[key] = libreria[key].join("\n").trim()
+    for (let key in res) {
+        res[key] = res[key].join("\n").trim()
     }
+
+    return res;
 }
-
-let header = `<!DOCTYPE html>
-<html>
-<head>
-	<meta name="viewport" content="width=device-width, user-scalable=no" />
-    <meta charset="utf8"> 
-
-    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-    <link href="canti.css" rel="stylesheet">
-
-    <title></title>
-</head>
-<body style="display: none;">
-`;
-
-let footer = `
-    <div id="online">
-        <div>
-            <span><img src="aereo.svg"></span>
-            <span>Attiva la modalità aereo usando il menu del 
-            tuo telefono. In questo modo eviterai distrazioni 
-            durante la Messa e nasconderai questo messaggio.</span>
-        </div>
-    </div>
-    <div id="spacer"></div>
-    <div id="buttons">
-        <button id="zoomMinus">&#x2212;</button>
-        <button id="zoomPlus">&#x002b;</button>
-    </div>
-</body>
-</html>`;
-
-function alertAndLog(err) {
-    console.log(err);
-    alert(err);
-}
-
-let debug = false;
 
 function main() {
     debug = ((new URL(window.location)).searchParams.get("debug") != null);
@@ -447,32 +414,15 @@ function main() {
             alertAndLog(errorMsg + "\n" +
                 "Url: " + url + "\n" +
                 "Line: " + lineNumber);
-          
+        
             return false;
         };
     }
 
-    leggiLibreria();
-    let content = parseSource();
-    header = header.replace("<title></title>", "<title>" + document.title + "</title>")
-    document.querySelector("html").innerHTML = header + content + footer;
+    libreriaCanti = leggiLibreria(libreria);
+    document.querySelector("#contenuto").innerHTML = parseSource(canti);
     setEvents();
     handlePopups();
-    document.addEventListener("readystatechange", function() {
-        if (document.readyState != "complete") {
-            return;
-        }
-        
-        // non so perché, viene aggiunto un secondo body un po' dopo
-        // aver sostituito (html).innerHTML
-        while (document.getElementsByTagName("body").length > 1) {
-            document.getElementsByTagName("body")[1].remove();
-        }
-
-        document.body.style.display = "block";
-    });
+    document.body.style.display = null;
 }
-
-document.querySelector("#libreria").addEventListener("load", function() {
-    main();
-});
+document.addEventListener("DOMContentLoaded", main);

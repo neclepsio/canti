@@ -1,3 +1,4 @@
+let libreria = `
 #{musica} Apri i miei occhi
 
 >Apri i miei occhi Signore,
@@ -529,3 +530,4 @@ _Alla tua presenza,
 _alla tua presenza,
 per sempre insieme a te
 _Gesù.____
+`
