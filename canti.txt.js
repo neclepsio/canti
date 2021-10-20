@@ -142,7 +142,7 @@ Allora Gesù gli disse: «Che cosa vuoi che io faccia per te?». E il cieco gli 
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{serviremo il signore}
+{il nostro cuore offriamo a te}
 
 --------------------------------------------------------------------------------
 
@@ -156,7 +156,7 @@ Allora Gesù gli disse: «Che cosa vuoi che io faccia per te?». E il cieco gli 
 --------------------------------------------------------------------------------
 
 . Comunione
-{ora i miei occhi ti vedono}
+{voglio vedere il tuo volto}
 
 --------------------------------------------------------------------------------
 

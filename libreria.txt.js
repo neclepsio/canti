@@ -85,7 +85,7 @@ e camminerò con te nella fedeltà.
 
 
 
-#{musica} Il nosto cuore offriamo a te
+#{musica} Il nostro cuore offriamo~a~te
 
 Con il pane e con il vino
 noi ti offriamo la vita,
@@ -412,7 +412,7 @@ la mia anima esulta per te.
 
 
 
-# Gloria a Dio
+#{musica} Gloria a Dio
 
 >Gloria a Dio nell'alto dei cieli
 >e pace in terra agli uomini che egli ama. (2 volte)
@@ -530,4 +530,20 @@ _Alla tua presenza,
 _alla tua presenza,
 per sempre insieme a te
 _Gesù.____
+
+
+#{musica} Voglio vedere il tuo volto
+
+La mia preghiera voglio innalzare a te che sei il mio Signor,
+tu tanto atteso da tutte le genti ora sei qui in mezzo a noi.
+>Nel tuo santo tempio
+>innalzo le mie mani verso te Gesù,
+>apri i miei occhi, Signore.
+>Nel tuo santo tempio
+>innalzo le mie mani verso te Gesù,
+>apri i miei occhi, Signore,
+>voglio vedere il tuo volto.
+Guida i miei passi con la tua luce, voglio seguirti Signor,
+tocca il mio cuore e le mie labbra per annunciare il tuo amor.
+>*
 `
