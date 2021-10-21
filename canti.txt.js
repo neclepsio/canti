@@ -156,7 +156,8 @@ Allora Gesù gli disse: «Che cosa vuoi che io faccia per te?». E il cieco gli 
 --------------------------------------------------------------------------------
 
 . Comunione
-{voglio vedere il tuo volto}
+%{voglio vedere il tuo volto}
+{ora i miei occhi ti vedono}
 
 --------------------------------------------------------------------------------
 

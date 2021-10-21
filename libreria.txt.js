@@ -546,4 +546,23 @@ tu tanto atteso da tutte le genti ora sei qui in mezzo a noi.
 Guida i miei passi con la tua luce, voglio seguirti Signor,
 tocca il mio cuore e le mie labbra per annunciare il tuo amor.
 >*
+
+
+
+#{musica} Ora i miei occhi ti vedono
+
+Sento in me la tua presenza,
+il tuo grande amore che mi consola, 
+il male più non mi colpirà, adesso che tu vivi in me. 
+>Ora i miei occhi ti vedono
+>e la mia bocca proclama
+>che tu sei il Signore, il salvatore.
+>Ora i miei occhi ti vedono
+>e la mia bocca innalza
+>un canto di lode a te,
+>che sei il mio re, il mio Signore.
+Sento in me la tua presenza,
+la tua immensa grazia che mi da forza.
+Suo tuoi sentieri camminerò, adesso che tu vivi in me.
+>*
 `
