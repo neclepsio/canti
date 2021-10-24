@@ -26,6 +26,9 @@ function parseSource(text) {
         if (" indice croce risposta musica github ".indexOf(" "+p1+" ") >= 0) {
             return match;
         }
+        if (p1.startsWith("media ")) {
+            return match;
+        }
         if (debug) {
             alertAndLog("Impossibile trovare \"" + p1 + "\" nella libreria.");
             return "% " + match;
@@ -212,6 +215,12 @@ function parseSource(text) {
         let r = new RegExp("\\{" + k + "\\}", "g");
         res = res.replace(r, '<img class="' + k + '" src="' + k + '.svg">');
     }
+    
+    // media
+    res = res.replace(/\{media (.*?)\}/, function(match, p1) {
+        return '<img class="youtube" src="youtube.svg" data-link="' + p1 + '">';
+    })
+    // TODO aggiungere link funzionante, nascondere in modalità aereo
 
     // github
     res = res.replace(/\{github\}/g, `<a href="https://github.com/neclepsio/canti">Tocca&nbsp;qui</a>`);
