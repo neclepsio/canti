@@ -502,7 +502,7 @@ Cieli e terra si prostrino al re dei re.
 
 
 
-#{musica} Santo [Bonfitto] {media https://www.youtube.com/watch?v=wsZ-pfFF67E&t=23s}
+#{musica} Santo [Bonfitto] {media https://www.youtube.com/watch?v=4KPeGWzGx6A}
 
 Santo, santo, santo il Signore
 Dio dell'universo.
@@ -612,4 +612,54 @@ tu sei il mio Signor.
 
 >*
 >Amo te.
+
+
+
+#{musica} Nelle tue mani {media https://www.youtube.com/watch?v=p6KDJXzVDTQ}
+
+_Nelle tue mani affido la vita,
+_Dio, mia salvezza sei tu.
+_volgi lo sguardo al mio cuore,
+con Te al sicuro sarò.
+>Padre del cielo, per il tuo nome vivrò;
+>un sacrificio con la mia lode io ti offrirò
+>per tutto ciò che sempre mi dai.
+>Padre del cielo, per il tuo nome vivrò,
+>scruta il mio cuore e la mia lode io ti offrirò,
+>per tutto ciò che sempre mi donerai
+>o Dio di ogni bontà.
+Nelle tue mani è la mia vita,
+Dio, mia speranza sei tu,
+Donami pace, o Signore,
+con te al sicuro vivrò.
+>*
+
+
+#{musica} Resta qui con noi {media https://www.youtube.com/watch?v=PUFlAzyWMY4}
+
+Le ombre si distendono, scende ormai la sera
+_e s'allontanano dietro i monti
+i riflessi di un giorno che non finirà,
+di un giorno che ora correrà sempre
+perché sappiamo che una nuova vita
+da qui è partita e mai più si fermerà.
+>Resta qui con noi, il sole scende già,
+>resta qui con noi, Signore è sera ormai.
+>Resta qui con noi, il sole scende già,
+>se tu sei fra noi, la notte non verrà!
+S'allarga verso il mare il tuo cerchio d'onda
+che il vento spingerà fino a quando
+giungerà ai confini d'ogni cuore,
+alle porte dell'amore vero;
+come una fiamma che dove passa brucia,
+così il Tuo amore
+tutto il mondo invaderà.
+>*
+Davanti a noi l'umanità lotta, soffre e spera
+come una terra che nell'arsura
+chiede l'acqua da un cielo senza nuvole,
+ma che sempre le può dare vita.
+Con te saremo sorgente d'acqua pura
+con te fra noi il deserto fiorirà.
+>*
 `

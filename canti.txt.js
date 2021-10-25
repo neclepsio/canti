@@ -4,7 +4,15 @@ let canti = `
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 
-/ Bisogna considerare lo scriba del passo del Vangelo di Marco con grande benevolenza. Spesso Gesù accusa gli scribi di interessarsi più ai giochi di parole che non ai veri mali dei loro fratelli. Ma nulla di tutto ciò in questo brano. Ecco un uomo che cerca di conoscere. È un uomo alla ricerca di Dio, un uomo che vuole sapere come potere raggiungere Dio con sicurezza. Questo significa la sua domanda su quale sia il comandamento più importante. Gesù gli risponde in modo relativamente prevedibile, ma che va all’essenziale. Da tutta la Legge, ricava il solo comandamento che dà lo spirito della Legge stessa. Questo comandamento è divenuto una preghiera (Dt 6,4-5) che bisogna avere sempre nel proprio cuore, nella propria mente, nelle proprie mani e nella propria casa. Gesù vi aggiunge la necessità di metterlo in pratica, mediante quell’amore per il prossimo che permette a ciascuno di verificare se ama davvero Dio (1Gv 4,20). Lo scriba allora, felice di essere riconfortato nella propria fede, si felicita con Gesù. Ecco l’uomo che si complimenta con Dio, l’uomo che è contento di ritrovarsi in accordo con Dio. Non è commovente questo vecchio saggio che si complimenta con il giovane Rabbì, senza nemmeno sospettare che è con Dio stesso che si complimenta? Gesù ne è commosso. Accoglie con gioia l’osservazione di quest’uomo che è un vero credente, senza risparmio (Gv 1,47). Allora, gli apre il regno. Gesù risponde alle sue lodi con un’osservazione che ciascuno di noi vorrebbe sentirsi fare. Conferma lo scriba nella sua fede e, dandogli una garanzia come non ce ne sono altre, lo rassicura che non si sta sbagliando. 
+/ Bisogna considerare lo scriba del passo del Vangelo di Marco con grande benevolenza. Spesso Gesù accusa gli scribi di interessarsi più ai giochi di parole che non ai veri mali dei loro fratelli. Ma nulla di tutto ciò in questo brano. Ecco un uomo che cerca di conoscere. È un uomo alla ricerca di Dio, un uomo che vuole sapere come potere raggiungere Dio con sicurezza. Questo significa la sua domanda su quale sia il comandamento più importante. 
+
+/Gesù gli risponde in modo relativamente prevedibile, ma che va all’essenziale. Da tutta la Legge, ricava il solo comandamento che dà lo spirito della Legge stessa. Questo comandamento è divenuto una preghiera (Dt 6,4-5) che bisogna avere sempre nel proprio cuore, nella propria mente, nelle proprie mani e nella propria casa. 
+
+/Gesù vi aggiunge la necessità di metterlo in pratica, mediante quell’amore per il prossimo che permette a ciascuno di verificare se ama davvero Dio (1Gv 4,20). 
+
+/Lo scriba allora, felice di essere riconfortato nella propria fede, si felicita con Gesù. Ecco l’uomo che si complimenta con Dio, l’uomo che è contento di ritrovarsi in accordo con Dio. Non è commovente questo vecchio saggio che si complimenta con il giovane Rabbì, senza nemmeno sospettare che è con Dio stesso che si complimenta? Gesù ne è commosso. Accoglie con gioia l’osservazione di quest’uomo che è un vero credente, senza risparmio (Gv 1,47). 
+
+/Allora, gli apre il regno. Gesù risponde alle sue lodi con un’osservazione che ciascuno di noi vorrebbe sentirsi fare. Conferma lo scriba nella sua fede e, dandogli una garanzia come non ce ne sono altre, lo rassicura che non si sta sbagliando. 
 
 {indice}
 
@@ -112,7 +120,7 @@ Vedendo che egli aveva risposto saggiamente, Gesù gli disse: «Non sei lontano 
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{il nostro cuore offriamo a te}
+{nelle tue mani}
 
 --------------------------------------------------------------------------------
 
@@ -140,7 +148,7 @@ Vedendo che egli aveva risposto saggiamente, Gesù gli disse: «Non sei lontano 
 @--------------------------------------------------------------------------------
 
 . Canto finale
-{lode al nome tuo}
+{resta qui con noi}
 
 --------------------------------------------------------------------------------
 
