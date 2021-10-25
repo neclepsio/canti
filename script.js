@@ -19,6 +19,7 @@ function alertAndLog(err) {
 
 function parseSource(text) {
     let links = [];
+    text = text.replace(/^@.*?\n/gm, "");
     text = text.replace(/\{[ \t]*(.*?)[ \t]*\}/gm, function(match, p1) {
         let p1l = p1.toLowerCase();
         if (p1l in libreriaCanti) {
@@ -71,9 +72,6 @@ function parseSource(text) {
         }
 
         // eliminazione accordi
-        if (line[0] == "@") {
-            continue;
-        }
         line = line.replace(/\\\[/g, "\uE000");
         line = line.replace(/\[.*?\]/g, "");
         line = line.replace(/_/g, "");
