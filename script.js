@@ -27,17 +27,21 @@ function parseSource(text) {
         if (" indice croce risposta musica github ".indexOf(" "+p1l+" ") >= 0) {
             return match;
         }
-        if (p1.startsWith("media ")) {
-            // in questo modo evito i problemi con underscore e smart punctuation
-            links.push(p1.split(/ +/, 2)[1]); 
-            return "{media " + (links.length-1).toString() + "}";
+        if (p1l.startsWith("media ")) {
+            return match;
         }
         if (debug) {
             alertAndLog("Impossibile trovare \"" + p1 + "\" nella libreria.");
             return "% " + match;
         }
         return match;
-    })
+    });
+    // lo faccio due volte per gestire i tag media nella libreria
+    text = text.replace(/\{[ \t]*media +(.*?)[ \t]*\}/gm, function(match, p1) {
+        // in questo modo evito i problemi con underscore e smart punctuation
+        links.push(p1); 
+        return "{media " + (links.length-1).toString() + "}";
+    });
     
     let lines = (contentHeader + text + contentFooter).split("\n");
     let lastKlass = "";
@@ -220,7 +224,7 @@ function parseSource(text) {
     }
     
     // media
-    res = res.replace(/\{media (.*?)\}/, function(match, p1) {
+    res = res.replace(/\{media (.*?)\}/g, function(match, p1) {
         var link = links[parseInt(p1)];
         return '<img class="media" src="youtube.svg" data-link="' + link + '">';
     })

@@ -1,5 +1,5 @@
 let libreria = `
-#{musica} Apri i miei occhi
+#{musica} Apri i miei occhi {media https://www.youtube.com/watch?v=Qf_xvOnb-P0}
 
 >Apri i miei occhi Signore,
 >aprimi gli occhi del cuor:
@@ -19,7 +19,7 @@ Santo, Santo, Santo, voglio vederti! (2 volte)
 
 
 
-#{musica} Kyrie Eleison
+#{musica} Kyrie Eleison {media https://www.youtube.com/watch?v=bBIIFzQWXjk}
 
 Kyrie eleison, Christe eleison.
 Kyrie eleison, Christe eleison.
@@ -85,7 +85,7 @@ e camminerò con te nella fedeltà.
 
 
 
-#{musica} Il nostro cuore offriamo~a~te
+#{musica} Il nostro cuore offriamo~a~te {media https://www.youtube.com/watch?v=DJhhcQ5LGWY}
 
 Con il pane e con il vino
 noi ti offriamo la vita,
@@ -294,7 +294,7 @@ fanne dono che porterà la vita tua.
 
 
 
-#{musica} Lode al nome tuo
+#{musica} Lode al nome tuo {media https://www.youtube.com/watch?v=fsdt3_akU_0}
 
 Lode al nome tuo, dalle terre più floride,
 dove tutto sembra vivere, lode al nome tuo.
@@ -321,7 +321,7 @@ e quando scenderà la notte sempre io dirò:
 
 
 
-#{musica} Tu sei santo tu sei re
+#{musica} Tu sei santo tu sei re {media https://www.youtube.com/watch?v=-EtAY6ADJzo}
 
 > Tu sei santo tu sei re,
 >Tu sei santo tu sei re,
@@ -380,7 +380,7 @@ Amen.
 
 
 
-#{musica} Agnello di Dio
+#{musica} Agnello di Dio {media https://www.youtube.com/watch?v=rJpWsljFZRE}
 
 Agnello di Dio che togli i peccati del mondo,
 abbi pietà di noi.
@@ -412,7 +412,7 @@ la mia anima esulta per te.
 
 
 
-#{musica} Gloria a Dio
+#{musica} Gloria a Dio [Mariano] {media https://www.youtube.com/watch?v=KewJv-uYGLk}
 
 >Gloria a Dio nell'alto dei cieli
 >e pace in terra agli uomini che egli ama. (2 volte)
@@ -502,7 +502,7 @@ Cieli e terra si prostrino al re dei re.
 
 
 
-#{musica} Santo [Bonfitto]
+#{musica} Santo [Bonfitto] {media https://www.youtube.com/watch?v=wsZ-pfFF67E&t=23s}
 
 Santo, santo, santo il Signore
 Dio dell'universo.
@@ -565,4 +565,51 @@ Sento in me la tua presenza,
 la tua immensa grazia che mi da forza.
 Suo tuoi sentieri camminerò, adesso che tu vivi in me.
 >*
+
+
+
+#{musica} Shêmá Israel {media https://www.youtube.com/watch?v=Woz9FXApoLk}
+
+Shêmá Israel Adonai elohenu, Adonai ehad.
+Shêmá Israel Adonai elohenu, Adonai ehad.
+Shêmá Israel Adonai elohenu, Adonai ehad.
+Shêmá Israel Adonai elohenu, Adonai ehad.
+
+Ascolta Israele il Signore è nostro Dio, uno è il Signor.
+Ascolta Israele il Signore è nostro Dio, uno è il Signor.
+Ascolta Israele il Signore è nostro Dio, uno è il Signor.
+Ascolta Israele il Signore è nostro Dio, uno è il Signor.
+
+
+
+#{musica} Io ti amo {media https://www.youtube.com/watch?v=XPrvaRfWLz4}
+
+_Mh, mh, mh, _mh.
+_Io ti amo, io ti amo, amo te, Signor.
+
+Signore tu mi scruti e mi conosci,
+intendi da lontano i miei pensieri,
+proteggi sempre il mio cammino e il mio riposo,
+tu sei il mio Signor.
+
+>Io ti amo, io ti amo, amo te, Signor.
+>Io ti amo, io ti amo, amo te, Signor.
+
+_Mh, mh, mh, _mh.
+
+
+Sei tu che mi hai creato nel segreto,
+nel seno di mia madre mi hai formato,
+adesso vedo che tu hai fatto di me un prodigio,
+tu sei il mio Signor.
+
+>*
+
+/Tu leggi nel mio cuore, sai cosa c'è,
+/conosci la mia vita, sai tutto di me.
+/Tu leggi nel mio cuore, sai cosa c'è,
+/affido la mia vita a te.
+
+>*
+>Amo te.
 `

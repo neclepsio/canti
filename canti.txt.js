@@ -1,27 +1,17 @@
 let canti = `
-. 24 ottobre 2021
-# XXX domenica del T.O.
+. 31 ottobre 2021
+# XXXI domenica del T.O.
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 
-/ L’evangelista Marco che ascoltiamo quest’anno ci presenta le azioni e le parole di Gesù durante il suo viaggio a Gerusalemme. Viaggio sicuramente topografico, ma anche e soprattutto simbolico. Questa strada che Gesù percorre con entusiasmo - “Gesù li precedeva” - e dove i discepoli lo seguono con diffidenza o inquietudine - “essi erano spaventati, e coloro che seguivano erano anche timorosi” (Mc 10,32) - qui arriva al termine. Ecco il contesto della lettura sulla quale meditiamo oggi.
-
-/ Al termine del cammino, oggi incontriamo un cieco. Un cieco, che, in più, è un mendicante. In lui c’è oscurità, tenebre, e assenza. E attorno a lui c’è soltanto il rigetto: “Molti lo sgridavano per farlo tacere”. Gesù chiama il cieco, ascolta la sua preghiera, e la esaudisce. Anche oggi, qui, tra coloro che il Signore ha riunito, “ci sono il cieco e lo zoppo” (prima lettura) - quello che noi siamo -; ed è per questo che le azioni di Gesù, che ci vengono raccontate, devono renderci più pieni di speranza.
-
-/ È nel momento in cui termina il viaggio di Gesù a Gerusalemme (e dove termina il ciclo liturgico), che un mendicante cieco celebra Gesù e lo riconosce come “Figlio di Davide”, o Messia; e questo mendicante riacquista la vista e “segue Gesù per la strada”. È un simbolo, un invito. Chiediamo al Signore che ci accordi la luce della fede e ci dia vigore, affinché lo seguiamo come il cieco di Gerico, fino a che non avremo raggiunto la Gerusalemme definitiva.
+/ Bisogna considerare lo scriba del passo del Vangelo di Marco con grande benevolenza. Spesso Gesù accusa gli scribi di interessarsi più ai giochi di parole che non ai veri mali dei loro fratelli. Ma nulla di tutto ciò in questo brano. Ecco un uomo che cerca di conoscere. È un uomo alla ricerca di Dio, un uomo che vuole sapere come potere raggiungere Dio con sicurezza. Questo significa la sua domanda su quale sia il comandamento più importante. Gesù gli risponde in modo relativamente prevedibile, ma che va all’essenziale. Da tutta la Legge, ricava il solo comandamento che dà lo spirito della Legge stessa. Questo comandamento è divenuto una preghiera (Dt 6,4-5) che bisogna avere sempre nel proprio cuore, nella propria mente, nelle proprie mani e nella propria casa. Gesù vi aggiunge la necessità di metterlo in pratica, mediante quell’amore per il prossimo che permette a ciascuno di verificare se ama davvero Dio (1Gv 4,20). Lo scriba allora, felice di essere riconfortato nella propria fede, si felicita con Gesù. Ecco l’uomo che si complimenta con Dio, l’uomo che è contento di ritrovarsi in accordo con Dio. Non è commovente questo vecchio saggio che si complimenta con il giovane Rabbì, senza nemmeno sospettare che è con Dio stesso che si complimenta? Gesù ne è commosso. Accoglie con gioia l’osservazione di quest’uomo che è un vero credente, senza risparmio (Gv 1,47). Allora, gli apre il regno. Gesù risponde alle sue lodi con un’osservazione che ciascuno di noi vorrebbe sentirsi fare. Conferma lo scriba nella sua fede e, dandogli una garanzia come non ce ne sono altre, lo rassicura che non si sta sbagliando. 
 
 {indice}
 
 --------------------------------------------------------------------------------
 
 . Ingresso
-? Spiegazione
-#{musica} Apri i miei occhi {media https://www.youtube.com/watch?v=Qf_xvOnb-P0}
-
---------------------------------------------------------------------------------
-
-. Ingresso
-{apri i miei occhi}
+{shêmá israel}
 
 --------------------------------------------------------------------------------
 
@@ -29,89 +19,63 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 
 --------------------------------------------------------------------------------
 
-{gloria a dio}
+{gloria a dio [mariano]}
 
 --------------------------------------------------------------------------------
 
 # Prima lettura
 
-/ Riporterò tra le consolazioni il cieco e lo zoppo.
+/ Ascolta, Israele: ama il Signore tuo Dio con tutto il cuore.
 
-## Dal libro del profeta Geremia (Ger~31,~7-9)
+## Dal libro del Deuteronomio (Dt~6,~2-6)
 
-Così dice il Signore:
-«Innalzate canti di gioia per Giacobbe,
-esultate per la prima delle nazioni,
-fate udire la vostra lode e dite:
-“Il Signore ha salvato il suo popolo,
-il resto d’Israele”.
-
-Ecco, li riconduco dalla terra del settentrione
-e li raduno dalle estremità della terra;
-fra loro sono il cieco e lo zoppo,
-la donna incinta e la partoriente:
-ritorneranno qui in gran folla.
-
-Erano partiti nel pianto,
-io li riporterò tra le consolazioni;
-li ricondurrò a fiumi ricchi d’acqua
-per una strada dritta in cui non inciamperanno,
-perché io sono un padre per Israele,
-Èfraim è il mio primogenito».
-
+Mosè parlò al popolo dicendo:
+«Temi il Signore, tuo Dio, osservando per tutti i giorni della tua vita, tu, il tuo figlio e il figlio del tuo figlio, tutte le sue leggi e tutti i suoi comandi che io ti do e così si prolunghino i tuoi giorni.
+Ascolta, o Israele, e bada di metterli in pratica, perché tu sia felice e diventiate molto numerosi nella terra dove scorrono latte e miele, come il Signore, Dio dei tuoi padri, ti ha detto.
+Ascolta, Israele: il Signore è il nostro Dio, unico è il Signore. Tu amerai il Signore, tuo Dio, con tutto il cuore, con tutta l’anima e con tutte le forze.
+Questi precetti che oggi ti do, ti stiano fissi nel cuore».
 
 --------------------------------------------------------------------------------
 
 # Salmo responsoriale
 
-## Sal~125
+## Sal~17
 
-/ {risposta} Grandi cose ha fatto il Signore per noi.
+/ {risposta} Ti amo, Signore, mia forza. 
 
-Quando il Signore ristabilì la sorte di Sion,
-ci sembrava di sognare.
-Allora la nostra bocca si riempì di sorriso,
-la nostra lingua di gioia.
+Ti amo, Signore, mia forza,
+Signore, mia roccia,
+mia fortezza, mio liberatore.
 
-/ {risposta} Grandi cose ha fatto il Signore per noi.
+/ {risposta} Ti amo, Signore, mia forza. 
 
-Allora si diceva tra le genti:
-«Il Signore ha fatto grandi cose per loro».
-Grandi cose ha fatto il Signore per noi:
-eravamo pieni di gioia.
+Mio Dio, mia rupe, in cui mi rifugio;
+mio scudo, mia potente salvezza e mio baluardo.
+Invoco il Signore, degno di lode,
+e sarò salvato dai miei nemici.
 
-/ {risposta} Grandi cose ha fatto il Signore per noi.
+/ {risposta} Ti amo, Signore, mia forza. 
 
-Ristabilisci, Signore, la nostra sorte,
-come i torrenti del Negheb.
-Chi semina nelle lacrime
-mieterà nella gioia.
+Viva il Signore e benedetta la mia roccia,
+sia esaltato il Dio della mia salvezza.
+Egli concede al suo re grandi vittorie,
+si mostra fedele al suo consacrato.
 
-/ {risposta} Grandi cose ha fatto il Signore per noi.
-
-Nell’andare, se ne va piangendo,
-portando la semente da gettare,
-ma nel tornare, viene con gioia,
-portando i suoi covoni. 
-
-/ {risposta} Grandi cose ha fatto il Signore per noi.
+/ {risposta} Ti amo, Signore, mia forza. 
 
 --------------------------------------------------------------------------------
 
 # Seconda lettura
 
-/ Tu sei sacerdote per sempre, secondo l’ordine di Melchìsedek.
+/ Egli, poiché resta per sempre, possiede un sacerdozio che non tramonta.
 
-## Dalla lettera agli Ebrei (Eb~5,~1-6)
+## Dalla lettera agli Ebrei (Eb~7,~23-28)
 
-Ogni sommo sacerdote è scelto fra gli uomini e per gli uomini viene costituito tale nelle cose che riguardano Dio, per offrire doni e sacrifici per i peccati.
+Fratelli, \[nella prima alleanza] in gran numero sono diventati sacerdoti, perché la morte impediva loro di durare a lungo. Cristo invece, poiché resta per sempre, possiede un sacerdozio che non tramonta. Perciò può salvare perfettamente quelli che per mezzo di lui si avvicinano a Dio: egli infatti è sempre vivo per intercedere a loro favore.
 
-Egli è in grado di sentire giusta compassione per quelli che sono nell’ignoranza e nell’errore, essendo anche lui rivestito di debolezza. A causa di questa egli deve offrire sacrifici per i peccati anche per se stesso, come fa per il popolo.
+Questo era il sommo sacerdote che ci occorreva: santo, innocente, senza macchia, separato dai peccatori ed elevato sopra i cieli. Egli non ha bisogno, come i sommi sacerdoti, di offrire sacrifici ogni giorno, prima per i propri peccati e poi per quelli del popolo: lo ha fatto una volta per tutte, offrendo se stesso.
 
-Nessuno attribuisce a se stesso questo onore, se non chi è chiamato da Dio, come Aronne. Nello stesso modo Cristo non attribuì a se stesso la gloria di sommo sacerdote, ma colui che gli disse: «Tu sei mio figlio, oggi ti ho generato», gliela conferì come è detto in un altro passo:
-
-«Tu sei sacerdote per sempre,
-secondo l’ordine di Melchìsedek».
+La Legge infatti costituisce sommi sacerdoti uomini soggetti a debolezza; ma la parola del giuramento, posteriore alla Legge, costituisce sacerdote il Figlio, reso perfetto per sempre.
 
 --------------------------------------------------------------------------------
 
@@ -119,8 +83,8 @@ secondo l’ordine di Melchìsedek».
 
 ## Alleluia, alleluia.
 
-Il salvatore nostro Cristo Gesù ha vinto la morte
-e ha fatto risplendere la vita per mezzo del Vangelo. (Cf~2Tm~1,~10)
+Se uno mi ama, osserverà la mia parola, dice il Signore,
+e il Padre mio lo amerà e noi verremo a lui. (Gv~14,~23)
 
 ## Alleluia.
 
@@ -130,15 +94,15 @@ e ha fatto risplendere la vita per mezzo del Vangelo. (Cf~2Tm~1,~10)
 
 / Rabbunì, che io veda di nuovo!
 
-## {croce} Dal Vangelo secondo Marco (Mc~10,~46-52)
+## {croce} Dal Vangelo secondo Marco (Mc~12,~28-34)
 
-In quel tempo, mentre Gesù partiva da Gèrico insieme ai suoi discepoli e a molta folla, il figlio di Timèo, Bartimèo, che era cieco, sedeva lungo la strada a mendicare. Sentendo che era Gesù Nazareno, cominciò a gridare e a dire: «Figlio di Davide, Gesù, abbi pietà di me!».
+In quel tempo, si avvicinò a Gesù uno degli scribi e gli domandò: «Qual è il primo di tutti i comandamenti?».
 
-Molti lo rimproveravano perché tacesse, ma egli gridava ancora più forte: «Figlio di Davide, abbi pietà di me!».
+Gesù rispose: «Il primo è: “Ascolta, Israele! Il Signore nostro Dio è l’unico Signore; amerai il Signore tuo Dio con tutto il tuo cuore e con tutta la tua anima, con tutta la tua mente e con tutta la tua forza”. Il secondo è questo: “Amerai il tuo prossimo come te stesso”. Non c’è altro comandamento più grande di questi».
 
-Gesù si fermò e disse: «Chiamatelo!». Chiamarono il cieco, dicendogli: «Coraggio! Àlzati, ti chiama!». Egli, gettato via il suo mantello, balzò in piedi e venne da Gesù.
+Lo scriba gli disse: «Hai detto bene, Maestro, e secondo verità, che Egli è unico e non vi è altri all’infuori di lui; amarlo con tutto il cuore, con tutta l’intelligenza e con tutta la forza e amare il prossimo come se stesso vale più di tutti gli olocausti e i sacrifici».
 
-Allora Gesù gli disse: «Che cosa vuoi che io faccia per te?». E il cieco gli rispose: «Rabbunì, che io veda di nuovo!». E Gesù gli disse: «Va’, la tua fede ti ha salvato». E subito vide di nuovo e lo seguiva lungo la strada.
+Vedendo che egli aveva risposto saggiamente, Gesù gli disse: «Non sei lontano dal regno di Dio». E nessuno aveva più il coraggio di interrogarlo.
 
 --------------------------------------------------------------------------------
 
@@ -162,8 +126,7 @@ Allora Gesù gli disse: «Che cosa vuoi che io faccia per te?». E il cieco gli 
 --------------------------------------------------------------------------------
 
 . Comunione
-%{voglio vedere il tuo volto}
-{ora i miei occhi ti vedono}
+{io ti amo}
 
 --------------------------------------------------------------------------------
 
