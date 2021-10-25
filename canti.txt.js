@@ -15,7 +15,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-#{musica} Apri i miei occhi {media https://www.youtube.com/watch?v=Qf_xvOnb-P0.}
+#{musica} Apri i miei occhi {media https://www.youtube.com/watch?v=Qf_xvOnb-P0}
 
 --------------------------------------------------------------------------------
 

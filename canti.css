@@ -53,7 +53,7 @@ img.musica {
     top: 0.2em;
 }
 
-img.youtube {
+img.media {
     height: 0.55em;
     cursor: pointer;
 }
@@ -188,7 +188,7 @@ button {
     background-color: #eee;
     border: 1px solid #ccc;
     border-radius: 4px;
-    font-weight: bold;
+    font-weight: youtubebold;
     padding: 0px;
     color: black;
     

@@ -18,16 +18,19 @@ function alertAndLog(err) {
 }
 
 function parseSource(text) {
-    text = text.replace(/^[ \t]*\{[ \t]*(.*)[ \t]*\}/gm, function(match, p1) {
-        p1 = p1.toLowerCase();
-        if (p1 in libreriaCanti) {
-            return libreriaCanti[p1];
+    let links = [];
+    text = text.replace(/\{[ \t]*(.*?)[ \t]*\}/gm, function(match, p1) {
+        let p1l = p1.toLowerCase();
+        if (p1l in libreriaCanti) {
+            return libreriaCanti[p1l];
         }
-        if (" indice croce risposta musica github ".indexOf(" "+p1+" ") >= 0) {
+        if (" indice croce risposta musica github ".indexOf(" "+p1l+" ") >= 0) {
             return match;
         }
         if (p1.startsWith("media ")) {
-            return match;
+            // in questo modo evito i problemi con underscore e smart punctuation
+            links.push(p1.split(/ +/, 2)[1]); 
+            return "{media " + (links.length-1).toString() + "}";
         }
         if (debug) {
             alertAndLog("Impossibile trovare \"" + p1 + "\" nella libreria.");
@@ -67,10 +70,10 @@ function parseSource(text) {
         if (line[0] == "@") {
             continue;
         }
-        line = line.replace(/\\\[/g, "{\\pq}");
+        line = line.replace(/\\\[/g, "\uE000");
         line = line.replace(/\[.*?\]/g, "");
         line = line.replace(/_/g, "");
-        
+
         // la riga vuota inserisce lo spazio tra paragrafi, verrà
         // fatto dopo per evitare spazi multiplo in caso di più linee
         // vuote o cambi di stile
@@ -198,7 +201,7 @@ function parseSource(text) {
         line = line.replace(/-/g, "&#8209;");
 
         // gestione escape
-        line = line.replace(/\{\\pq\}/g, "[");
+        line = line.replace(/\uE000/g, "[");
 
         // scrittura linea
         emptyLine = false;
@@ -218,9 +221,12 @@ function parseSource(text) {
     
     // media
     res = res.replace(/\{media (.*?)\}/, function(match, p1) {
-        return '<img class="youtube" src="youtube.svg" data-link="' + p1 + '">';
+        console.log(links);
+        console.log(p1);
+        console.log(parseInt(p1));
+        var link = links[parseInt(p1)];
+        return '<img class="media" src="youtube.svg" data-link="' + link + '">';
     })
-    // TODO aggiungere link funzionante, nascondere in modalità aereo
 
     // github
     res = res.replace(/\{github\}/g, `<a href="https://github.com/neclepsio/canti">Tocca&nbsp;qui</a>`);
@@ -394,6 +400,39 @@ function handlePopups() {
     }, true);
 }
 
+function handleMedia() {
+    let media = document.getElementsByClassName("media");
+    for (let button of media) {
+        button.addEventListener("click", function(ev) {
+            if (!navigator.onLine) {
+                const msg = "Il dispositivo non è collegato ad internet; non è possibile aprire il collegamento.";
+                window.alert(msg);
+            } else {
+                const msg = "Toccando questo pulsante si avvia la riproduzione del canto. " + 
+                    "È utile per imparare i canti prima della Messa, ma è inopportuno " +
+                    "che la musica parta durante la celebrazione. Sei sicuro di voler " + 
+                    "procedere?";
+                if (!window.confirm(msg)) {
+                    return;
+                }
+                let link = ev.target.dataset.link;
+                console.log("---"+link+"---");
+                window.open(link, "_blank").focus();
+            }
+        });
+    }
+    
+    document.body.addEventListener("click", function(ev) {
+        if (ev.target.classList.contains("pulsante-spiegazione")) {
+            return;
+        }
+        for (let spiegazione of document.getElementsByClassName("spiegazione")) {
+            spiegazione.classList.remove("visible");
+            document.body.classList.remove("spiegazione-visibile");
+        }
+    }, true);
+}
+
 function leggiLibreria() {
     let res = {};
 
@@ -444,6 +483,7 @@ function main() {
 
     setEvents();
     handlePopups();
+    handleMedia();
     document.body.style.display = null;
     setLetture();
 

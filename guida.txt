@@ -58,7 +58,9 @@ dei titoli, escludendo quelli che precedono la prima occorrenza.
 Per inserire l'immagine di una croce, usare {croce}.
 Per inserire la R per la risposta, usare {risposta}.
 Per inserire una chiave di violino, usare {musica}.
-Le immagini nei titoli saranno rimosse nella voce dell'indice.
+Per inserire un collegamento con l'icona di YouTube, usare {media [indirizzo]},
+ad esempio {media https://www.youtube.com/watch?v=Qf_xvOnb-P0}
+Le immagini ed i collegamenti nei titoli saranno rimosse nella voce dell'indice.
 
 La punteggiatura verrà abbellita: 
   '     diventa   ‘ o ’
