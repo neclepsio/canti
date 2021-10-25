@@ -221,9 +221,6 @@ function parseSource(text) {
     
     // media
     res = res.replace(/\{media (.*?)\}/, function(match, p1) {
-        console.log(links);
-        console.log(p1);
-        console.log(parseInt(p1));
         var link = links[parseInt(p1)];
         return '<img class="media" src="youtube.svg" data-link="' + link + '">';
     })
@@ -380,23 +377,30 @@ function handlePopups() {
         titolo.parentElement.insertBefore(button, titolo);
 
         button.addEventListener("click", function(ev) {
-            let r = button.getBoundingClientRect();
-            spiegazione.style.top = (r.top + r.height + window.scrollY).toString() + "px";
             let cl = spiegazione.classList;
-            cl.add("animate");
-            cl.toggle("visible");
-            document.body.classList.toggle("spiegazione-visibile");
+            if (!cl.contains("visible")) {
+                let r = button.getBoundingClientRect();
+                spiegazione.style.top = (r.top + r.height + window.scrollY).toString() + "px";
+                cl.add("animate");
+                cl.add("visible");
+                document.body.classList.add("spiegazione-visibile");
+            }
         });
     }
     
     document.body.addEventListener("click", function(ev) {
-        if (ev.target.classList.contains("pulsante-spiegazione")) {
+        if (!document.body.classList.contains("spiegazione-visibile")) {
             return;
         }
+        document.body.classList.remove("spiegazione-visibile");
+        document.getElementById("alert").classList.remove("visibile");
         for (let spiegazione of document.getElementsByClassName("spiegazione")) {
             spiegazione.classList.remove("visible");
-            document.body.classList.remove("spiegazione-visibile");
         }
+        if (ev.target.id.startsWith("alert-button-")) {
+            return;
+        }
+        ev.stopPropagation();
     }, true);
 }
 
@@ -404,21 +408,32 @@ function handleMedia() {
     let media = document.getElementsByClassName("media");
     for (let button of media) {
         button.addEventListener("click", function(ev) {
+            let text = document.getElementById("alert-text");
+            let button1 = document.getElementById("alert-button-1");
+            let button2 = document.getElementById("alert-button-2");
             if (!navigator.onLine) {
-                const msg = "Il dispositivo non è collegato ad internet; non è possibile aprire il collegamento.";
-                window.alert(msg);
+                text.textContent = "Il dispositivo non è collegato ad internet; non è possibile aprire il collegamento.";
+                button1.style.display = "none";
+                button2.style.display = "inline";
+                button2.textContent = "Chiudi";
+                button2.onclick = null;
             } else {
-                const msg = "Toccando questo pulsante si avvia la riproduzione del canto. " + 
-                    "È utile per imparare i canti prima della Messa, ma è inopportuno " +
-                    "che la musica parta durante la celebrazione. Sei sicuro di voler " + 
-                    "procedere?";
-                if (!window.confirm(msg)) {
-                    return;
-                }
+                text.innerHTML = "<p>Toccando questo pulsante si avvia la riproduzione del canto.</p>" + 
+                    "<p>È utile per imparare i canti prima della Messa, ma è inopportuno " +
+                    "che la musica parta durante la celebrazione.</p>"+
+                    "<p>Sei sicuro di voler procedere?</p>";
+                button1.style.display = "inline";
+                button2.style.display = "inline";
+                button1.textContent = "Annulla";
+                button2.textContent = "Prosegui";
+                button1.onclick = null;
                 let link = ev.target.dataset.link;
-                console.log("---"+link+"---");
-                window.open(link, "_blank").focus();
+                button2.onclick = function() {
+                    window.open(link, "_blank").focus();
+                }
             }
+            document.body.classList.add("spiegazione-visibile");
+            document.getElementById("alert").classList.add("visibile");
         });
     }
     

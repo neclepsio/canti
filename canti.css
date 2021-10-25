@@ -62,7 +62,6 @@ img.media {
 
 /* canto */
 
-
 .song {
     display: inline-block;
 }
@@ -180,6 +179,7 @@ p.debug {
     width: 48px;
     height: 48px;
     font-size: 32px;
+    padding: 0px;
 }
 
 button {
@@ -189,7 +189,6 @@ button {
     border: 1px solid #ccc;
     border-radius: 4px;
     font-weight: youtubebold;
-    padding: 0px;
     color: black;
     
     display: inline-flex;
@@ -243,4 +242,44 @@ button {
     margin-right: 0px;
     display: table-cell;
     vertical-align: middle;
+}
+
+
+
+/* alert */
+
+#alert {
+    position: fixed;
+    top: 50%;
+    left: 0px;
+    right: 0px;
+    margin-left: 32px;
+    margin-right: 32px;
+    transform: translateY(-50%) scale(0);
+    transition: transform 200ms ease;
+
+    background-color: white;
+    
+    font-size: 100%;
+
+    padding: 16px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+#alert-text {
+    margin-bottom:16px;
+} 
+
+#alert-buttons {
+    float: right;
+}
+
+#alert-buttons button {
+    padding: 8px;
+    width: 8em;
+}
+
+#alert.visibile {
+    transform: translateY(-50%) scale(1);
 }
