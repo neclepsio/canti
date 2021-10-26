@@ -175,6 +175,12 @@ function handleMedia() {
     let media = document.getElementsByClassName("media");
     for (let button of media) {
         button.addEventListener("click", function(ev) {
+            if (document.body.classList.contains("media-visibile")) {
+                let link = ev.target.dataset.link;
+                openMedia(link);
+                return;
+            }
+
             let text = document.getElementById("alert-text");
             let button1 = document.getElementById("alert-button-1");
             let button2 = document.getElementById("alert-button-2");
