@@ -4,11 +4,21 @@ body {
     font-family: 'Lato', sans-serif;
     padding: 16px;
     touch-action: pan-y;
+}
+
+#ombreggiatura {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    z-index: -1;
     transition: background-color 200ms ease;
 }
 
-body.spiegazione-visibile {
+body.spiegazione-visibile #ombreggiatura {
     background-color: rgba(0, 0, 0, 0.5);
+    z-index: 100;
 }
 
 a:link {
@@ -139,7 +149,8 @@ p.debug {
 .spiegazione {
     position: absolute;
     background-color: white;
-    
+    z-index: 200;
+
     font-size: 100%;
 
     padding: 16px;
@@ -250,6 +261,7 @@ button {
 
 #alert {
     position: fixed;
+    z-index: 200;
     top: 50%;
     left: 0px;
     right: 0px;
