@@ -235,12 +235,8 @@ button {
  * una presentazione a parte)
  */
 @media all and (max-device-width: 900px) {
-    #online.online {
+    body:not(.media-visibile) #online.online {
         opacity: 1;
-    }
-    
-    body.media-visibile #online.online {
-        opacity: 0;
     }
 }
 

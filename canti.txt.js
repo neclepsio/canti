@@ -102,7 +102,7 @@ e il Padre mio lo amerà e noi verremo a lui. (Gv~14,~23)
 
 # Vangelo
 
-/ Rabbunì, che io veda di nuovo!
+/ Amerai il Signore tuo Dio. Amerai il prossimo tuo.
 
 ## {croce} Dal Vangelo secondo Marco (Mc~12,~28-34)
 
