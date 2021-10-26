@@ -1,4 +1,3 @@
-
 function setZoomGestureHandler (handler) {
     const minDoubleTapTimeOut = 50;
     const maxDoubleTapTimeOut = 300;
@@ -197,7 +196,7 @@ function handleMedia() {
                 button1.onclick = null;
                 let link = ev.target.dataset.link;
                 button2.onclick = function() {
-                    window.open(link, "_blank").focus();
+                    openMedia(link);
                 }
             }
             document.body.classList.add("spiegazione-visibile");
@@ -223,5 +222,31 @@ function setLetture() {
         } else {
             song.classList.remove("lettura");
         }
+    }
+}
+
+function getMediaIFrame(url, w, h) {
+    const match = url.match(/^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/);
+    if (match && match[2].length === 11) {
+        const src = "//www.youtube.com/embed/" + match[2] + "?modestbranding=1&autoplay=0&loop=1";
+        return '<iframe width="' + w + '" height="' + h + '" src="' + src + '" frameborder="0" allowfullscreen></iframe>';
+    }
+    return null;
+}
+
+function openMedia(url) {
+    const style = getComputedStyle(document.getElementById("media"));
+    const iframe = getMediaIFrame(url, 
+        parseInt(style.width.replace("px", "")), 
+        parseInt(style.height.replace("px", "")));
+    if (iframe == null) {
+        window.open(url, "_blank").focus();
+        return;
+    }
+    document.getElementById("media-contenuto").innerHTML = iframe;
+    document.getElementById("media").classList.add("visible");
+    document.getElementById("media-chiudi").onclick = function() {
+        document.getElementById("media").classList.remove("visible");
+        window.setTimeout(()=>(document.getElementById("media-contenuto").innerHTML = ""), 200);
     }
 }

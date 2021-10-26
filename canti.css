@@ -295,3 +295,80 @@ button {
 #alert.visibile {
     transform: translateY(-50%) scale(1);
 }
+
+
+
+/* media */
+#media {
+    position: fixed;
+    width: 300px;
+    height: 200px;
+    bottom: -200px;
+    left: 0px;
+    right: 0px;
+    margin: 16px auto;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+    transform: scale(0);
+    transition: transform 200ms ease, bottom 200ms ease;
+}
+
+#media.visible {
+    bottom: 32px;
+    transform: scale(1);
+}
+
+#media-chiudi {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    right: 0px;
+    top: 0px;
+    margin: 16px;
+    text-align: center;
+    color: white;
+    opacity: 0.75;
+    text-shadow: 0px 0px 2px black;
+    font-size: 32px;
+    line-height: 32px;
+    cursor: pointer;
+}
+
+#media-contenuto {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    top: 0px;
+    margin: 0px;
+}
+
+#media-sfondo {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    top: 0px;
+    margin: 0px;
+    background-color: white;
+    text-align: center;
+}
+
+#media-sfondo img {
+    position: relative;
+    top: 25%;
+    height: 50%;
+
+    animation-duration: 0.5s;
+    animation-name: media-sfondo-anim;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes media-sfondo-anim {
+    0% {
+        opacity: 0.5;
+    }
+    100% {
+    }
+}

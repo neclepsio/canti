@@ -1,4 +1,4 @@
-Foglietto dei canti - v1.3.0
+Foglietto dei canti - v1.4.0
 ----------------------------
 
 Copyright (c) 2021 Ignazio Di Napoli -- vedi licenza in fondo a questo file.
@@ -12,7 +12,7 @@ pensi.
 Per personalizzare i testi è sufficiente modificare i file canti.txt e
 libreria.txt, avendo cura di non modificare la prima e l'ultima riga.
 
-Il formato è abbastanza intuitivo dagli esempi, ma aggiungo le istruzioni.
+Il formato è abbastanza inPlayertuitivo dagli esempi, ma aggiungo le istruzioni.
 
 Ricorda di leggere la licenza in LICENSE.txt.
 
@@ -59,7 +59,9 @@ Per inserire l'immagine di una croce, usare {croce}.
 Per inserire la R per la risposta, usare {risposta}.
 Per inserire una chiave di violino, usare {musica}.
 Per inserire un collegamento con l'icona di YouTube, usare {media [indirizzo]},
-ad esempio {media https://www.youtube.com/watch?v=Qf_xvOnb-P0}
+ad esempio {media https://www.youtube.com/watch?v=Qf_xvOnb-P0}. Toccando
+l'icona, per i video YouTube verrà visualizzato un riproduttore integrato, per
+gli altri link si aprirà un'altra tab o finestra.
 Le immagini ed i collegamenti nei titoli saranno rimosse nella voce dell'indice.
 
 La punteggiatura verrà abbellita: 
