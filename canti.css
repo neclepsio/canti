@@ -238,6 +238,10 @@ button {
     #online.online {
         opacity: 1;
     }
+    
+    body.media-visibile #online.online {
+        opacity: 0;
+    }
 }
 
 #online > div {
@@ -312,7 +316,7 @@ button {
     transition: transform 200ms ease, bottom 200ms ease;
 }
 
-#media.visible {
+body.media-visibile #media {
     bottom: 32px;
     transform: scale(1);
 }

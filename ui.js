@@ -244,9 +244,9 @@ function openMedia(url) {
         return;
     }
     document.getElementById("media-contenuto").innerHTML = iframe;
-    document.getElementById("media").classList.add("visible");
+    document.body.classList.add("media-visibile");
     document.getElementById("media-chiudi").onclick = function() {
-        document.getElementById("media").classList.remove("visible");
+        document.body.classList.remove("media-visibile");
         window.setTimeout(()=>(document.getElementById("media-contenuto").innerHTML = ""), 200);
     }
 }
