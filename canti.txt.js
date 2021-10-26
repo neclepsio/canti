@@ -88,9 +88,10 @@ La Legge infatti costituisce sommi sacerdoti uomini soggetti a debolezza; ma la 
 
 --------------------------------------------------------------------------------
 
-# Acclamazione al Vangelo 
+.Acclamazione al Vangelo 
+{alleluia (passeranno i cieli)}
 
-## Alleluia, alleluia.
+##Alleluia, alleluia.
 
 Se uno mi ama, osserverà la mia parola, dice il Signore,
 e il Padre mio lo amerà e noi verremo a lui. (Gv~14,~23)

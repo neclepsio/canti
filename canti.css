@@ -362,7 +362,7 @@ body.media-visibile #media {
     top: 25%;
     height: 50%;
 
-    animation-duration: 0.5s;
+    animation-duration: 1.0s;
     animation-name: media-sfondo-anim;
     animation-iteration-count: infinite;
     animation-direction: alternate;

@@ -380,7 +380,7 @@ Amen.
 
 
 
-#{musica} Agnello di Dio {media https://www.youtube.com/watch?v=rJpWsljFZRE}
+#{musica} Agnello di Dio {media https://www.youtube.com/watch?v=AsWs0tlzQNI}
 
 Agnello di Dio che togli i peccati del mondo,
 abbi pietà di noi.
@@ -615,7 +615,7 @@ tu sei il mio Signor.
 
 
 
-#{musica} Nelle tue mani {media https://www.youtube.com/watch?v=p6KDJXzVDTQ}
+#{musica} Nelle tue mani {media https://www.youtube.com/watch?v=Zo6CuMpR_c8}
 
 _Nelle tue mani affido la vita,
 _Dio, mia salvezza sei tu.
@@ -662,4 +662,12 @@ ma che sempre le può dare vita.
 Con te saremo sorgente d'acqua pura
 con te fra noi il deserto fiorirà.
 >*
+
+
+
+#{musica} Alleluia (passeranno i cieli) {media https://www.youtube.com/watch?v=Gm7yWtC3AB0}
+
+
+
+
 `
