@@ -148,7 +148,7 @@ Osanna, osanna nell'alto dei cieli.
 
 
 
-#{musica} Con~questo~pane, con~questo~vino
+#{musica} Con~questo~pane, con~questo~vino {media https://www.youtube.com/watch?v=lDs1qm3nJyE}
 
 In questo pane noi riceviamo il vero corpo
 del Salvatore che si fa cibo per tutti noi.
@@ -669,5 +669,26 @@ con te fra noi il deserto fiorirà.
 
 
 
+#{musica} Le beatitudini {media https://www.youtube.com/watch?v=SNNglMPpkVI}
 
+Beati i poveri in spirito, di essi è il regno dei cieli.
+Beati gli afflitti, perché saranno consolati.
+Beati i miti perché erediteranno la terra.
+Beati quelli che han fame e sete della giustizia
+perché saranno saziati,
+beati.
+
+Beati i misericordiosi, troveranno misericordia.
+Beati i puri di cuore, perché vedranno Dio.
+Beati i costruttori di pace, saran chiamati figli di Dio.
+Beati i perseguitati a causa della giustizia
+di essi è il regno dei cieli,
+beati.
+
+Rallegratevi ed esultate
+perché grande è la vostra ricompensa
+nei cieli,
+nei cieli.
+Beati,
+beati.
 `

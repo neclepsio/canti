@@ -19,7 +19,6 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-? Spiegazione
 {shêmá israel}
 
 --------------------------------------------------------------------------------
