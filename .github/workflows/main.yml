@@ -1,10 +1,10 @@
 name: Send submodule updates to parent repo
 
 on:
-  push:
+  - push:
     branches: 
       - main
-  workflow_dispatch
+  - workflow_dispatch
 
 jobs:
   update:
