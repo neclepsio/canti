@@ -135,6 +135,17 @@ function parseSource(text) {
                 document.title = titolo;
             }
             lastRitornello = "";
+            let parts = line.split(/(\{.*?\})/);
+            for (let i in parts) {
+                if (parts[i].startsWith("{") && parts[i].endsWith("}")) {
+                    continue;
+                }
+                if (parts[i] == "") {
+                    continue;
+                }
+                parts[i] = "{% " + parts[i] + "}";
+            }
+            line = parts.join("");
             n += 1;
         } else if (line.startsWith("/")) {
             klass = "bridge";
@@ -213,6 +224,7 @@ function parseSource(text) {
         res += line + "<br/>\n";
     }
     res += "</p>\n";
+    //res = res.replace("<br/>\n</p>\n", "</p>\n");
 
     // indice
     indice = indice.substring(0, indice.length - "<br/>".length);
@@ -228,6 +240,11 @@ function parseSource(text) {
     res = res.replace(/\{media (.*?)\}/g, function(match, p1) {
         var link = links[parseInt(p1)];
         return '<img class="media" src="youtube.svg" data-link="' + link + '">';
+    })
+
+    // tag (introdotto dal titolo)
+    res = res.replace(/\{% (.*?)\}/g, function(match, p1) {
+        return "<span>" + p1 + "</span>";
     })
 
     // github
@@ -279,7 +296,11 @@ function main() {
     handleMedia();
     document.body.style.display = null;
     setLetture();
+    fixLarghezzaTitoli();
 
-    window.addEventListener("resize", setLetture);
+    window.addEventListener("resize", function () {
+        fixLarghezzaTitoli();
+        setLetture();
+    });
 }
 document.addEventListener("DOMContentLoaded", main);

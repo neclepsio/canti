@@ -60,14 +60,29 @@ img.croce {
 }
 
 img.musica {
-    top: 0.2em;
+    top: 0em;
 }
 
 img.media {
     height: 0.55em;
     cursor: pointer;
+    top: 0.1em;
 }
 
+
+/* titolo */
+
+.titolo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titolo > span {
+    line-height: 110%;
+    margin-left: 4px;
+    margin-right: 4px;
+}
 
 
 /* canto */
@@ -78,14 +93,14 @@ img.media {
 
 p {
     line-height: 150%;
-    margin-top: 0;
+    margin-top: 0px;
     margin-bottom: 1rem;
 }
 
 .momento {
     font-size: 100%; 
     text-align: center;
-    margin-bottom: -0.8rem;
+    margin-bottom: -0.3rem;
 }
 
 a[id] {
@@ -224,7 +239,7 @@ button {
     transition: opacity 800ms ease;
     background-color: rgba(0,0,0, 0.7);
     opacity: 0;
-    /*pointer-events: none;*/
+    pointer-events: none;
 }
 
 /* 
@@ -237,6 +252,7 @@ button {
 @media all and (max-device-width: 900px) {
     body:not(.media-visibile) #online.online {
         opacity: 1;
+        pointer-events: all;
     }
 }
 

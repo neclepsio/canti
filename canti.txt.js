@@ -45,28 +45,28 @@ Quella andò e fece come aveva detto Elia; poi mangiarono lei, lui e la casa di 
 
 ## Sal~145
 
-/ {risposta} Load il Signore, anima mia
+/ {risposta} Loda il Signore, anima mia.
 
 Il Signore rimane fedele per sempre
 rende giustizia agli oppressi,
 dà il pane agli affamati.
 Il Signore libera i prigionieri.
 
-/ {risposta} Load il Signore, anima mia
+/ {risposta} Loda il Signore, anima mia.
 
 Il Signore ridona la vista ai ciechi,
 il Signore rialza chi è caduto,
 il Signore ama i giusti,
 il Signore protegge i forestieri.
 
-/ {risposta} Load il Signore, anima mia
+/ {risposta} Loda il Signore, anima mia.
 
 Egli sostiene l’orfano e la vedova,
 ma sconvolge le vie dei malvagi.
 Il Signore regna per sempre,
 il tuo Dio, o Sion, di generazione in generazione.
 
-/ {risposta} Load il Signore, anima mia
+/ {risposta} Loda il Signore, anima mia.
 
 --------------------------------------------------------------------------------
 
@@ -133,7 +133,7 @@ Allora, chiamati a sé i suoi discepoli, disse loro: «In verità io vi dico: qu
 --------------------------------------------------------------------------------
 
 . Dopo Comunione
-{tu sei santo tu sei re}
+{tu sei santo, tu sei re}
 
 --------------------------------------------------------------------------------
 

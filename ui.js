@@ -261,3 +261,24 @@ function openMedia(url) {
         window.setTimeout(()=>(document.getElementById("media-contenuto").innerHTML = ""), 200);
     }
 }
+
+function fixLarghezzaTitoli() {
+    var nodes = document.querySelectorAll(".titolo > span");
+    for (var nidx = 0; nidx < nodes.length; nidx++) {
+        var node = nodes[nidx];
+        node.innerHTML = node.textContent.split(" ").map(function (word) {
+            return "<span>" + word + "</span>";
+        }).join(" ");
+        var spans = node.querySelectorAll("span");
+        var offsetLeft = 0;
+        for (var sidx = 0; sidx < spans.length; sidx++) {
+            var span = spans[sidx];
+            if (span.offsetLeft < offsetLeft) {
+                node.insertBefore(document.createElement("br"), span);
+            }
+            offsetLeft = span.offsetLeft;
+            span.outerHTML = span.innerHTML;
+        }
+        node.normalize();
+    }
+}

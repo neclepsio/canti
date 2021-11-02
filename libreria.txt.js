@@ -321,15 +321,15 @@ e quando scenderà la notte sempre io dirò:
 
 
 
-#{musica} Tu sei santo tu sei re {media https://www.youtube.com/watch?v=-EtAY6ADJzo}
+#{musica} Tu sei santo, tu~sei~re {media https://www.youtube.com/watch?v=-EtAY6ADJzo}
 
-> Tu sei santo tu sei re,
->Tu sei santo tu sei re,
->Tu sei santo tu sei re.
+>Tu sei santo, tu sei re,
+>Tu sei santo, tu sei re,
+>Tu sei santo, tu sei re.
 
->Tu sei santo tu sei re,
->Tu sei santo tu sei re,
->Tu sei santo tu sei re.
+>Tu sei santo, tu sei re,
+>Tu sei santo, tu sei re,
+>Tu sei santo, tu sei re.
 
 Lo confesso con il cuor
 lo professo a te Signor,
