@@ -13,10 +13,10 @@ Vuoi realizzare una pagina simile a questa? {github}.
 `;
 
 function alertAndLog(err) {
-    if (debug) {
-        console.log(err);
+    console.log(err);
+    /*if (debug) {
         alert(err);
-    }
+    }*/
 }
 
 function parseSource(text) {
