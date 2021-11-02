@@ -262,17 +262,15 @@ function openMedia(url) {
     }
 }
 
+// https://stackoverflow.com/a/25811282/1924721
 function fixLarghezzaTitoli() {
-    var nodes = document.querySelectorAll(".titolo > span");
-    for (var nidx = 0; nidx < nodes.length; nidx++) {
-        var node = nodes[nidx];
+    for (let node of document.querySelectorAll(".titolo > span")) {
         node.innerHTML = node.textContent.split(" ").map(function (word) {
             return "<span>" + word + "</span>";
         }).join(" ");
-        var spans = node.querySelectorAll("span");
+        
         var offsetLeft = 0;
-        for (var sidx = 0; sidx < spans.length; sidx++) {
-            var span = spans[sidx];
+        for (let span of node.querySelectorAll("span")) {
             if (span.offsetLeft < offsetLeft) {
                 node.insertBefore(document.createElement("br"), span);
             }
