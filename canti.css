@@ -66,7 +66,7 @@ img.musica {
 img.media {
     height: 0.55em;
     cursor: pointer;
-    top: 0.1em;
+    top: 0.05em;
 }
 
 
@@ -141,7 +141,7 @@ p.debug {
 
 
 /* multi colonna su desktop */
-@media all and (min-width: 900px) and (orientation: landscape) {
+@media screen and (min-width: 900px) and (orientation: landscape) {
     .song:not(.lettura) {
         display: flex;
         flex-flow: column wrap;
@@ -251,7 +251,7 @@ button {
  * non è il formato ideale e sarebbe meglio preparare
  * una presentazione a parte)
  */
-@media all and (max-device-width: 900px) {
+@media screen and (max-device-width: 900px) {
     body:not(.media-visibile) #online.online {
         opacity: 1;
         pointer-events: all;
@@ -388,5 +388,23 @@ body.media-visibile #media {
         opacity: 0.5;
     }
     100% {
+    }
+}
+
+
+
+/* stampa */
+
+@media print {
+    hr {
+        break-after: always;
+    }
+
+    img.media {
+        display: none;
+    }
+
+    #buttons {
+        display: none;
     }
 }

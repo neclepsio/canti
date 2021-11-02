@@ -516,7 +516,7 @@ nel nome del Signore.
 
 
 
-#{musica} Alla tua presenza
+#{musica} Alla tua presenza {media https://www.youtube.com/watch?v=WzH7HFzAflk}
 
 _Alla tua presenza portaci Signor,
 nei tuoi atri noi vogliamo dimorare.
@@ -691,4 +691,34 @@ nei cieli,
 nei cieli.
 Beati,
 beati.
+
+
+
+#{musica} Resta qui con noi, si fa sera {media https://www.youtube.com/watch?v=rHpTEnrxoOk}
+
+Resta qui con noi,
+Signore, la notte si avvicina, 
+resta qui con noi,
+avanza il buio ed il timore insidia il cuore.
+Resta qui con noi
+e dividi questo pane
+così in noi vivrai,
+la via ci mostrerai,
+resta con noi, si fa sera.
+
+Resta qui con noi,
+Signore, la notte si avvicina,
+resta qui con noi,
+avanza il buio ed il timore insidia il cuore.
+Resta qui con noi
+e dacci questo vino
+cosi in noi vivrai,
+la via ci mostrerai,
+resta con noi, si fa sera.
+
+Apri i nostri occhi
+e ti riconosceremo
+così in noi vivrai,
+la via ci mostrerai,
+resta con noi, si fa sera.
 `

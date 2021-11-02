@@ -13,7 +13,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-{???}
+{alla tua presenza}
 
 --------------------------------------------------------------------------------
 
@@ -128,7 +128,7 @@ Allora, chiamati a sé i suoi discepoli, disse loro: «In verità io vi dico: qu
 --------------------------------------------------------------------------------
 
 . Comunione
-{???}
+{resta qui con noi, si fa sera}
 
 --------------------------------------------------------------------------------
 
