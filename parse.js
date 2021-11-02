@@ -34,8 +34,7 @@ function parseSource(text) {
             return match;
         }
         alertAndLog("Impossibile trovare \"" + p1 + "\" nella libreria.");
-        // return "% " + match;
-        return match;
+        return "%" + match;
     });
     // lo faccio due volte per gestire i tag media nella libreria
     text = text.replace(/\{[ \t]*media +(.*?)[ \t]*\}/gm, function(match, p1) {
@@ -164,7 +163,11 @@ function parseSource(text) {
             klass = "strofa";
             sezione = "song";
         }
-        
+        if (line.indexOf("%{") >= 0) {
+            line = line.replace("%{", "{")
+            klass += " debug";
+        }
+    
         // inserimento eventuale spazio tra paragrafi
         if (klass != lastKlass || emptyLine) {
             if (lastKlass != "") {

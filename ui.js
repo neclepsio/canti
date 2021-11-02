@@ -111,14 +111,19 @@ function setEvents() {
         }
     });
 
+    let online = document.getElementById("online");
+    let lastOnline = undefined;
     setInterval(function() {
-        let online = document.getElementById("online");
-        if (navigator.onLine && !debug) {
-            online.classList.add("online");
-        } else {
-            online.classList.remove("online");
+        if (lastOnline === navigator.onLine) {
+            return;
         }
+        lastOnline = navigator.onLine;
+        online.classList.toggle("online", lastOnline);
     }, 1000);
+
+    online.addEventListener("click", function(e) {
+        online.classList.remove("online");
+    });
 }
 
 function handlePopups() {
