@@ -45,6 +45,8 @@ Quella andò e fece come aveva detto Elia; poi mangiarono lei, lui e la casa di 
 
 ## Sal~145
 
+@{img auto 4em salmo.svg}
+
 / {risposta} Loda il Signore, anima mia.
 
 Il Signore rimane fedele per sempre

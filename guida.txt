@@ -1,4 +1,4 @@
-Foglietto dei canti - v1.4.0
+Foglietto dei canti - v1.5.0
 ----------------------------
 
 Copyright (c) 2021 Ignazio Di Napoli -- vedi licenza in fondo a questo file.
@@ -63,6 +63,12 @@ ad esempio {media https://www.youtube.com/watch?v=Qf_xvOnb-P0}. Toccando
 l'icona, per i video YouTube verrà visualizzato un riproduttore integrato, per
 gli altri link si aprirà un'altra tab o finestra.
 Le immagini ed i collegamenti nei titoli saranno rimosse nella voce dell'indice.
+
+Per inserire una qualunque immagine, copiarla nella cartella ed usare:
+  {img larghezza altezza nomefile}
+Larghezza ed altezza sono definiti come unità CSS. Per esempio:
+  {img auto 4em salmo.svg}
+Il nome del file non può contenere spazi.
 
 La punteggiatura verrà abbellita: 
   '     diventa   ‘ o ’

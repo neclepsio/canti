@@ -33,6 +33,9 @@ function parseSource(text) {
         if (p1l.startsWith("media ")) {
             return match;
         }
+        if (p1l.startsWith("img ")) {
+            return match;
+        }
         alertAndLog("Impossibile trovare \"" + p1 + "\" nella libreria.");
         return "%" + match;
     });
@@ -235,14 +238,21 @@ function parseSource(text) {
         let r = new RegExp("\\{" + k + "\\}", "g");
         res = res.replace(r, '<img class="' + k + '" src="' + k + '.svg">');
     }
+    res = res.replace(/\{img +(.*?) +(.*?) +(.*?)\}/g, function(match, p1, p2, p3) {
+        res  = '<img style="';
+        res += 'width: '  + p1 + "; ";
+        res += 'height: ' + p2 + "; ";
+        res += '" src="'  + p3 + '">';
+        return res;
+    })
     
     // media
-    res = res.replace(/\{media (.*?)\}/g, function(match, p1) {
+    res = res.replace(/\{media +(.*?)\}/g, function(match, p1) {
         var link = links[parseInt(p1)];
         return '<img class="media" src="youtube.svg" data-link="' + link + '">';
     })
 
-    // tag (introdotto dal titolo)
+    // tag (span dal titolo)
     res = res.replace(/\{% (.*?)\}/g, function(match, p1) {
         return "<span>" + p1 + "</span>";
     })
