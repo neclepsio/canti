@@ -23,7 +23,7 @@ Descrizione del formato
 -----------------------
 
 Per applicare la formattazione far iniziare le righe come di seguito.
-  .    i nomi dei momenti, centrati, prima del titolo;
+  .    i nomi dei momenti, se prima del titolo, o l'autore se dopo;
   #    i titoli, centrati ed in maiuscoletto;
   ##   riga in grassetto;
   >    i ritornelli, in grassetto e rientrati;

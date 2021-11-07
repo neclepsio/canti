@@ -413,6 +413,7 @@ la mia anima esulta per te.
 
 
 #{musica} Gloria a Dio [Mariano] {media https://www.youtube.com/watch?v=KewJv-uYGLk}
+.Luigi Mariano
 
 >Gloria a Dio nell'alto dei cieli
 >e pace in terra agli uomini che egli ama. (2 volte)
@@ -428,7 +429,7 @@ accogli benigno la nostra preghiera.
 Tu che siedi alla destra del Padre abbi pietà di noi.
 >* (1 volta)
 Tu solo il Santo, tu solo il Signore,
-tu solo l'Altissimo, Gesù Cristo.
+tu l'Altissimo, Gesù Cristo.
 Con lo Spirito Santo nella gloria del Padre.
 >* (2 volte)
 
@@ -503,6 +504,7 @@ Cieli e terra si prostrino al re dei re.
 
 
 #{musica} Santo [Bonfitto] {media https://www.youtube.com/watch?v=4KPeGWzGx6A}
+.Padre Michele Bonfitto
 
 Santo, santo, santo il Signore
 Dio dell'universo.
@@ -721,4 +723,51 @@ e ti riconosceremo
 così in noi vivrai,
 la via ci mostrerai,
 resta con noi, si fa sera.
+
+
+
+#{musica} Gesù verrà {media https://www.youtube.com/watch?v=oSg3d9NGe90}
+
+Grande gioia ci sarà, la speranza rivivrà,
+la tua vita cambierà, devi crederlo perché
+Gesù verrà.
+
+Il tuo deserto sparirà, nuove vie lui ti aprirà,
+la tristezza passerà e la notte più non tornerà,
+Gesù verrà.
+>Gesù verrà, la sua gloria apparirà,
+>Gesù verrà, come il sole splenderà,
+>Gesù verrà, e con noi lui resterà,
+>come una stella lui sarà
+>ed il tuo cuore orienterà,
+>Gesù verrà.  (2 volte)
+
+>Gesù verrà.
+La città di Dio verrà, per gli eletti si aprirà,
+la giustizia regnerà e la pace tornerà.
+Gesù verrà.
+
+Ogni uomo adorerà Gesù Cristo che verrà
+e lo Spirito sarà l'acqua viva che ci riempirà,
+Gesù verrà.
+>*
+Vieni, vieni, vieni Gesù,
+Vieni, vieni, vieni Gesù,
+Vieni, vieni, vieni Gesù,
+Vieni, vieni, vieni Gesù,
+>*
+Vieni, vieni.
+
+
+
+#{musica} Re dei re [322] {media https://www.youtube.com/watch?v=kEnDL6OJ5k0}
+
+Io cerco il tuo volto, di te ha sete il mio cuore,
+la tua Parola mi guida, la mia forza sei tu.
+Io contemplo la tua maestà.
+
+O Signor, ti vedrò, a te le mani innalzerò,
+per sempre ti benedirò; quando tu tornerai
+nella tua Chiesa regnerai,
+O re dei re.
 `
