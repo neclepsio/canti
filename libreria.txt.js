@@ -770,4 +770,24 @@ O Signor, ti vedrò, a te le mani innalzerò,
 per sempre ti benedirò; quando tu tornerai
 nella tua Chiesa regnerai,
 O re dei re.
+
+#{musica} Adoro te {media https://www.youtube.com/watch?v=nBx3-jKsoz0}
+
+Sei qui davanti a me, o mio Signore,
+sei in questa brezza che ristora il cuore.
+Roveto che mai si consumerà,
+presenza che riempie l'anima.
+>Adoro Te, fonte della vita.
+>Adoro Te, Trinità infinita.
+>I miei calzari leveró su questo santo suolo,
+>alla presenza Tua mi prostrerò
+Sei qui davanti a me o Mio Signor,
+nella Tua grazia trovo la mia gioia.
+Io lodo, ringrazio e prego perché
+il mondo ritorni a vivere in Te,
+a vivere in Te.
+>Adoro Te, fonte della vita...
+>Mio signor, mio signor
+>Adoro Te, fonte della vita...
+Mio Signor
 `
