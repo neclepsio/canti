@@ -457,7 +457,7 @@ e ti proclamo mio Signore.
 
 
 
-# Abbracciami
+#{musica} Abbracciami {media https://www.youtube.com/watch?v=c_jr5UXoyiM}
 
 Gesù parola viva e vera,
 sorgente che disseta e cura ogni ferita,
@@ -534,6 +534,7 @@ per sempre insieme a te
 _Gesù.____
 
 
+
 #{musica} Voglio vedere il tuo volto
 
 La mia preghiera voglio innalzare a te che sei il mio Signor,
@@ -599,7 +600,6 @@ tu sei il mio Signor.
 
 _Mh, mh, mh, _mh.
 
-
 Sei tu che mi hai creato nel segreto,
 nel seno di mia madre mi hai formato,
 adesso vedo che tu hai fatto di me un prodigio,
@@ -635,6 +635,7 @@ Dio, mia speranza sei tu,
 Donami pace, o Signore,
 con te al sicuro vivrò.
 >*
+
 
 
 #{musica} Resta qui con noi {media https://www.youtube.com/watch?v=PUFlAzyWMY4}
@@ -771,6 +772,8 @@ per sempre ti benedirò; quando tu tornerai
 nella tua Chiesa regnerai,
 O re dei re.
 
+
+
 #{musica} Adoro te {media https://www.youtube.com/watch?v=nBx3-jKsoz0}
 
 Sei qui davanti a me, o mio Signore,
@@ -790,4 +793,84 @@ a vivere in Te.
 >Mio signor, mio signor
 >Adoro Te, fonte della vita...
 Mio Signor
+
+
+
+#{musica} Re di gloria {media https://www.youtube.com/watch?v=XZZF9C8pZpc}
+
+Ho incontrato te Gesù e ogni cosa in me è cambiata
+tutta la mia vita ora ti appartiene,
+tutto il mio passato io lo affido a Te 
+Gesù Re di gloria mio Signor. 
+
+Tutto in te riposa, la mia mente il mio cuore
+trovo pace in Te Signor, tu mi dai la gioia,
+voglio stare insieme a te, non lasciarti mai
+Gesù Re di gloria mio Signor.
+
+>Dal tuo amore chi mi separerà 
+>sulla croce hai dato la vita per me
+>Una corona di gloria mi darai
+>quando un giorno ti vedrò.
+
+>*
+>Io ti aspetto mio Signor! 
+>Io ti aspetto mio Signor! 
+>Io ti aspetto mio Re!
+
+
+
+#{musica} Cristo Re {media https://www.youtube.com/watch?v=_BUs4qF81Vg}
+
+Benedetto sei Signore, Re di pace e di vittoria,
+sei venuto in mezzo a noi, mite ed umile di cuore.
+Buon maestro ci hai insegnato ad amare,
+questo popolo ti eleva la sua lode.
+>A te cantiamo Cristo Re dell'universo,
+>tu divino Redentore vieni a dimorare in noi.
+>Ti proclamiamo Cristo Re dell'universo,
+>la tua luce risplende su di noi.
+
+La speranza è solo in te, perchè sei un Dio fedele,
+con la tua misericordia, hai guarito i nostri cuori.
+Tu ci guidi e ci consoli con amore,
+questo popolo ti eleva la sua lode.
+>*
+>A te cantiamo Cristo Re dell'universo,
+>tu divino Redentore vieni a dimorare in noi.
+>Ti proclamiamo Cristo Re dell'universo,
+>la tua luce risplende su di noi,
+>la tua luce risplende su di noi.
+
+
+
+#{musica} Regna sul tuo trono {media https://www.youtube.com/watch?v=4i0gHHd6Mfg&list=RD4i0gHHd6Mfg&start_radio=1}
+
+Qui è il trono tuo, Signor, qui dentro il mio cuor.
+Regnerai su quel trono che spetta solo a te.
+>Sempre più grande il tuo regno,
+>fine non avrà, fine non avrà,
+>fine non avrà, tu sei degno, re dei re. 
+Qui è il trono tuo, Signor, sulla terra e il ciel.
+Regnerai su quel trono che spetta solo a te.
+>*
+Qui è il trono tuo, Signor, qui dentro il mio cuor.
+Regnerai su quel trono che spetta solo a te.
+>*
+Qui è il trono tuo, Signor.
+
+
+#{musica} Santo (Pane di vita nuova) {media https://www.youtube.com/watch?v=nxFUEwzfEik}
+.Marco Frisina
+
+Santo Santo Santo 
+il Signore Dio dell’universo.
+I cieli e la terra sono pieni 
+della tua gloria.
+>Hosanna in excelsis!
+>Hosanna in excelsis!
+Benedetto colui che viene 
+nel nome del Signore
+>Hosanna in excelsis!
+>Hosanna in excelsis!
 `
