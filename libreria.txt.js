@@ -844,7 +844,7 @@ questo popolo ti eleva la sua lode.
 
 
 
-#{musica} Regna sul tuo trono {media https://www.youtube.com/watch?v=4i0gHHd6Mfg&list=RD4i0gHHd6Mfg&start_radio=1}
+#{musica} Regna sul tuo trono {media https://www.youtube.com/watch?v=xlCrGIamTn4}
 
 Qui è il trono tuo, Signor, qui dentro il mio cuor.
 Regnerai su quel trono che spetta solo a te.
