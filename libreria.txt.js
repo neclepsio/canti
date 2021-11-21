@@ -873,4 +873,68 @@ Benedetto colui che viene
 nel nome del Signore
 >Hosanna in excelsis!
 >Hosanna in excelsis!
+
+
+
+#{musica} Lode a te o Cristo, verbo~di~salvezza {media https://www.youtube.com/watch?v=L0GBjJhB4kU}
+.Francesco Buttazzo
+
+/Lode a te o Cristo, verbo di salvezza
+/Lode a te o Cristo, parola di Dio per noi.
+
+
+
+#{musica} Alzati {media https://www.youtube.com/watch?v=xMSLfwC43RA}
+
+Alzati! Vedi la tua luce splende già.
+Alzati! La gloria del Signore ti avvolgerà
+poiché le tenebre ricoprono la terra
+ma su te risplende il Signore.
+Alzati! Ecco i tuoi figli vengono a te
+Alzati! Tutti i re vedranno il tuo splendore.
+>È lui il tuo Dio, il tuo Signore,
+>è lui che dà la gioia al tuo cuore.
+>Tu sei il mio Dio, il mio Signore,
+>hai cambiato la mia vita con il tuo immenso amor.
+>Tu sei il mio Dio, il mio Signore,
+>solo te io loderò, solo te adorerò.
+>Gesù mio re.
+Alzati, oggi la salvezza è su di te.
+Alzati! Di pace e di giustizia ti vestirai
+poiché è finito il tempo del tuo lutto
+tu sarai la gioia del Signore.
+Alzati! Non tramonta il sole sopra di te.
+Alzati! Tutti i re vedranno il tuo splendore.
+>*
+>Mio Signore, Gesù mio re.
+>Mio Signore, Gesù mio re.
+>Mio Signore, Gesù mio re.
+>Gesù mio re.
+
+
+
+#{musica} Dio ha tanto amato il mondo {media https://www.youtube.com/watch?v=dyqVXwVcwRg}
+
+Oggi viene a te la luce vera,
+quella che illumina ogni uomo.
+Se l'accoglierai avrai il potere
+di esser figlio suo
+e grazia su grazia nel tuo cuore nascerà.
+>Dio ha tanto amato il mondo (da offrire Gesù)
+>perché chiunque crede in lui
+>abbia la salvezza.
+>Con lo spirito d'amore
+>ci ha chiamati alla libertà.
+
+>Dio ha liberato il mondo
+>perché tu oggi creda in lui
+>e in fede e carità,
+>con lo spirito d'amore, 
+>libero per sempre tu vivrai.  
+Oggi viene a te la gioia piena,
+quella che sanerà ogni cuore.
+Se l'accoglierai avrai il potere
+di esser figlio suo,
+lui viene nel mondo e il tuo cuore rivivrà.
+>*
 `
