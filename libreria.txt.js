@@ -120,6 +120,7 @@ qui riuniti nel tuo nome
 
 
 #{musica} Santo [Gen Verde]
+.Gen Verde
 
 >Santo, santo, santo.
 >Santo, santo, santo.

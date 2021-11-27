@@ -110,7 +110,7 @@ State attenti a voi stessi, che i vostri cuori non si appesantiscano in dissipaz
 --------------------------------------------------------------------------------
 
 @. Santo
-{santo (pane di vita nuova)}
+{santo [gen verde]}
 
 --------------------------------------------------------------------------------
 
