@@ -119,8 +119,8 @@ qui riuniti nel tuo nome
 
 
 
-#{musica} Santo [Gen Verde]
-.Gen Verde
+#{musica} Santo (Come fuoco vivo) {media https://www.youtube.com/watch?v=Hh4PX1BnyJY}
+.Gen Rosso e Gen Verde
 
 >Santo, santo, santo.
 >Santo, santo, santo.
@@ -937,5 +937,22 @@ quella che sanerà ogni cuore.
 Se l'accoglierai avrai il potere
 di esser figlio suo,
 lui viene nel mondo e il tuo cuore rivivrà.
+>*
+
+
+
+# {musica} Grandi cose {media https://www.youtube.com/watch?v=slr1gbJrc3g}
+
+>Grandi cose ha fatto il Signore per noi,
+>ha fatto germogliare i fiori tra le rocce.
+>Grandi cose ha fatto il Signore per noi,
+>ci ha riportati liberi alla nostra terra.
+>Ed ora possiamo cantare, possiamo gridare,
+>l'amore che Dio ha versato su noi. 
+Tu che sai strappare dalla morte,
+ha sollevato il nostro viso dalla polvere,
+Tu che hai sentito il nostro pianto,
+nel nostro cuore hai messo un seme
+di felicità.
 >*
 `
