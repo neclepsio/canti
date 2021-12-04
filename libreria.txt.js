@@ -955,4 +955,25 @@ Tu che hai sentito il nostro pianto,
 nel nostro cuore hai messo un seme
 di felicità.
 >*
-`
+
+
+
+# {musica} Pane del cielo {media }
+
+>Pane del cielo sei tu Gesù:
+>via d’amore, tu ci fai come te.
+No, non è rimasta fredda la terra:
+Tu sei rimasto con noi, per nutrirci di Te
+Pane di vita, ed infiammare col Tuo amore
+tutta l’umanità.
+>*
+Sì, il cielo è qui su questa terra:
+Tu sei rimasto con noi, ma ci porti con Te,
+nella Tua casa, dove vivremo insieme a Te
+tutta l’eternità.
+>*
+No, la morte non può farci paura:
+Tu sei rimasto con noi, e chi vive di Te
+vive per sempre. Sei Dio con noi, sei Dio per noi
+Dio in mezzo a noi.
+>*`
