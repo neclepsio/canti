@@ -74,6 +74,9 @@ function parseSource(text) {
         }
 
         // eliminazione accordi
+        if (line.match(/^@.*$/)) {
+            continue;
+        }
         line = line.replace(/\\\[/g, "\uE000");
         line = line.replace(/\[.*?\]/g, "");
         line = line.replace(/_/g, "");
