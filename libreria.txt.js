@@ -483,7 +483,7 @@ il tuo Spirito in me in eterno ti loderà.
 
 
 
-#{musica} Lodate il Signore
+#{musica} Lodate il Signore {media https://www.youtube.com/watch?v=jIT6IBYXTko}
 
 Lodate il Signore dei cieli. Lodate angeli suoi.
 Lodate voi tutte sue schiere la sua maestà.
@@ -958,7 +958,7 @@ di felicità.
 
 
 
-# {musica} Pane del cielo {media }
+# {musica} Pane del cielo {media https://www.youtube.com/watch?v=7I3fdiq60Nk}
 
 >Pane del cielo sei tu Gesù:
 >via d’amore, tu ci fai come te.
@@ -976,4 +976,78 @@ No, la morte non può farci paura:
 Tu sei rimasto con noi, e chi vive di Te
 vive per sempre. Sei Dio con noi, sei Dio per noi
 Dio in mezzo a noi.
->*`
+>*
+
+
+
+# {musica} Servo per amore {media https://www.youtube.com/watch?v=b5ayqLFCFOc}
+
+Una notte di sudore,
+sulla barca in mezzo al mare
+e mentre il cielo si imbianca già
+tu guardi le tue reti vuote
+Ma la voce che ti chiama
+un altro mare ti mostrerà
+e sulle rive di ogni cuore
+le tue reti getterai.
+>Offri la vita tua come Maria
+>ai piedi della croce
+>e sarai servo di ogni uomo, servo per amore
+>sacerdote dell'umanità.
+Avanzavi nel silenzio,
+tra le lacrime speravi
+che il seme sparso davanti a te
+cadesse sulla buona terra.
+Ora il cuore tuo è in festa
+perché il grano biondeggia ormai
+è maturato sotto sole,
+puoi riporlo nei granai.
+>*
+
+
+# {musica} Io voglio amarti {media https://www.youtube.com/watch?v=gnTUY4jf2c4}
+
+[A]Vivo d'amore Signo[E7]re,
+re glo[A]rioso e letizia del [E]cuor.
+Tu [F#-]vivi na[C#-]scosto in un'[D7+]ostia per [A7+]me,
+il tuo [B-7]Spirito m'infiamma d'[E4]amor.[E]
+Tu che [F#-]prendi di[C#-]mora nei [D7]cuori Ge[A7+]sù
+fa ch'io [D]resti cuore a [B-7]cuore con [E4]te.[E]
+>Io voglio am[A]arti [C#-][]e [D7+]viver d'a[E]more,
+>custo[A]dirti, [C#-][]Pa[D7+]rola di [C#-]Dio.
+>E con il [F#-]Pa[C#-]dre di[D7+]mori in [A]me,
+>io [B-7]chiedo il tuo a[C#-]more infi[D7+]nito.[E]
+>*
+T'amo divino Signore,
+verbo eterno, parola di Dio.
+Amandoti attiro il Padre a me,
+e con lui prendi dimora nel cuor.
+Visitate il mio cuore col vostro amor
+e ricolmo di ogni pace sarò.
+>*
+Fiamma divina tu sei,
+col tuo amore cancelli il timor.
+Tu bruci i peccati commessi Gesù,
+col tuo fuoco tu li fai scomparir.
+O mia dolce fornace che ardi d'amor,
+col tuo fuoco tu m'incendi il cuor.
+>*
+
+
+# {musica} Magnificat {media https://www.youtube.com/watch?v=OH2MmLKhIME}
+
+>L'anima mia magnifica il Signore
+>ed il mio spirito esulta al Salvatore
+>perché ha guardato all'umiltà della sua serva
+>e d'ora in poi mi chiameran beata.
+Grandi cose ha fatto in me il Signore, e santo è il suo Nome.
+La sua bontà si stende su chi lo teme,
+ha spiegato la potenza del suo braccio, ha disperso i superbi di cuore,
+ha rovesciato i potenti dai loro troni.
+>*
+Ha innalzato gli umili, ha ricolmato di beni gli affamati,
+ha rimandato i ricchi a mani vuote;
+ha soccorso il suo servo Israele ricordando la sua bontà promessa
+ai nostri padri, ad Abramo e alla sua discendenza per sempre.
+>*
+`

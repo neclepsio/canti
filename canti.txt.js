@@ -1,19 +1,18 @@
 let canti = `
-% https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20211114
+@ https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20211208
 
-. 5 dicembre 2021
-# Seconda domenica di Avvento
-. Anno C
+. 8 dicembre 2021
+# Immacolata concenzione della Beata Vergine Maria
+@ . Anno C
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
-
 
 {indice}
 
 --------------------------------------------------------------------------------
 
 . Ingresso
-{alzati}
+{lodate il signore}
 
 --------------------------------------------------------------------------------
 
@@ -22,91 +21,71 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 # Prima Lettura
-/ Dio mostrerà il tuo splendore a ogni creatura.
+/ Porrò inimicizia tra la tua stirpe e la stirpe della donna.
 
-## Dal libro del profeta Baruc (Bar~5,1-9)
+## Dal libro della Genesi (Gen~3,9-15.20)
  
-Deponi, o Gerusalemme, la veste del lutto e dell'afflizione,
-rivèstiti dello splendore della gloria
-che ti viene da Dio per sempre.
+[Dopo che l'uomo ebbe mangiato del frutto dell'albero,] il Signore Dio lo chiamò e gli disse: «Dove sei?». Rispose: «Ho udito la tua voce nel giardino: ho avuto paura, perché sono nudo, e mi sono nascosto». Riprese: «Chi ti ha fatto sapere che sei nudo? Hai forse mangiato dell'albero di cui ti avevo comandato di non mangiare?». Rispose l'uomo: «La donna che tu mi hai posto accanto mi ha dato dell'albero e io ne ho mangiato». Il Signore Dio disse alla donna: «Che hai fatto?». Rispose la donna: «Il serpente mi ha ingannata e io ho mangiato».
 
-Avvolgiti nel manto della giustizia di Dio,
-metti sul tuo capo il diadema di gloria dell'Eterno,
-perché Dio mostrerà il tuo splendore
-a ogni creatura sotto il cielo.
+Allora il Signore Dio disse al serpente:
 
-Sarai chiamata da Dio per sempre:
-«Pace di giustizia» e «Gloria di pietà».
+«Poiché hai fatto questo, maledetto tu fra tutto il bestiame e fra tutti gli animali selvatici!
 
-Sorgi, o Gerusalemme, sta' in piedi sull'altura
-e guarda verso oriente; vedi i tuoi figli riuniti,
-dal tramonto del sole fino al suo sorgere,
-alla parola del Santo, esultanti per il ricordo di Dio.
+Sul tuo ventre camminerai e polvere mangerai per tutti i giorni della tua vita. Io porrò inimicizia fra te e la donna, fra la tua stirpe e la sua stirpe: questa ti schiaccerà la testa e tu le insidierai il calcagno».
 
-Si sono allontanati da te a piedi,
-incalzati dai nemici;
-ora Dio te li riconduce
-in trionfo come sopra un trono regale.
-
-Poiché Dio ha deciso di spianare
-ogni alta montagna e le rupi perenni,
-di colmare le valli livellando il terreno,
-perché Israele proceda sicuro sotto la gloria di Dio.
-
-Anche le selve e ogni albero odoroso
-hanno fatto ombra a Israele per comando di Dio.
-
-Perché Dio ricondurrà Israele con gioia
-alla luce della sua gloria,
-con la misericordia e la giustizia
-che vengono da lui.
+L'uomo chiamò sua moglie Eva, perché ella fu la madre di tutti i viventi.
 
 Parola di Dio.
 
 --------------------------------------------------------------------------------
 
 # Salmo Responsoriale
-## Dal salmo 125
+## Dal Salmo 97
 
-/ {risposta} Grandi cose ha fatto il Signore per noi.
+/ {risposta} Cantate al Signore un canto nuovo, perché ha compiuto meraviglie.
 
-Quando il Signore ristabilì la sorte di Sion,
-ci sembrava di sognare.
-Allora la nostra bocca si riempì di sorriso,
-la nostra lingua di gioia.
+Cantate al Signore un canto nuovo,
+perché ha compiuto meraviglie.
+Gli ha dato vittoria la sua destra
+e il suo braccio santo. 
  
-/ {risposta} Grandi cose ha fatto il Signore per noi.
+/ {risposta} Cantate al Signore un canto nuovo, perché ha compiuto meraviglie.
 
-Allora si diceva tra le genti:
-«Il Signore ha fatto grandi cose per loro».
-Grandi cose ha fatto il Signore per noi:
-eravamo pieni di gioia.
+Il Signore ha fatto conoscere la sua salvezza,
+agli occhi delle genti ha rivelato la sua giustizia.
+Egli si è ricordato del suo amore,
+della sua fedeltà alla casa d'Israele.
  
-/ {risposta} Grandi cose ha fatto il Signore per noi.
+/ {risposta} Cantate al Signore un canto nuovo, perché ha compiuto meraviglie.
 
-Ristabilisci, Signore, la nostra sorte,
-come i torrenti del Negheb.
-Chi semina nelle lacrime
-mieterà nella gioia.
- 
-/ {risposta} Grandi cose ha fatto il Signore per noi.
+Tutti i confini della terra hanno veduto
+la vittoria del nostro Dio.
+Acclami il Signore tutta la terra,
+gridate, esultate, cantate inni! 
 
-Nell'andare, se ne va piangendo,
-portando la semente da gettare,
-ma nel tornare, viene con gioia,
-portando i suoi covoni.
-
-/ {risposta} Grandi cose ha fatto il Signore per noi.
+/ {risposta} Cantate al Signore un canto nuovo, perché ha compiuto meraviglie.
 
 --------------------------------------------------------------------------------
 
 # Seconda Lettura
-/ Siate integri e irreprensibili per il giorno di Cristo.
-## Dalla lettera di san Paolo apostolo ai Filippési (Fil~1,4-6.8-11)
+/ In Cristo Dio ci ha scelti prima della creazione del mondo.
+## Dalla lettera di san Paolo apostolo agli Efesini (Ef~1,3-6.11-12)
  
-Fratelli, sempre, quando prego per tutti voi, lo faccio con gioia a motivo della vostra cooperazione per il Vangelo, dal primo giorno fino al presente. Sono persuaso che colui il quale ha iniziato in voi quest'opera buona, la porterà a compimento fino al giorno di Cristo Gesù.
+Benedetto Dio, Padre del Signore nostro Gesù Cristo, che ci ha benedetti con ogni benedizione spirituale nei cieli in Cristo.
 
-Infatti Dio mi è testimone del vivo desiderio che nutro per tutti voi nell'amore di Cristo Gesù. E perciò prego che la vostra carità cresca sempre più in conoscenza e in pieno discernimento, perché possiate distinguere ciò che è meglio ed essere integri e irreprensibili per il giorno di Cristo, ricolmi di quel frutto di giustizia che si ottiene per mezzo di Gesù Cristo, a gloria e lode di Dio.
+In lui ci ha scelti prima della creazione del mondo \
+per essere santi e immacolati di fronte a lui nella carità, \
+predestinandoci a essere per lui figli adottivi \
+mediante Gesù Cristo, \
+secondo il disegno d'amore della sua volontà, \
+a lode dello splendore della sua grazia, \
+di cui ci ha gratificati nel Figlio amato.
+
+In lui siamo stati fatti anche eredi,\
+predestinati -- secondo il progetto di colui \
+che tutto opera secondo la sua volontà -- \
+a essere lode della sua gloria, \
+noi, che già prima abbiamo sperato nel Cristo.
 
 Parola di Dio.
 
@@ -115,32 +94,32 @@ Parola di Dio.
 .Acclamazione al Vangelo
 {alleluia (passeranno i cieli)}
 
-/ Alleluia, alleluia.
+##Alleluia, alleluia.
 
-Preparate la via del Signore,
-raddrizzate i suoi sentieri!
-Ogni uomo vedrà la salvezza di Dio! (Lc~3,4.6)
+Rallegrati, piena di grazia,
+il Signore è con te,
+benedetta tu fra le donne. (Cfr. Lc 1,28.42)
 
-/ Alleluia.
+##Alleluia.
 
 --------------------------------------------------------------------------------
 
 # Vangelo
-/ Ogni uomo vedrà la salvezza di Dio!
-## {croce} Dal Vangelo secondo Luca (Lc~3,1-6)
+/ Ecco, concepirai un figlio e lo darai alla luce.
+
+## {croce} Dal Vangelo secondo Luca (Lc~1,26-38)
  
-Nell'anno quindicesimo dell'impero di Tiberio Cesare, mentre Ponzio Pilato era governatore della Giudea, Erode tetràrca della Galilea, e Filippo, suo fratello, tetràrca dell'Iturèa e della Traconìtide, e Lisània tetràrca dell'Abilène, sotto i sommi sacerdoti Anna e Càifa, la parola di Dio venne su Giovanni, figlio di Zaccarìa, nel deserto.
+In quel tempo, l'angelo Gabriele fu mandato da Dio in una città della Galilea, chiamata Nàzaret, a una vergine, promessa sposa di un uomo della casa di Davide, di nome Giuseppe. La vergine si chiamava Maria. Entrando da lei, disse: «Rallègrati, piena di grazia: il Signore è con te».
 
-Egli percorse tutta la regione del Giordano, predicando un battesimo di conversione per il perdono dei peccati, com'è scritto nel libro degli oracoli del profeta Isaìa:
+A queste parole ella fu molto turbata e si domandava che senso avesse un saluto come questo. L'angelo le disse: «Non temere, Maria, perché hai trovato grazia presso Dio. Ed ecco, concepirai un figlio, lo darai alla luce e lo chiamerai Gesù.
 
-«Voce di uno che grida nel deserto:
-Preparate la via del Signore,
-raddrizzate i suoi sentieri!
-Ogni burrone sarà riempito,
-ogni monte e ogni colle sarà abbassato;
-le vie tortuose diverranno diritte
-e quelle impervie, spianate.
-Ogni uomo vedrà la salvezza di Dio!».
+Sarà grande e verrà chiamato Figlio dell'Altissimo; il Signore Dio gli darà il trono di Davide suo padre e regnerà per sempre sulla casa di Giacobbe e il suo regno non avrà fine».
+
+Allora Maria disse all'angelo: «Come avverrà questo, poiché non conosco uomo?». Le rispose l'angelo: «Lo Spirito Santo scenderà su di te e la potenza dell'Altissimo ti coprirà con la sua ombra. Perciò colui che nascerà sarà santo e sarà chiamato Figlio di Dio. Ed ecco, Elisabetta, tua parente, nella sua vecchiaia ha concepito anch'essa un figlio e questo è il sesto mese per lei, che era detta sterile: nulla è impossibile a Dio».
+
+Allora Maria disse: «Ecco la serva del Signore: avvenga per me secondo la tua parola».
+
+E l'angelo si allontanò da lei.
 
 Parola del Signore.
 
@@ -152,7 +131,7 @@ Parola del Signore.
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{nelle tue mani}
+{servo per amore}
 
 --------------------------------------------------------------------------------
 
@@ -166,7 +145,7 @@ Parola del Signore.
 --------------------------------------------------------------------------------
 
 . Comunione
-{pane del cielo}
+{io voglio amarti}
 
 --------------------------------------------------------------------------------
 
@@ -180,7 +159,7 @@ Parola del Signore.
 @--------------------------------------------------------------------------------
 
 . Canto finale
-{grandi cose}
+{magnificat}
 
 --------------------------------------------------------------------------------
 
