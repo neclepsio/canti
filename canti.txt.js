@@ -1,9 +1,9 @@
 let canti = `
 @ https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20211208
 
-. 8 dicembre 2021
-# Immacolata concenzione della Beata Vergine Maria
-@ . Anno C
+. 12 dicembre 2021
+# Terza domenica di Avvento -- Gaudete
+. Anno C
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 
@@ -12,7 +12,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-{tu sei santo, tu sei re}
+{rallegratevi nel signore}
 
 --------------------------------------------------------------------------------
 
@@ -20,72 +20,70 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 
 --------------------------------------------------------------------------------
 
-# Prima Lettura
-/ Porrò inimicizia tra la tua stirpe e la stirpe della donna.
+#Prima Lettura
+/Il Signore esulterà per te con grida di gioia.
 
-## Dal libro della Genesi (Gen~3,9-15.20)
+##Dal libro del profeta Sofonìa (Sof~3,14-17)
  
-[Dopo che l'uomo ebbe mangiato del frutto dell'albero,] il Signore Dio lo chiamò e gli disse: «Dove sei?». Rispose: «Ho udito la tua voce nel giardino: ho avuto paura, perché sono nudo, e mi sono nascosto». Riprese: «Chi ti ha fatto sapere che sei nudo? Hai forse mangiato dell'albero di cui ti avevo comandato di non mangiare?». Rispose l'uomo: «La donna che tu mi hai posto accanto mi ha dato dell'albero e io ne ho mangiato». Il Signore Dio disse alla donna: «Che hai fatto?». Rispose la donna: «Il serpente mi ha ingannata e io ho mangiato».
-
-Allora il Signore Dio disse al serpente:
-
-«Poiché hai fatto questo, maledetto tu fra tutto il bestiame e fra tutti gli animali selvatici!
-
-Sul tuo ventre camminerai e polvere mangerai per tutti i giorni della tua vita. Io porrò inimicizia fra te e la donna, fra la tua stirpe e la sua stirpe: questa ti schiaccerà la testa e tu le insidierai il calcagno».
-
-L'uomo chiamò sua moglie Eva, perché ella fu la madre di tutti i viventi.
+Rallègrati, figlia di Sion,
+grida di gioia, Israele,
+esulta e acclama con tutto il cuore,
+figlia di Gerusalemme!
+Il Signore ha revocato la tua condanna,
+ha disperso il tuo nemico.
+Re d'Israele è il Signore in mezzo a te,
+tu non temerai più alcuna sventura.
+In quel giorno si dirà a Gerusalemme:
+«Non temere, Sion, non lasciarti cadere le braccia!
+Il Signore, tuo Dio, in mezzo a te
+è un salvatore potente.
+Gioirà per te,
+ti rinnoverà con il suo amore,
+esulterà per te con grida di gioia».
 
 Parola di Dio.
 
 --------------------------------------------------------------------------------
 
-# Salmo Responsoriale
-## Dal Salmo 97
+#Salmo Responsoriale
+##Is 12,2-6
 
-/ {risposta} Cantate al Signore un canto nuovo, perché ha compiuto meraviglie.
+/ {risposta} Canta ed esulta, perché grande in mezzo a te è il Santo d'Israele.
 
-Cantate al Signore un canto nuovo,
-perché ha compiuto meraviglie.
-Gli ha dato vittoria la sua destra
-e il suo braccio santo. 
+Ecco, Dio è la mia salvezza;
+io avrò fiducia, non avrò timore,
+perché mia forza e mio canto è il Signore;
+egli è stato la mia salvezza.
  
-/ {risposta} Cantate al Signore un canto nuovo, perché ha compiuto meraviglie.
+/ {risposta} Canta ed esulta, perché grande in mezzo a te è il Santo d'Israele.
 
-Il Signore ha fatto conoscere la sua salvezza,
-agli occhi delle genti ha rivelato la sua giustizia.
-Egli si è ricordato del suo amore,
-della sua fedeltà alla casa d'Israele.
+Attingerete acqua con gioia
+alle sorgenti della salvezza.
+Rendete grazie al Signore e invocate il suo nome,
+proclamate fra i popoli le sue opere,
+fate ricordare che il suo nome è sublime. 
  
-/ {risposta} Cantate al Signore un canto nuovo, perché ha compiuto meraviglie.
+/ {risposta} Canta ed esulta, perché grande in mezzo a te è il Santo d'Israele.
 
-Tutti i confini della terra hanno veduto
-la vittoria del nostro Dio.
-Acclami il Signore tutta la terra,
-gridate, esultate, cantate inni! 
+Cantate inni al Signore, perché ha fatto cose eccelse,
+le conosca tutta la terra.
+Canta ed esulta, tu che abiti in Sion,
+perché grande in mezzo a te è il Santo d'Israele. 
 
-/ {risposta} Cantate al Signore un canto nuovo, perché ha compiuto meraviglie.
+/ {risposta} Canta ed esulta, perché grande in mezzo a te è il Santo d'Israele.
 
 --------------------------------------------------------------------------------
 
-# Seconda Lettura
-/ In Cristo Dio ci ha scelti prima della creazione del mondo.
-## Dalla lettera di san Paolo apostolo agli Efesini (Ef~1,3-6.11-12)
+#Seconda Lettura
+/Il Signore è vicino!
+
+##Dalla lettera di san Paolo apostolo ai Filippési (Fil~4,4-7)
  
-Benedetto Dio, Padre del Signore nostro Gesù Cristo, che ci ha benedetti con ogni benedizione spirituale nei cieli in Cristo.
+Fratelli, siate sempre lieti nel Signore, ve lo ripeto: siate lieti. La vostra amabilità sia nota a tutti. Il Signore è vicino!
 
-In lui ci ha scelti prima della creazione del mondo \
-per essere santi e immacolati di fronte a lui nella carità, \
-predestinandoci a essere per lui figli adottivi \
-mediante Gesù Cristo, \
-secondo il disegno d'amore della sua volontà, \
-a lode dello splendore della sua grazia, \
-di cui ci ha gratificati nel Figlio amato.
+Non angustiatevi per nulla, ma in ogni circostanza fate presenti a Dio le vostre richieste con preghiere, suppliche e ringraziamenti.
 
-In lui siamo stati fatti anche eredi,\
-predestinati -- secondo il progetto di colui \
-che tutto opera secondo la sua volontà -- \
-a essere lode della sua gloria, \
-noi, che già prima abbiamo sperato nel Cristo.
+E la pace di Dio, che supera ogni intelligenza, custodirà i vostri cuori e le vostre menti in Cristo Gesù.
 
 Parola di Dio.
 
@@ -96,30 +94,27 @@ Parola di Dio.
 
 ##Alleluia, alleluia.
 
-Rallegrati, piena di grazia,
-il Signore è con te,
-benedetta tu fra le donne. (Cfr. Lc 1,28.42)
+Lo Spirito del Signore è sopra di me,
+mi ha mandato a portare ai poveri il lieto annuncio. (Is~61,1, citato in Lc~4,18)
 
 ##Alleluia.
 
 --------------------------------------------------------------------------------
 
-# Vangelo
-/ Ecco, concepirai un figlio e lo darai alla luce.
+#Vangelo
+/E noi che cosa dobbiamo fare?
 
-## {croce} Dal Vangelo secondo Luca (Lc~1,26-38)
+## {croce} Dal Vangelo secondo Luca (Lc~3,10-18)
  
-In quel tempo, l'angelo Gabriele fu mandato da Dio in una città della Galilea, chiamata Nàzaret, a una vergine, promessa sposa di un uomo della casa di Davide, di nome Giuseppe. La vergine si chiamava Maria. Entrando da lei, disse: «Rallègrati, piena di grazia: il Signore è con te».
+In quel tempo, le folle interrogavano Giovanni, dicendo: «Che cosa dobbiamo fare?». Rispondeva loro: «Chi ha due tuniche, ne dia a chi non ne ha, e chi ha da mangiare, faccia altrettanto».
 
-A queste parole ella fu molto turbata e si domandava che senso avesse un saluto come questo. L'angelo le disse: «Non temere, Maria, perché hai trovato grazia presso Dio. Ed ecco, concepirai un figlio, lo darai alla luce e lo chiamerai Gesù.
+Vennero anche dei pubblicani a farsi battezzare e gli chiesero: «Maestro, che cosa dobbiamo fare?». Ed egli disse loro: «Non esigete nulla di più di quanto vi è stato fissato».
 
-Sarà grande e verrà chiamato Figlio dell'Altissimo; il Signore Dio gli darà il trono di Davide suo padre e regnerà per sempre sulla casa di Giacobbe e il suo regno non avrà fine».
+Lo interrogavano anche alcuni soldati: «E noi, che cosa dobbiamo fare?». Rispose loro: «Non maltrattate e non estorcete niente a nessuno; accontentatevi delle vostre paghe».
 
-Allora Maria disse all'angelo: «Come avverrà questo, poiché non conosco uomo?». Le rispose l'angelo: «Lo Spirito Santo scenderà su di te e la potenza dell'Altissimo ti coprirà con la sua ombra. Perciò colui che nascerà sarà santo e sarà chiamato Figlio di Dio. Ed ecco, Elisabetta, tua parente, nella sua vecchiaia ha concepito anch'essa un figlio e questo è il sesto mese per lei, che era detta sterile: nulla è impossibile a Dio».
+Poiché il popolo era in attesa e tutti, riguardo a Giovanni, si domandavano in cuor loro se non fosse lui il Cristo, Giovanni rispose a tutti dicendo: «Io vi battezzo con acqua; ma viene colui che è più forte di me, a cui non sono degno di slegare i lacci dei sandali. Egli vi battezzerà in Spirito Santo e fuoco. Tiene in mano la pala per pulire la sua aia e per raccogliere il frumento nel suo granaio; ma brucerà la paglia con un fuoco inestinguibile».
 
-Allora Maria disse: «Ecco la serva del Signore: avvenga per me secondo la tua parola».
-
-E l'angelo si allontanò da lei.
+Con molte altre esortazioni Giovanni evangelizzava il popolo.
 
 Parola del Signore.
 
@@ -131,7 +126,7 @@ Parola del Signore.
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{servo per amore}
+{il nostro cuore offriamo a te}
 
 --------------------------------------------------------------------------------
 
@@ -150,7 +145,7 @@ Parola del Signore.
 --------------------------------------------------------------------------------
 
 . Dopo Comunione
-{parla al mio cuore}
+{tu sei santo, tu sei re}
 
 --------------------------------------------------------------------------------
 
@@ -159,7 +154,7 @@ Parola del Signore.
 @--------------------------------------------------------------------------------
 
 . Canto finale
-{magnificat}
+{gesù verrà}
 
 --------------------------------------------------------------------------------
 

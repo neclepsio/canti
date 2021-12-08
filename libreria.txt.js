@@ -1050,4 +1050,22 @@ ha rimandato i ricchi a mani vuote;
 ha soccorso il suo servo Israele ricordando la sua bontà promessa
 ai nostri padri, ad Abramo e alla sua discendenza per sempre.
 >*
+
+
+# {musica} Rallegratevi nel Signore {media https://www.youtube.com/watch?v=nGOEKtNoyvg}
+
+>Rallegratevi nel Signore sempre, rallegratevi,
+>non angustiatevi per nulla.
+>Rallegratevi nel Signore sempre, rallegratevi,
+>il Signore è vicino.
+E la pace di Dio sarà con voi,
+non angustiatevi per nulla.
+E la pace di Dio sarà con voi,
+alleluia.
+>*
+E la luce di Dio risplenda in voi,
+non angustiatevi per nulla.
+E la luce di Dio risplenda in voi,
+alleluia.
+>*
 `
