@@ -12,7 +12,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-{lodate il signore}
+{tu sei santo, tu sei re}
 
 --------------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ Parola del Signore.
 --------------------------------------------------------------------------------
 
 . Dopo Comunione
-{tu sei santo, tu sei re}
+{parla al mio cuore}
 
 --------------------------------------------------------------------------------
 
