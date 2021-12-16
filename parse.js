@@ -22,6 +22,7 @@ function alertAndLog(err) {
 function parseSource(text) {
     let links = [];
     text = text.replace(/^@.*?\n/gm, "");
+    text = text.replace(/\{[ \t]*liturgia[ \t]*\}/gm, liturgia);
     text = text.replace(/\{[ \t]*(.*?)[ \t]*\}/gm, function(match, p1) {
         let p1l = p1.toLowerCase();
         if (p1l in libreriaCanti) {
@@ -303,6 +304,7 @@ function main() {
     }
 
     libreriaCanti = leggiLibreria(libreria);
+    liturgia = parseLiturgia();
     let contenuto = parseSource(canti);
     document.querySelector("#contenuto").innerHTML = contenuto;
 
