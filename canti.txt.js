@@ -10,8 +10,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-{rallegratevi nel signore}
-
+{alzati}
 --------------------------------------------------------------------------------
 
 {kyrie eleison}
@@ -56,7 +55,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Canto finale
-{gesù verrà}
+{rallegratevi nel signore}
 
 --------------------------------------------------------------------------------
 
