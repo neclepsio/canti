@@ -1,6 +1,6 @@
 let canti = `
-. 12 dicembre 2021
-# Terza domenica di Avvento -- Gaudete
+. 19 dicembre 2021
+# Quarta domenica di Avvento
 . Anno C
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
@@ -55,7 +55,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Canto finale
-{rallegratevi nel signore}
+{ave dolce maria}
 
 --------------------------------------------------------------------------------
 

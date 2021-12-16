@@ -1068,4 +1068,30 @@ non angustiatevi per nulla.
 E la luce di Dio risplenda in voi,
 alleluia.
 >*
+
+
+
+# {musica} Ave dolce Maria {media https://www.youtube.com/watch?v=LlcIkVQ-TpI&list=PLue1X-oPNpdrwhJDUKzGwIcj0YeJD1pnK}
+
+_Vergine celeste, gioia del cuor,
+_mostraci la strada verso Gesù.
+_Vergine fedele, scelta da Dio,
+_Stella del mattino, degna d'onor.
+>Ave dolce Maria, regina del cielo,
+>con fiducia a te veniam.
+>Cuore di madre, noi ti affidiamo ogni fragilità.
+>Perché tutto tu puoi nel tuo figlio Gesù.
+>Siam sicuri che tu non ci deluderai,  Maria.
+_Intercedi per noi, mh...
+_Intercedi per noi, mh...
+Vergine potente, madre di Dio,
+il tuo buon consiglio è luce per noi.
+Vergine clemente, ricca di grazie,
+tu che sei rifugio del peccator.
+>*
+_Mh...
+>Perché tutto tu puoi nel tuo figlio Gesù.
+>Siam sicuri che tu non ci deluderai,  Maria.
+Intercedi per noi.
+Intercedi per noi.
 `
