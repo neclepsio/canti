@@ -1094,4 +1094,165 @@ _Mh...
 >Siam sicuri che tu non ci deluderai,  Maria.
 Intercedi per noi.
 Intercedi per noi.
+
+
+
+# {musica} Cantiamo al Signor, grande nell'amor {media https://www.youtube.com/watch?v=pXwEcrj2Grk}
+
+Glorioso il nostro Re,    vestito di maestà.
+La terra gioirà,  per sempre canterà.
+Risplende il nostro Dio, la voce sua si udrà.
+La notte fuggirà, per sempre fuggirà.
+>Cantiam al Signor.
+>Grande nell'amor è il Signor.
+>Canta insieme a noi, è lui il Signor.
+Eterno il nostro Re, il tempo guiderà.
+Principio e fine Lui per sempre li unirà.
+È trino il nostro Dio, è Padre dell'amor.
+È Figlio redentor, è Spirito creator.
+>*
+>*
+_Altro Dio non ho, nel suo nome io vivrò.
+Ed il cuore mio saprà che egli è il Re.
+Altro Dio non ho...
+>*
+>*
+
+
+
+# {musica} Alleluia al Redentore {media https://www.youtube.com/watch?v=AmIEcqZJaPE}
+
+
+
+# {musica} Tu scendi dalle stelle
+
+_Tu scendi dalle stelle, o Re del Cielo,
+e vieni in una grotta, al freddo, al gelo,
+_e vieni in una grotta, al freddo, al gelo.
+_Oh Bambino, mio divino,
+io Ti vedo qui tremar, oh Dio beato!
+Ah quanto Ti costò l'avermi amato,
+_ah quanto Ti costò l'avermi amato.
+
+A Te che sei del mondo il Creatore,
+mancano panno e fuoco, oh mio Signore.
+Mancano panno e fuoco, oh mio Signore.
+Caro eletto pargoletto,
+quanto questa povertà più mi innamora,
+giacchè Ti fece amor, povero ancora,
+giacchè Ti fece amor, povero ancora.
+
+Tu lasci del tuo Padre il divin seno,
+per venire a tremar su poco fieno;
+per venire a tremar su poco fieno.
+Dolce amore del mio cuore,
+dove amor ti trasportò, o Gesù mio,
+perchè tanto patir, per amor mio,
+perchè tanto patir, per amor mio.
+
+Ma se fu tuo voler il tuo patire
+perché vuoi pianger poi, perché vagire?
+Perché vuoi pianger poi, perché vagire?
+Sposo mio, amato Dio,
+mio Gesù t'intendo, sì; Ah, mio Signore!
+Tu piangi non per duol, ma per amore,
+tu piangi non per duol, ma per amore.
+
+Tu piangi per vederti da me ingrato,
+dopo sì grande amor, sì poco amato,
+dopo sì grande amor, sì poco amato.
+O diletto del mio petto
+se già un tempo fu così, or te sol bramo:
+caro non pianger più, ch'io t'amo, io t'amo;
+caro non pianger più, ch'io t'amo, io t'amo.
+
+Tu dormi, o Gesù mio, ma intanto il cuore
+non dorme, no, ma veglia a tutte l'ore;
+non dorme, no, ma veglia a tutte l'ore.
+Deh! Mio bello e puro agnello
+a che pensi dimmi tu? O amor immenso,
+a morir tu per me, rispondi, io penso;
+a morir tu per me, rispondi, io penso.
+
+Dunque a morir per me tu pensi, o Dio;
+e che altro, fuor di te, amar poss'io?
+E che altro, fuor di te, amar poss'io?
+O Maria speranza mia,
+se poc'amo il tuo Gesù, non ti sdegnare:
+amalo tu per me, s'io nol so amare;
+amalo tu per me, s'io nol so amare.
+
+
+
+# {musica} Astro del ciel
+
+_Astro del ciel, Pargol divin
+_mite Agnello Redentor.
+_Tu che i vati da lungi sognar,
+_tu che angeliche voci annunziar.
+>Luce dona alle menti,
+>pace infondi nei cuor!
+>Luce dona alle menti,
+>pace infondi nei cuor!
+Astro del ciel, Pargol divin
+mite Agnello Redentor.
+Tu venuto a scontare l'error,
+tu virgineo mistico fior.
+>*
+Astro del ciel, Pargol divin,
+mite Agnello Redentor!
+Tu disceso a scontare l'error,
+Tu sol nato a parlare d'amor,
+>*
+
+
+
+# {musica} In una notte come tante {media https://www.youtube.com/watch?v=5N2QGEVIlMs}
+
+In una notte come tante, in una città qualunque,
+per una strada un po' isolata un pastore torna a casa,
+il pastore guarda avanti e per il freddo stringe i denti,
+già s'immagina il ristoro dopo un giorno di lavoro.
+Ma nell'aria c'è qualcosa che lo abbraccia
+e ad un tratto una voce nella testa.
+
+In questa notte come tante
+Questo mondo cambia rotta,
+nasce Dio, bambino, in una grotta.
+
+Ad un tratto quel posto si riempie di persone,
+tutti vanno a quella grotta  come fosse ad un altare
+e Giuseppe non capisce cosa accade nella via,
+ma poi incontra la dolcezza dello sguardo di Maria,
+che come sempre ha capito già ogni cosa
+ed assiste alla scena silenziosa.
+
+In questa notte come tante
+Oggi il mondo cambia rotta,
+nasce Dio, bambino, in una grotta.
+
+>Come brezza leggera che accarezza l'anima
+>Vieni bambino in questa fredda città,
+>tra la povera gente e anche tu non hai niente,
+>ma il tuo amore resterà  per sempre.
+
+In una notte come tante in una città qualunque
+C'è chi adesso torna a casa e chi aspetta in una chiesa,
+c'è qualcuno che usa ancora la violenza
+e chi cerca ormai deluso una speranza.
+
+Ma tu vieni e prova ancora
+a cambiare questa rotta,
+nasci qui, bambino, in questa grotta.
+
+>Come brezza leggera che accarezza l'anima
+>Vieni indifeso in questa piccola città,
+>tra la povera gente e anche tu non hai niente,
+>ma il tuo amore arriverà.
+
+>Come brezza leggera che accarezza l'anima,
+>vieni bambino in questa piccola città,
+>tra la povera gente e anche tu non hai niente,
+>ma il tuo amore resterà per sempre.
+
 `

@@ -1,6 +1,6 @@
 let canti = `
-. 19 dicembre 2021
-# Quarta domenica di Avvento
+. 25 dicembre 2021
+# Natale del Signore
 . Anno C
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
@@ -10,10 +10,14 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-{alzati}
+{cantiamo al signor, grande nell'amor}
 --------------------------------------------------------------------------------
 
 {kyrie eleison}
+
+--------------------------------------------------------------------------------
+
+{gloria a dio [mariano]}
 
 --------------------------------------------------------------------------------
 
@@ -27,7 +31,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{il nostro cuore offriamo a te}
+{astro del ciel}
 
 --------------------------------------------------------------------------------
 
@@ -41,7 +45,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Comunione
-{io voglio amarti}
+{in una notte come tante}
 
 --------------------------------------------------------------------------------
 
@@ -55,7 +59,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Canto finale
-{ave dolce maria}
+{tu scendi dalle stelle}
 
 --------------------------------------------------------------------------------
 
