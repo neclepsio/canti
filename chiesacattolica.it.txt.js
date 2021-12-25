@@ -7,133 +7,72 @@
 
 let liturgia=`
 Prima Lettura
-Tutti i confini della terra vedranno la salvezza del nostro Dio.
+Samuele per tutti i giorni della sua vita è richiesto per il Signore.
 
-Dal libro del profeta Isaìa
-Is 52,7-10
+Dal primo libro di Samuèle
+1Sam 1,20-22.24-28
  
-Come sono belli sui monti
-i piedi del messaggero che annuncia la pace,
-del messaggero di buone notizie che annuncia la salvezza,
-che dice a Sion: «Regna il tuo Dio».
-Una voce! Le tue sentinelle alzano la voce,
-insieme esultano,
-poiché vedono con gli occhi
-il ritorno del Signore a Sion.
-Prorompete insieme in canti di gioia,
-rovine di Gerusalemme,
-perché il Signore ha consolato il suo popolo,
-ha riscattato Gerusalemme.
-Il Signore ha snudato il suo santo braccio
-davanti a tutte le nazioni;
-tutti i confini della terra vedranno
-la salvezza del nostro Dio.
+Al finir dell'anno Anna concepì e partorì un figlio e lo chiamò Samuèle, «perché - diceva - al Signore l'ho richiesto». Quando poi Elkanà andò con tutta la famiglia a offrire il sacrificio di ogni anno al Signore e a soddisfare il suo voto, Anna non andò, perché disse al marito: «Non verrò, finché il bambino non sia svezzato e io possa condurlo a vedere il volto del Signore; poi resterà là per sempre».
+
+Dopo averlo svezzato, lo portò con sé, con un giovenco di tre anni, un'efa di farina e un otre di vino, e lo introdusse nel tempio del Signore a Silo: era ancora un fanciullo. Immolato il giovenco, presentarono il fanciullo a Eli e lei disse: «Perdona, mio signore. Per la tua vita, mio signore, io sono quella donna che era stata qui presso di te a pregare il Signore. Per questo fanciullo ho pregato e il Signore mi ha concesso la grazia che gli ho richiesto. Anch'io lascio che il Signore lo richieda: per tutti i giorni della sua vita egli è richiesto per il Signore». E si prostrarono là davanti al Signore.
 
 Parola di Dio.
 Salmo Responsoriale
-Dal Sal 97 (98)
-R. Tutta la terra ha veduto la salvezza del nostro Dio.
+Dal Sal 83 (84)
+R. Beato chi abita nella tua casa, Signore.
 
-Cantate al Signore un canto nuovo,
-perché ha compiuto meraviglie.
-Gli ha dato vittoria la sua destra
-e il suo braccio santo. R.
+Quanto sono amabili le tue dimore,
+Signore degli eserciti!
+L'anima mia anela
+e desidera gli atri del Signore.
+Il mio cuore e la mia carne
+esultano nel Dio vivente. R.
  
-Il Signore ha fatto conoscere la sua salvezza,
-agli occhi delle genti ha rivelato la sua giustizia.
-Egli si è ricordato del suo amore,
-della sua fedeltà alla casa d'Israele. R.
+Beato chi abita nella tua casa:
+senza fine canta le tue lodi.
+Beato l'uomo che trova in te il suo rifugio
+e ha le tue vie nel suo cuore. R.
  
-Tutti i confini della terra hanno veduto
-la vittoria del nostro Dio.
-Acclami il Signore tutta la terra,
-gridate, esultate, cantate inni! R.
- 
-Cantate inni al Signore con la cetra,
-con la cetra e al suono di strumenti a corde;
-con le trombe e al suono del corno
-acclamate davanti al re, il Signore.  R.
-
+Signore, Dio degli eserciti, ascolta la mia preghiera,
+porgi l'orecchio, Dio di Giacobbe.
+Guarda, o Dio, colui che è il nostro scudo,
+guarda il volto del tuo consacrato. R.
 Seconda Lettura
-Dio ha parlato a noi per mezzo del Figlio.
-Dalla lettera agli Ebrei
-Eb 1,1-6
+Siamo chiamati figli di Dio, e lo siamo realmente!
+Dalla prima lettera di san Giovanni apostolo
+1Gv 3,1-2.21-24
  
-Dio, che molte volte e in diversi modi nei tempi antichi aveva parlato ai padri per mezzo dei profeti, ultimamente, in questi giorni, ha parlato a noi per mezzo del Figlio, che ha stabilito erede di tutte le cose e mediante il quale ha fatto anche il mondo.
-Egli è irradiazione della sua gloria e impronta della sua sostanza, e tutto sostiene con la sua parola potente. Dopo aver compiuto la purificazione dei peccati, sedette alla destra della maestà nell'alto dei cieli, divenuto tanto superiore agli angeli quanto più eccellente del loro è il nome che ha ereditato.
-Infatti, a quale degli angeli Dio ha mai detto: «Tu sei mio figlio, oggi ti ho generato»? e ancora: «Io sarò per lui padre ed egli sarà per me figlio»? Quando invece introduce il primogenito nel mondo, dice: «Lo adorino tutti gli angeli di Dio».
+Carissimi, vedete quale grande amore ci ha dato il Padre per essere chiamati figli di Dio, e lo siamo realmente! Per questo il mondo non ci conosce: perché non ha conosciuto lui.
+
+Carissimi, noi fin d'ora siamo figli di Dio, ma ciò che saremo non è stato ancora rivelato. Sappiamo però che quando egli si sarà manifestato, noi saremo simili a lui, perché lo vedremo così come egli è.
+
+Carissimi, se il nostro cuore non ci rimprovera nulla, abbiamo fiducia in Dio, e qualunque cosa chiediamo, la riceviamo da lui, perché osserviamo i suoi comandamenti e facciamo quello che gli è gradito.
+
+Questo è il suo comandamento: che crediamo nel nome del Figlio suo Gesù Cristo e ci amiamo gli uni gli altri, secondo il precetto che ci ha dato. Chi osserva i suoi comandamenti rimane in Dio e Dio in lui. In questo conosciamo che egli rimane in noi: dallo Spirito che ci ha dato.
 
 Parola di Dio.
 Acclamazione al Vangelo
-
 {alleluia al redentore}
+
 Alleluia, alleluia.
 
-@Un giorno santo è spuntato per noi:
-@venite tutti ad adorare il Signore;
-@oggi una splendida luce è discesa sulla terra.
-
-Gesù è nato tra gli uomini, venite adoriamo il nostro Signor.
-Egli è la stella che illumina i popoli, è il nostro Redentor.
+Apri, Signore, il nostro cuore
+e accoglieremo le parole del Figlio tuo. (Cf. At 16,14b)
 
 Alleluia.
 Vangelo
-Il Verbo si fece carne e venne ad abitare in mezzo a noi.
+Gesù è ritrovato dai genitori nel tempio in mezzo ai maestri.
 
-Dal Vangelo secondo Giovanni
-Gv 1,1-18
+Dal Vangelo secondo Luca
+Lc 2,41-52
  
-In principio era il Verbo,
-e il Verbo era presso Dio
-e il Verbo era Dio.
-Egli era, in principio, presso Dio:
-tutto è stato fatto per mezzo di lui
-e senza di lui nulla è stato fatto di ciò che esiste.
-In lui era la vita
-e la vita era la luce degli uomini;
-la luce splende nelle tenebre
-e le tenebre non l'hanno vinta.
-Venne un uomo mandato da Dio:
-il suo nome era Giovanni.
-Egli venne come testimone
-per dare testimonianza alla luce,
-perché tutti credessero per mezzo di lui.
-Non era lui la luce,
-ma doveva dare testimonianza alla luce.
-Veniva nel mondo la luce vera,
-quella che illumina ogni uomo.
-Era nel mondo
-e il mondo è stato fatto per mezzo di lui;
-eppure il mondo non lo ha riconosciuto.
-Venne fra i suoi,
-e i suoi non lo hanno accolto.
-A quanti però lo hanno accolto
-ha dato potere di diventare figli di Dio:
-a quelli che credono nel suo nome,
-i quali, non da sangue
-né da volere di carne
-né da volere di uomo,
-ma da Dio sono stati generati.
-E il Verbo si fece carne
-e venne ad abitare in mezzo a noi;
-e noi abbiamo contemplato la sua gloria,
-gloria come del Figlio unigenito
-che viene dal Padre,
-pieno di grazia e di verità.
-Giovanni gli dà testimonianza e proclama:
-«Era di lui che io dissi:
-Colui che viene dopo di me
-è avanti a me,
-perché era prima di me».
-Dalla sua pienezza
-noi tutti abbiamo ricevuto:
-grazia su grazia.
-Perché la Legge fu data per mezzo di Mosè,
-la grazia e la verità vennero per mezzo di Gesù Cristo.
-Dio, nessuno lo ha mai visto:
-il Figlio unigenito, che è Dio
-ed è nel seno del Padre,
-è lui che lo ha rivelato.
- 
+I genitori di Gesù si recavano ogni anno a Gerusalemme per la festa di Pasqua. Quando egli ebbe dodici anni, vi salirono secondo la consuetudine della festa. Ma, trascorsi i giorni, mentre riprendevano la via del ritorno, il fanciullo Gesù rimase a Gerusalemme, senza che i genitori se ne accorgessero. Credendo che egli fosse nella comitiva, fecero una giornata di viaggio, e poi si misero a cercarlo tra i parenti e i conoscenti; non avendolo trovato, tornarono in cerca di lui a Gerusalemme.
+
+Dopo tre giorni lo trovarono nel tempio, seduto in mezzo ai maestri, mentre li ascoltava e li interrogava. E tutti quelli che l'udivano erano pieni di stupore per la sua intelligenza e le sue risposte.
+
+Al vederlo restarono stupiti, e sua madre gli disse: «Figlio, perché ci hai fatto questo? Ecco, tuo padre e io, angosciati, ti cercavamo». Ed egli rispose loro: «Perché mi cercavate? Non sapevate che io devo occuparmi delle cose del Padre mio?». Ma essi non compresero ciò che aveva detto loro.
+
+Scese dunque con loro e venne a Nàzaret e stava loro sottomesso. Sua madre custodiva tutte queste cose nel suo cuore. E Gesù cresceva in sapienza, età e grazia davanti a Dio e agli uomini.
+
 Parola del Signore.
 `

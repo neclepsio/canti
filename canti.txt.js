@@ -1,6 +1,6 @@
 let canti = `
-. 25 dicembre 2021
-# Natale del Signore
+. 26 dicembre 2021
+# Santa famiglia di Gesù, Maria e Giuseppe
 . Anno C
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
@@ -10,7 +10,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-{cantiamo al signor, grande nell'amor}
+{ad una voce}
 --------------------------------------------------------------------------------
 
 {kyrie eleison}
@@ -31,7 +31,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{astro del ciel}
+{serviremo il signore}
 
 --------------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Canto finale
-{tu scendi dalle stelle}
+{astro del ciel}
 
 --------------------------------------------------------------------------------
 

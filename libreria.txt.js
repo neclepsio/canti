@@ -241,7 +241,7 @@ Alleluia, alleluia, alleluia, alleluia. (6 volte)
 
 
 
-#{musica} Ad una voce
+#{musica} Ad una voce {media https://www.youtube.com/watch?v=Kt5woytl9RQ}
 
 Con un cuore solo, 
 figli dello stesso Padre, 
@@ -392,7 +392,7 @@ dona a noi la pace.
 
 
 
-#{musica} Serviremo il Signore
+#{musica} Serviremo il Signore {media https://www.youtube.com/watch?v=s9EAe69V7XY}
 
 Mi hai chiamato per nome, mi hai donato la vita,
 creatore del mondo, Dio di eterna bontà.
