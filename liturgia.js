@@ -8,6 +8,7 @@ function parseLiturgia() {
     let risposta = "";
 
     for (let line of liturgia.split("\n")) {
+        line = line.replace("[", "\\[");
         line = next + line.trim();
         next = "";
 

@@ -1255,4 +1255,16 @@ nasci qui, bambino, in questa grotta.
 >tra la povera gente e anche tu non hai niente,
 >ma il tuo amore resterà per sempre.
 
+
+
+# {musica} Adeste fideles
+Adeste fideles laeti triumphantes,
+venite, venite in Bethlehem.
+Natum videte Regem angelorum.
+>Venite adoremus, venite adoremus
+>venite adoremus Dominum.
+En grege relicto humiles ad cunas,
+vocati pastores adproperant,
+et nos ovantes gradu festinemus.
+>*
 `

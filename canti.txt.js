@@ -1,7 +1,7 @@
 let canti = `
-. 26 dicembre 2021
-# Santa famiglia di Gesù, Maria e Giuseppe
-. Anno C
+. 2 gennaio 2022
+# Seconda domenica dopo Natale
+@. Anno C
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 
@@ -10,14 +10,14 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-{ad una voce}
+{adeste fideles}
 --------------------------------------------------------------------------------
 
 {kyrie eleison}
 
 --------------------------------------------------------------------------------
 
-{gloria a dio [mariano]}
+{gloria nell'alto dei cieli}
 
 --------------------------------------------------------------------------------
 
@@ -31,12 +31,12 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{serviremo il signore}
+{dio ha tanto amato il mondo}
 
 --------------------------------------------------------------------------------
 
 @. Santo
-{santo (Come fuoco vivo)}
+{santo (pane di vita nuova)}
 
 --------------------------------------------------------------------------------
 

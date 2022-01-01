@@ -7,48 +7,61 @@
 
 let liturgia=`
 Prima Lettura
-Samuele per tutti i giorni della sua vita è richiesto per il Signore.
+La sapienza dio Dio è venuta ad abitare nel popolo eletto.
 
-Dal primo libro di Samuèle
-1Sam 1,20-22.24-28
- 
-Al finir dell'anno Anna concepì e partorì un figlio e lo chiamò Samuèle, «perché - diceva - al Signore l'ho richiesto». Quando poi Elkanà andò con tutta la famiglia a offrire il sacrificio di ogni anno al Signore e a soddisfare il suo voto, Anna non andò, perché disse al marito: «Non verrò, finché il bambino non sia svezzato e io possa condurlo a vedere il volto del Signore; poi resterà là per sempre».
+Dal libro del Siràcide
+Sir 24,1-4.12-16 (NV) [gr. 24,1-2.8-12]
 
-Dopo averlo svezzato, lo portò con sé, con un giovenco di tre anni, un'efa di farina e un otre di vino, e lo introdusse nel tempio del Signore a Silo: era ancora un fanciullo. Immolato il giovenco, presentarono il fanciullo a Eli e lei disse: «Perdona, mio signore. Per la tua vita, mio signore, io sono quella donna che era stata qui presso di te a pregare il Signore. Per questo fanciullo ho pregato e il Signore mi ha concesso la grazia che gli ho richiesto. Anch'io lascio che il Signore lo richieda: per tutti i giorni della sua vita egli è richiesto per il Signore». E si prostrarono là davanti al Signore.
+La sapienza fa il proprio elogio,
+in Dio trova il proprio vanto,
+in mezzo al suo popolo proclama la sua gloria.
+Nell'assemblea dell'Altissimo apre la bocca,
+dinanzi alle sue schiere proclama la sua gloria,
+in mezzo al suo popolo viene esaltata,
+nella santa assemblea viene ammirata,
+nella moltitudine degli eletti trova la sua lode
+e tra i benedetti è benedetta, mentre dice:
+«Allora il creatore dell'universo mi diede un ordine,
+colui che mi ha creato mi fece piantare la tenda e mi disse:
+"Fissa la tenda in Giacobbe e prendi eredità in Israele,
+affonda le tue radici tra i miei eletti" .
+Prima dei secoli, fin dal principio,
+egli mi ha creato, per tutta l'eternità non verrò meno.
+Nella tenda santa davanti a lui ho officiato
+e così mi sono stabilita in Sion.
+Nella città che egli ama mi ha fatto abitare
+e in Gerusalemme è il mio potere.
+Ho posto le radici in mezzo a un popolo glorioso,
+nella porzione del Signore è la mia eredità,
+nell'assemblea dei santi ho preso dimora».
 
 Parola di Dio.
+ 
 Salmo Responsoriale
-Dal Sal 83 (84)
-R. Beato chi abita nella tua casa, Signore.
+Dal Sal 147
+R. Il Verbo si è fatto carne e ha posto la sua dimora in mezzo a noi.
 
-Quanto sono amabili le tue dimore,
-Signore degli eserciti!
-L'anima mia anela
-e desidera gli atri del Signore.
-Il mio cuore e la mia carne
-esultano nel Dio vivente. R.
+Celebra il Signore, Gerusalemme,
+loda il tuo Dio, Sion,
+perché ha rinforzato le sbarre delle tue porte,
+in mezzo a te ha benedetto i tuoi figli. R.
  
-Beato chi abita nella tua casa:
-senza fine canta le tue lodi.
-Beato l'uomo che trova in te il suo rifugio
-e ha le tue vie nel suo cuore. R.
+Egli mette pace nei tuoi confini
+e ti sazia con fiore di frumento.
+Manda sulla terra il suo messaggio:
+la sua parola corre veloce. R.
  
-Signore, Dio degli eserciti, ascolta la mia preghiera,
-porgi l'orecchio, Dio di Giacobbe.
-Guarda, o Dio, colui che è il nostro scudo,
-guarda il volto del tuo consacrato. R.
+Annuncia a Giacobbe la sua parola,
+i suoi decreti e i suoi giudizi a Israele.
+Così non ha fatto con nessun'altra nazione,
+non ha fatto conoscere loro i suoi giudizi. R.
 Seconda Lettura
-Siamo chiamati figli di Dio, e lo siamo realmente!
-Dalla prima lettera di san Giovanni apostolo
-1Gv 3,1-2.21-24
- 
-Carissimi, vedete quale grande amore ci ha dato il Padre per essere chiamati figli di Dio, e lo siamo realmente! Per questo il mondo non ci conosce: perché non ha conosciuto lui.
+Mediante Gesù, Dio ci ha predestinati a essere suoi figli adottivi.
+Dalla lettera di san Paolo apostolo agli Efesini
+Ef 1,3-6.15-18
 
-Carissimi, noi fin d'ora siamo figli di Dio, ma ciò che saremo non è stato ancora rivelato. Sappiamo però che quando egli si sarà manifestato, noi saremo simili a lui, perché lo vedremo così come egli è.
-
-Carissimi, se il nostro cuore non ci rimprovera nulla, abbiamo fiducia in Dio, e qualunque cosa chiediamo, la riceviamo da lui, perché osserviamo i suoi comandamenti e facciamo quello che gli è gradito.
-
-Questo è il suo comandamento: che crediamo nel nome del Figlio suo Gesù Cristo e ci amiamo gli uni gli altri, secondo il precetto che ci ha dato. Chi osserva i suoi comandamenti rimane in Dio e Dio in lui. In questo conosciamo che egli rimane in noi: dallo Spirito che ci ha dato.
+Benedetto Dio, Padre del Signore nostro Gesù Cristo, che ci ha benedetti con ogni benedizione spirituale nei cieli in Cristo. In lui ci ha scelti prima della creazione del mondo per essere santi e immacolati di fronte a lui nella carità, predestinandoci a essere per lui figli adottivi mediante Gesù Cristo, secondo il disegno d'amore della sua volontà, a lode dello splendore della sua grazia, di cui ci ha gratificati nel Figlio amato.
+Perciò anch'io [Paolo], avendo avuto notizia della vostra fede nel Signore Gesù e dell'amore che avete verso tutti i santi, continuamente rendo grazie per voi ricordandovi nelle mie preghiere, affinché il Dio del Signore nostro Gesù Cristo, il Padre della gloria, vi dia uno spirito di sapienza e di rivelazione per una profonda conoscenza di lui; illumini gli occhi del vostro cuore per farvi comprendere a quale speranza vi ha chiamati, quale tesoro di gloria racchiude la sua eredità fra i santi.
 
 Parola di Dio.
 Acclamazione al Vangelo
@@ -56,23 +69,66 @@ Acclamazione al Vangelo
 
 Alleluia, alleluia.
 
-Apri, Signore, il nostro cuore
-e accoglieremo le parole del Figlio tuo. (Cf. At 16,14b)
+Gloria a te, o Cristo, annunziato a tutte le genti;
+gloria a te, o Cristo, creduto nel mondo. (Cf. 1Tm 3,16)
 
 Alleluia.
 Vangelo
-Gesù è ritrovato dai genitori nel tempio in mezzo ai maestri.
+Il Verbo si fece carne e venne ad abitare in mezzo a noi.
 
-Dal Vangelo secondo Luca
-Lc 2,41-52
- 
-I genitori di Gesù si recavano ogni anno a Gerusalemme per la festa di Pasqua. Quando egli ebbe dodici anni, vi salirono secondo la consuetudine della festa. Ma, trascorsi i giorni, mentre riprendevano la via del ritorno, il fanciullo Gesù rimase a Gerusalemme, senza che i genitori se ne accorgessero. Credendo che egli fosse nella comitiva, fecero una giornata di viaggio, e poi si misero a cercarlo tra i parenti e i conoscenti; non avendolo trovato, tornarono in cerca di lui a Gerusalemme.
+Dal vangelo secondo Giovanni
+Gv 1,1-18
 
-Dopo tre giorni lo trovarono nel tempio, seduto in mezzo ai maestri, mentre li ascoltava e li interrogava. E tutti quelli che l'udivano erano pieni di stupore per la sua intelligenza e le sue risposte.
-
-Al vederlo restarono stupiti, e sua madre gli disse: «Figlio, perché ci hai fatto questo? Ecco, tuo padre e io, angosciati, ti cercavamo». Ed egli rispose loro: «Perché mi cercavate? Non sapevate che io devo occuparmi delle cose del Padre mio?». Ma essi non compresero ciò che aveva detto loro.
-
-Scese dunque con loro e venne a Nàzaret e stava loro sottomesso. Sua madre custodiva tutte queste cose nel suo cuore. E Gesù cresceva in sapienza, età e grazia davanti a Dio e agli uomini.
+[In principio era il Verbo,
+e il Verbo era presso Dio
+e il Verbo era Dio.
+Egli era, in principio, presso Dio:
+tutto è stato fatto per mezzo di lui
+e senza di lui nulla è stato fatto di ciò che esiste.
+In lui era la vita
+e la vita era la luce degli uomini;
+la luce splende nelle tenebre
+e le tenebre non l'hanno vinta.]
+Venne un uomo mandato da Dio:
+il suo nome era Giovanni.
+Egli venne come testimone
+per dare testimonianza alla luce,
+perché tutti credessero per mezzo di lui.
+Non era lui la luce,
+ma doveva dare testimonianza alla luce.
+[Veniva nel mondo la luce vera,
+quella che illumina ogni uomo.
+Era nel mondo
+e il mondo è stato fatto per mezzo di lui;
+eppure il mondo non lo ha riconosciuto.
+Venne fra i suoi,
+e i suoi non lo hanno accolto.
+A quanti però lo hanno accolto
+ha dato potere di diventare figli di Dio:
+a quelli che credono nel suo nome,
+i quali, non da sangue
+né da volere di carne
+né da volere di uomo,
+ma da Dio sono stati generati.
+E il Verbo si fece carne
+e venne ad abitare in mezzo a noi;
+e noi abbiamo contemplato la sua gloria,
+gloria come del Figlio unigenito che viene dal Padre,
+pieno di grazia e di verità.]
+Giovanni gli dà testimonianza e proclama:
+«Era di lui che io dissi:
+Colui che viene dopo di me
+è avanti a me,
+perché era prima di me».
+Dalla sua pienezza
+noi tutti abbiamo ricevuto:
+grazia su grazia.  
+Perché la Legge fu data per mezzo di Mosè,
+la grazia e la verità vennero per mezzo di Gesù Cristo.
+Dio, nessuno lo ha mai visto:
+il Figlio unigenito, che è Dio
+ed è nel seno del Padre,
+è lui che lo ha rivelato.
 
 Parola del Signore.
 `
