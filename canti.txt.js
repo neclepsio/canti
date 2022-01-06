@@ -31,7 +31,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{io ti seguirò}
+{uno spirito nuovo}
 
 --------------------------------------------------------------------------------
 
