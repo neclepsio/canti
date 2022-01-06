@@ -7,128 +7,119 @@
 
 let liturgia=`
 Prima Lettura
-La sapienza dio Dio è venuta ad abitare nel popolo eletto.
+Si rivelerà la gloria del Signore e tutti gli uomini la vedranno.
 
-Dal libro del Siràcide
-Sir 24,1-4.12-16 (NV) [gr. 24,1-2.8-12]
-
-La sapienza fa il proprio elogio,
-in Dio trova il proprio vanto,
-in mezzo al suo popolo proclama la sua gloria.
-Nell'assemblea dell'Altissimo apre la bocca,
-dinanzi alle sue schiere proclama la sua gloria,
-in mezzo al suo popolo viene esaltata,
-nella santa assemblea viene ammirata,
-nella moltitudine degli eletti trova la sua lode
-e tra i benedetti è benedetta, mentre dice:
-«Allora il creatore dell'universo mi diede un ordine,
-colui che mi ha creato mi fece piantare la tenda e mi disse:
-"Fissa la tenda in Giacobbe e prendi eredità in Israele,
-affonda le tue radici tra i miei eletti" .
-Prima dei secoli, fin dal principio,
-egli mi ha creato, per tutta l'eternità non verrò meno.
-Nella tenda santa davanti a lui ho officiato
-e così mi sono stabilita in Sion.
-Nella città che egli ama mi ha fatto abitare
-e in Gerusalemme è il mio potere.
-Ho posto le radici in mezzo a un popolo glorioso,
-nella porzione del Signore è la mia eredità,
-nell'assemblea dei santi ho preso dimora».
+Dal libro del profeta Isaìa
+Is 40,1-5.9-11
+ 
+«Consolate, consolate il mio popolo
+– dice il vostro Dio –.
+Parlate al cuore di Gerusalemme
+e gridatele che la sua tribolazione è compiuta,
+la sua colpa è scontata,
+perché ha ricevuto dalla mano del Signore
+il doppio per tutti i suoi peccati».
+Una voce grida:
+«Nel deserto preparate la via al Signore,
+spianate nella steppa la strada per il nostro Dio.
+Ogni valle sia innalzata,
+ogni monte e ogni colle siano abbassati;
+il terreno accidentato si trasformi in piano
+e quello scosceso in vallata.
+Allora si rivelerà la gloria del Signore
+e tutti gli uomini insieme la vedranno,
+perché la bocca del Signore ha parlato».
+Sali su un alto monte,
+tu che annunci liete notizie a Sion!
+Alza la tua voce con forza,
+tu che annunci liete notizie a Gerusalemme.
+Alza la voce, non temere;
+annuncia alle città di Giuda: «Ecco il vostro Dio!
+Ecco, il Signore Dio viene con potenza,
+il suo braccio esercita il dominio.
+Ecco, egli ha con sé il premio
+e la sua ricompensa lo precede.
+Come un pastore egli fa pascolare il gregge
+e con il suo braccio lo raduna;
+porta gli agnellini sul petto
+e conduce dolcemente le pecore madri».
 
 Parola di Dio.
  
 Salmo Responsoriale
-Dal Sal 147
-R. Il Verbo si è fatto carne e ha posto la sua dimora in mezzo a noi.
+Dal Sal 103 (104)
+R. Benedici il Signore, anima mia.
 
-Celebra il Signore, Gerusalemme,
-loda il tuo Dio, Sion,
-perché ha rinforzato le sbarre delle tue porte,
-in mezzo a te ha benedetto i tuoi figli. R.
+Sei tanto grande, Signore, mio Dio!
+Sei rivestito di maestà e di splendore,
+avvolto di luce come di un manto,
+tu che distendi i cieli come una tenda. R.
  
-Egli mette pace nei tuoi confini
-e ti sazia con fiore di frumento.
-Manda sulla terra il suo messaggio:
-la sua parola corre veloce. R.
+Costruisci sulle acque le tue alte dimore,
+fai delle nubi il tuo carro,
+cammini sulle ali del vento,
+fai dei venti i tuoi messaggeri
+e dei fulmini i tuoi ministri. R.
  
-Annuncia a Giacobbe la sua parola,
-i suoi decreti e i suoi giudizi a Israele.
-Così non ha fatto con nessun'altra nazione,
-non ha fatto conoscere loro i suoi giudizi. R.
+Quante sono le tue opere, Signore!
+Le hai fatte tutte con saggezza;
+la terra è piena delle tue creature.
+Ecco il mare spazioso e vasto:
+là rettili e pesci senza numero,
+animali piccoli e grandi. R.
+ 
+Tutti da te aspettano
+che tu dia loro cibo a tempo opportuno.
+Tu lo provvedi, essi lo raccolgono;
+apri la tua mano, si saziano di beni. R.
+ 
+Nascondi il tuo volto: li assale il terrore;
+togli loro il respiro: muoiono,
+e ritornano nella loro polvere.
+Mandi il tuo spirito, sono creati,
+e rinnovi la faccia della terra. R.
+ 
 Seconda Lettura
-Mediante Gesù, Dio ci ha predestinati a essere suoi figli adottivi.
-Dalla lettera di san Paolo apostolo agli Efesini
-Ef 1,3-6.15-18
+Il Signore ci ha salvato con un'acqua che rigenera e rinnova nello Spirito Santo.
+Dalla lettera di san Paolo apostolo a Tito
+Tt 2,11-14; 3,4-7
+ 
+Figlio mio, è apparsa infatti la grazia di Dio, che porta salvezza a tutti gli uomini e ci insegna a rinnegare l’empietà e i desideri mondani e a vivere in questo mondo con sobrietà, con giustizia e con pietà, nell’attesa della beata speranza e della manifestazione della gloria del nostro grande Dio e salvatore Gesù Cristo.
 
-Benedetto Dio, Padre del Signore nostro Gesù Cristo, che ci ha benedetti con ogni benedizione spirituale nei cieli in Cristo. In lui ci ha scelti prima della creazione del mondo per essere santi e immacolati di fronte a lui nella carità, predestinandoci a essere per lui figli adottivi mediante Gesù Cristo, secondo il disegno d'amore della sua volontà, a lode dello splendore della sua grazia, di cui ci ha gratificati nel Figlio amato.
-Perciò anch'io [Paolo], avendo avuto notizia della vostra fede nel Signore Gesù e dell'amore che avete verso tutti i santi, continuamente rendo grazie per voi ricordandovi nelle mie preghiere, affinché il Dio del Signore nostro Gesù Cristo, il Padre della gloria, vi dia uno spirito di sapienza e di rivelazione per una profonda conoscenza di lui; illumini gli occhi del vostro cuore per farvi comprendere a quale speranza vi ha chiamati, quale tesoro di gloria racchiude la sua eredità fra i santi.
+Egli ha dato se stesso per noi, per riscattarci da ogni iniquità e formare per sé un popolo puro che gli appartenga, pieno di zelo per le opere buone.
+
+Ma quando apparvero la bontà di Dio, salvatore nostro,
+e il suo amore per gli uomini,
+egli ci ha salvati,
+non per opere giuste da noi compiute,
+ma per la sua misericordia,
+con un’acqua che rigenera e rinnova nello Spirito Santo,
+che Dio ha effuso su di noi in abbondanza
+per mezzo di Gesù Cristo, salvatore nostro,
+affinché, giustificati per la sua grazia,
+diventassimo, nella speranza, eredi della vita eterna.
 
 Parola di Dio.
+ 
 Acclamazione al Vangelo
 {alleluia al redentore}
-
 Alleluia, alleluia.
 
-Gloria a te, o Cristo, annunziato a tutte le genti;
-gloria a te, o Cristo, creduto nel mondo. (Cf. 1Tm 3,16)
+Viene colui che è più forte di me, disse Giovanni;
+egli vi battezzerà in Spirito Santo e fuoco. (Cf. Lc 3,16)
 
 Alleluia.
 Vangelo
-Il Verbo si fece carne e venne ad abitare in mezzo a noi.
+Mentre Gesù, ricevuto il battesimo, stava in preghiera, il cielo si aprì.
 
-Dal vangelo secondo Giovanni
-Gv 1,1-18
+Dal Vangelo secondo Luca
+Lc 3,15-16.21-22
+ 
+In quel tempo, poiché il popolo era in attesa e tutti, riguardo a Giovanni, si domandavano in cuor loro se non fosse lui il Cristo, Giovanni rispose a tutti dicendo: «Io vi battezzo con acqua; ma viene colui che è più forte di me, a cui non sono degno di slegare i lacci dei sandali. Egli vi battezzerà in Spirito Santo e fuoco».
 
-[In principio era il Verbo,
-e il Verbo era presso Dio
-e il Verbo era Dio.
-Egli era, in principio, presso Dio:
-tutto è stato fatto per mezzo di lui
-e senza di lui nulla è stato fatto di ciò che esiste.
-In lui era la vita
-e la vita era la luce degli uomini;
-la luce splende nelle tenebre
-e le tenebre non l'hanno vinta.]
-Venne un uomo mandato da Dio:
-il suo nome era Giovanni.
-Egli venne come testimone
-per dare testimonianza alla luce,
-perché tutti credessero per mezzo di lui.
-Non era lui la luce,
-ma doveva dare testimonianza alla luce.
-[Veniva nel mondo la luce vera,
-quella che illumina ogni uomo.
-Era nel mondo
-e il mondo è stato fatto per mezzo di lui;
-eppure il mondo non lo ha riconosciuto.
-Venne fra i suoi,
-e i suoi non lo hanno accolto.
-A quanti però lo hanno accolto
-ha dato potere di diventare figli di Dio:
-a quelli che credono nel suo nome,
-i quali, non da sangue
-né da volere di carne
-né da volere di uomo,
-ma da Dio sono stati generati.
-E il Verbo si fece carne
-e venne ad abitare in mezzo a noi;
-e noi abbiamo contemplato la sua gloria,
-gloria come del Figlio unigenito che viene dal Padre,
-pieno di grazia e di verità.]
-Giovanni gli dà testimonianza e proclama:
-«Era di lui che io dissi:
-Colui che viene dopo di me
-è avanti a me,
-perché era prima di me».
-Dalla sua pienezza
-noi tutti abbiamo ricevuto:
-grazia su grazia.  
-Perché la Legge fu data per mezzo di Mosè,
-la grazia e la verità vennero per mezzo di Gesù Cristo.
-Dio, nessuno lo ha mai visto:
-il Figlio unigenito, che è Dio
-ed è nel seno del Padre,
-è lui che lo ha rivelato.
+Ed ecco, mentre tutto il popolo veniva battezzato e Gesù, ricevuto anche lui il battesimo, stava in preghiera, il cielo si aprì e discese sopra di lui lo Spirito Santo in forma corporea, come una colomba, e venne una voce dal cielo: «Tu sei il Figlio mio, l’amato: in te ho posto il mio compiacimento».
 
 Parola del Signore.
+ 
+
 `

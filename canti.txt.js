@@ -1,7 +1,7 @@
 let canti = `
-. 2 gennaio 2022
-# Seconda domenica dopo Natale
-@. Anno C
+. 9 gennaio 2022
+# Battesimo del Signore
+. Anno C
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 
@@ -31,7 +31,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{dio ha tanto amato il mondo}
+{io ti seguirò}
 
 --------------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Comunione
-{in una notte come tante}
+{io voglio amarti}
 
 --------------------------------------------------------------------------------
 
