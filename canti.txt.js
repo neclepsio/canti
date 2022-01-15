@@ -1,6 +1,6 @@
 let canti = `
-. 9 gennaio 2022
-# Battesimo del Signore
+. 16 gennaio 2022
+# Seconda domenica del tempo ordinario
 . Anno C
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
@@ -10,7 +10,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-{adeste fideles}
+{acclamate a dio}
 --------------------------------------------------------------------------------
 
 {kyrie eleison}
@@ -31,12 +31,12 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{uno spirito nuovo}
+{il nostro cuore offriamo a te}
 
 --------------------------------------------------------------------------------
 
 @. Santo
-{santo (pane di vita nuova)}
+{Santo (Come fuoco vivo)}
 
 --------------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Comunione
-{io voglio amarti}
+{figlia di sion}
 
 --------------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Canto finale
-{astro del ciel}
+{nozze a cana}
 
 --------------------------------------------------------------------------------
 

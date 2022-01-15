@@ -38,7 +38,7 @@ function parseSource(text) {
             return match;
         }
         alertAndLog("Impossibile trovare \"" + p1 + "\" nella libreria.");
-        return "%" + match;
+        return "%%" + match;
     });
     // lo faccio due volte per gestire i tag media nella libreria
     text = text.replace(/\{[ \t]*media +(.*?)[ \t]*\}/gm, function(match, p1) {
@@ -171,6 +171,10 @@ function parseSource(text) {
             if (lastRitornello == "") {
                 lastRitornello = line.replace(/[\.,;:]*$/, "...");
             }
+        } else if (line.startsWith("%%")) {
+            klass = "debug";
+            sezione = "debug";
+            line = line.substr(2);
         } else if (line.startsWith("%")) {
             if (debug) {
                 klass = "debug";

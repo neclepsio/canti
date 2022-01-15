@@ -1267,4 +1267,116 @@ En grege relicto humiles ad cunas,
 vocati pastores adproperant,
 et nos ovantes gradu festinemus.
 >*
+
+
+
+# {musica} Acclamate a Dio {media https://www.youtube.com/watch?v=FNomwQWxZeI}
+
+[*Intr.:][D][B-][G][* ][D][B-][G][F#-7][A7]
+>Acclamate a [D]Dio da tutta la [F#-]Ter[B-]ra
+>[E-7]cantate alla gloria [A7]del Suo nome,
+>date a [D]Lui splendida [F#-]lo[B-]de
+>[E-7]stupende [D]sono le [G]Sue [A7]ope[D]re, [F#-][B-]
+>[E-7]stupende [D]sono le [G]Sue [A7]ope[D]re. [G-][D][F#]
+[B-]Per la grandezza della [F#-]Sua potenza
+[G]davanti a Lui si piega[A]no i nemici.
+A [F#-7]Dio si prostri la [B-7]Terra,
+a [G]Lui canti inni, canti [A]al Suo nome.
+>*
+Il mare ha cambiato in terra ferma,
+con la Sua forza regnerà in eterno.
+Dio salva la nostra vita
+per questo in Lui esultiamo di gioia.
+/[C7][]Acclamate a [F]Dio, [A-7][D-][G-]
+/[C7][]acclamate a [F]Dio, [A-7][D-][G-][F][Bb]
+/[C7][]acclamate a [F]Dio. [A-7][D-]
+/Stu[G-]pende [F]sono le [Bb]Sue [C]ope[F]re. [Bb-][F][A7]
+[D-]Venite voi tutti che te[A-]mete Dio
+e [A#]narrerò quanto per [C]me ha fatto.
+A [A-]Lui ho rivolto il mio [D-7]grido
+la [A#]mia lingua can[C]tò la Sua lode! [D?]
+>Acclamate a [F#]Dio da tutta la [A#-]Ter[D#-]ra
+>[G#-7]cantate alla gloria [C#7]del Suo nome,
+>date a [F#]Lui splendida [A#-]lo[D#-]de
+>[G#-7]stupende [F#]sono le [B]Sue [C#7]ope[F#]re, [A#-][C#-]
+>[G#-7]cantate alla gloria [C#7]del Suo nome,
+>date a [F#]Lui splendida [A#-]lo[D#-]de
+>[*?]cantate a Dio, cantate le Sue opere,
+>[G#-7]stupende [F#]sono le [B]Sue [C#7]ope[*?]re.
+>A[*?]men, a[*?]men, a[*?]men. [*?][*?]
+
+
+
+# {musica} Nozze a Cana {media https://www.youtube.com/watch?v=Zn60ozvFVVI}
+@D-          C        A-           D-
+>Danzano con gioia le figlie d'Israele
+@   F          C      A7                D-
+>le nozze sono pronte per il Figlio del Re
+@F         C        Bb                D-
+>Alleluia, alleluia per il Figlio del Re!
+@F         C        Bb                A4 A
+>Alleluia, alleluia per il Figlio del Re!
+@ D-           F       Bb         C
+A Cana, in Galilea nel nome del Signore
+@   A            D-    A-          D-
+gli sposi han giurato amore e fedeltà.
+@   F             C         Bb          D-
+Coi cembali e coi flauti le danze fan corona,
+@  F          Bb       A            A7
+il vino sulla mensa il cuor rallegrerà.
+>*
+@   D-          F        Bb         C
+Nel mezzo della festa il vino viene meno,
+@   A            D-    A-           D-
+non hanno più la gioia la danza finirà.
+@  F             C        Bb        D-
+la madre dice ai servi: "udite la Parola
+@      F             Bb        A         A7
+che il Figlio mio vi dona, Lui vi disseterà".
+>*
+@    D-         F        Bb         C
+Si arrossano le coppe di vino nuovo colme,
+@    A          D-        A-         D-
+è il dono dello sposo per nuova fedeltà.
+@  F              C          Bb           D-
+Danziamo allor fratelli: del Re noi siamo figli,
+@ F            Bb       A              A7
+a lui cantiamo lodi per sempre, alleluia!
+>*
+
+
+
+# {musica} Figlia di Sion {media https://www.youtube.com/watch?v=_lzF7mmVt-8}
+
+[A]D'improvviso mi [A7+]son svegliata[A7]
+il mio cuore è un [D]battito d'ali[D-]
+fra i colori del [A]nuovo giorno,
+da lon[E]tano l'ho visto arri[A]vare.
+
+È vestito di rosso il mio re,
+una fiamma sull'orizzonte,
+oro scende dai suoi capelli,
+ed i fiumi ne son tutti colmi.
+>[D]D'oro e di [E]gemme mi vesti[A7]rò,[D]
+>fra tutte le [E]donne sarò la più bel[A7]la,[D]
+>E quando il [E]mio signore[F#-] mi guarde[B7]rà[D]
+>d'amore il suo [E]cuore trabocche[A]rà.
+Fate presto, correte tutti
+è il mio sposo che arriva già,
+sulla strada stendete mantelli,
+aprite le porte della città.
+
+Quando il Re vedrà la sua sposa
+figlia di Sion mi chiamerà
+né giorno, né notte, né sole, né luna,
+della sua luce mi ricoprirà.
+>*
+>D'oro e di gemme ti vestirai
+>fra tutte le donne sarai la piu bella.
+>E quando il tuo signore ti guarderà
+>d'amore il suo cuore traboccherà.
+
+
+
+# {musica} Alleluia (Canto per Cristo) {media https://www.youtube.com/watch?v=JK2AEbfX6x0}
 `
