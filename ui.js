@@ -227,11 +227,15 @@ function handleMedia() {
 }
 
 function setLetture() {
+    for (let song of document.querySelectorAll(".lettura")) {
+        song.classList.remove("lettura");
+    }
     for (let song of document.querySelectorAll("#contenuto .song")) {
-        if (song.clientWidth > document.body.clientWidth / 2) {
-            song.classList.add("lettura");
-        } else {
-            song.classList.remove("lettura");
+        for (let child of song.children) {
+            if (child.clientWidth > document.body.clientWidth / 2) {
+                song.classList.add("lettura");
+                break;
+            }
         }
     }
 }

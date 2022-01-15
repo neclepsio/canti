@@ -320,8 +320,8 @@ function main() {
     fixLarghezzaTitoli();
 
     window.addEventListener("resize", function () {
-        fixLarghezzaTitoli();
         setLetture();
+        fixLarghezzaTitoli();
     });
 }
 document.addEventListener("DOMContentLoaded", main);

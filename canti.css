@@ -144,15 +144,19 @@ p.debug {
 }
 
 
-
 /* multi colonna su desktop */
 @media screen and (min-width: 900px) and (orientation: landscape) {
     .song:not(.lettura) {
         display: flex;
         flex-flow: column wrap;
-        max-height: calc(100vh - 5rem);
+        max-height: calc(100vh - 10rem);
         max-width: 100%;
         column-gap: 32px;
+        background-color: #f00;
+    }
+
+    body {
+        background-color: #f77;
     }
 }
 
