@@ -1379,4 +1379,27 @@ della sua luce mi ricoprirà.
 
 
 # {musica} Alleluia (Canto per Cristo) {media https://www.youtube.com/watch?v=JK2AEbfX6x0}
+
+
+
+# {musica} Parola d'amore {media https://www.youtube.com/watch?v=Jydd6hhTJ4Y}
+
+Hai man[A]dato, Padre, la tua Pa[G]rola,
+è la [B-]vera forza della sal[E4]vezza. [E7]
+Nel tuo [A]Verbo, Dio, mi hai gene[G7+]rato,
+questa [B-]mia vita voglio vivere in [E4]te. [E7]
+>Sulla [F#-]tua parola getto le [C#-]reti,
+>segni e pro[D]digi presto ve[A]drò.[E]
+>Io de[F#-]pongo, Padre, ogni pec[C#-]cato
+>e nel mio [D]cuore [B-][]accolgo [E4]te, [E7]Parola d'a[A]mor.
+[A][G][A][G]
+Sulla [A]mia strada ti sei rive[g]lato,
+ogni [b-]mio passo la Parola ha gui[e4]dato. [e7]
+Nelle [a]tue promesse non mi hai mai de[g7+]luso,
+cante[b-]rò per sempre la tua bon[e4]tà. [e7]
+>*
+>[A-]D'a[E-]mor, d'a[F7+]more, d'a[C]mo[G4]re.
+>[E7]Io de[A-]pongo, Pad[Cdim]re, ogni pec[E-]cato
+>e nel mio [F]cuo[D-]re accolgo [G4]te, [G]Parola d'a[C]mor.
+>Parola d'a[Bb]mor, Parola d'a[C]more, Parola d'a[Bb]mo[A]re.
 `

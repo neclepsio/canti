@@ -152,11 +152,6 @@ p.debug {
         max-height: calc(100vh - 10rem);
         max-width: 100%;
         column-gap: 32px;
-        background-color: #f00;
-    }
-
-    body {
-        background-color: #f77;
     }
 }
 

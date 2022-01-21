@@ -1,6 +1,6 @@
 let canti = `
-. 16 gennaio 2022
-# Seconda domenica del tempo ordinario
+. 23 gennaio 2022
+# Terza domenica del tempo ordinario
 . Anno C
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
@@ -10,7 +10,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-{acclamate a dio}
+{alla tua presenza}
 --------------------------------------------------------------------------------
 
 {kyrie eleison}
@@ -18,6 +18,11 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 {gloria nell'alto dei cieli}
+
+--------------------------------------------------------------------------------
+
+.Prima delle letture
+{Shêmá israel}
 
 --------------------------------------------------------------------------------
 
@@ -45,7 +50,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Comunione
-{figlia di sion}
+{parola d'amore}
 
 --------------------------------------------------------------------------------
 
@@ -59,7 +64,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Canto finale
-{nozze a cana}
+{resta qui con noi}
 
 --------------------------------------------------------------------------------
 
