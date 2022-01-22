@@ -10,7 +10,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-{alla tua presenza}
+{ascolto la tua voce}
 --------------------------------------------------------------------------------
 
 {kyrie eleison}
@@ -36,7 +36,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{il nostro cuore offriamo a te}
+{parola d'amore}
 
 --------------------------------------------------------------------------------
 

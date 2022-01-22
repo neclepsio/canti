@@ -1007,16 +1007,16 @@ puoi riporlo nei granai.
 
 # {musica} Io voglio amarti {media https://www.youtube.com/watch?v=gnTUY4jf2c4}
 
-[A]Vivo d'amore Signo[E7]re,
-re glo[A]rioso e letizia del [E]cuor.
-Tu [F#-]vivi na[C#-]scosto in un'[D7+]ostia per [A7+]me,
-il tuo [B-7]Spirito m'infiamma d'[E4]amor.[E]
-Tu che [F#-]prendi di[C#-]mora nei [D7]cuori Ge[A7+]sù
-fa ch'io [D]resti cuore a [B-7]cuore con [E4]te.[E]
->Io voglio am[A]arti [C#-][]e [D7+]viver d'a[E]more,
->custo[A]dirti, [C#-][]Pa[D7+]rola di [C#-]Dio.
->E con il [F#-]Pa[C#-]dre di[D7+]mori in [A]me,
->io [B-7]chiedo il tuo a[C#-]more infi[D7+]nito.[E]
+Vivo d'amore Signore,
+re glorioso e delizia del cuor.
+Tu vivi nascosto in un'ostia per me,
+il tuo Spirito m'infiamma d'amor.
+Tu che prendi dimora nei cuori Gesù
+fa ch'io resti cuore a cuore con te.
+>Io voglio amarti e viver d'amore,
+>custodirti, Parola di Dio.
+>E con il Padre dimori in me,
+>io chiedo il tuo amore infinito.
 >*
 T'amo divino Signore,
 verbo eterno, parola di Dio.
@@ -1272,75 +1272,59 @@ et nos ovantes gradu festinemus.
 
 # {musica} Acclamate a Dio {media https://www.youtube.com/watch?v=FNomwQWxZeI}
 
-[*Intr.:][D][B-][G][* ][D][B-][G][F#-7][A7]
->Acclamate a [D]Dio da tutta la [F#-]Ter[B-]ra
->[E-7]cantate alla gloria [A7]del Suo nome,
->date a [D]Lui splendida [F#-]lo[B-]de
->[E-7]stupende [D]sono le [G]Sue [A7]ope[D]re, [F#-][B-]
->[E-7]stupende [D]sono le [G]Sue [A7]ope[D]re. [G-][D][F#]
-[B-]Per la grandezza della [F#-]Sua potenza
-[G]davanti a Lui si piega[A]no i nemici.
-A [F#-7]Dio si prostri la [B-7]Terra,
-a [G]Lui canti inni, canti [A]al Suo nome.
+
+>Acclamate a Dio da tutta la Terra
+>cantate alla gloria del Suo nome,
+>date a Lui splendida lode
+>stupende sono le Sue opere, 
+>stupende sono le Sue opere. 
+Per la grandezza della Sua potenza
+davanti a Lui si piegano i nemici.
+A Dio si prostri la Terra,
+a Lui canti inni, canti al Suo nome.
 >*
 Il mare ha cambiato in terra ferma,
 con la Sua forza regnerà in eterno.
 Dio salva la nostra vita
 per questo in Lui esultiamo di gioia.
-/[C7][]Acclamate a [F]Dio, [A-7][D-][G-]
-/[C7][]acclamate a [F]Dio, [A-7][D-][G-][F][Bb]
-/[C7][]acclamate a [F]Dio. [A-7][D-]
-/Stu[G-]pende [F]sono le [Bb]Sue [C]ope[F]re. [Bb-][F][A7]
-[D-]Venite voi tutti che te[A-]mete Dio
-e [A#]narrerò quanto per [C]me ha fatto.
-A [A-]Lui ho rivolto il mio [D-7]grido
-la [A#]mia lingua can[C]tò la Sua lode! [D?]
->Acclamate a [F#]Dio da tutta la [A#-]Ter[D#-]ra
->[G#-7]cantate alla gloria [C#7]del Suo nome,
->date a [F#]Lui splendida [A#-]lo[D#-]de
->[G#-7]stupende [F#]sono le [B]Sue [C#7]ope[F#]re, [A#-][C#-]
->[G#-7]cantate alla gloria [C#7]del Suo nome,
->date a [F#]Lui splendida [A#-]lo[D#-]de
->[*?]cantate a Dio, cantate le Sue opere,
->[G#-7]stupende [F#]sono le [B]Sue [C#7]ope[*?]re.
->A[*?]men, a[*?]men, a[*?]men. [*?][*?]
+/Acclamate a Dio, 
+/acclamate a Dio, 
+/acclamate a Dio. 
+/Stupende sono le Sue opere. 
+Venite voi tutti che temete Dio
+e narrerò quanto per me ha fatto.
+A Lui ho rivolto il mio grido
+la mia lingua cantò la Sua lode! 
+>Acclamate a Dio da tutta la Terra
+>cantate alla gloria del Suo nome,
+>date a Lui splendida lode
+>stupende sono le Sue opere, 
+>cantate alla gloria del Suo nome,
+>date a Lui splendida lode
+>cantate a Dio, cantate le Sue opere,
+>stupende sono le Sue opere.
+>Amen, amen, amen. 
 
 
 
 # {musica} Nozze a Cana {media https://www.youtube.com/watch?v=Zn60ozvFVVI}
-@D-          C        A-           D-
 >Danzano con gioia le figlie d'Israele
-@   F          C      A7                D-
 >le nozze sono pronte per il Figlio del Re
-@F         C        Bb                D-
 >Alleluia, alleluia per il Figlio del Re!
-@F         C        Bb                A4 A
 >Alleluia, alleluia per il Figlio del Re!
-@ D-           F       Bb         C
 A Cana, in Galilea nel nome del Signore
-@   A            D-    A-          D-
 gli sposi han giurato amore e fedeltà.
-@   F             C         Bb          D-
 Coi cembali e coi flauti le danze fan corona,
-@  F          Bb       A            A7
 il vino sulla mensa il cuor rallegrerà.
 >*
-@   D-          F        Bb         C
 Nel mezzo della festa il vino viene meno,
-@   A            D-    A-           D-
 non hanno più la gioia la danza finirà.
-@  F             C        Bb        D-
 la madre dice ai servi: "udite la Parola
-@      F             Bb        A         A7
 che il Figlio mio vi dona, Lui vi disseterà".
 >*
-@    D-         F        Bb         C
 Si arrossano le coppe di vino nuovo colme,
-@    A          D-        A-         D-
 è il dono dello sposo per nuova fedeltà.
-@  F              C          Bb           D-
 Danziamo allor fratelli: del Re noi siamo figli,
-@ F            Bb       A              A7
 a lui cantiamo lodi per sempre, alleluia!
 >*
 
@@ -1348,19 +1332,19 @@ a lui cantiamo lodi per sempre, alleluia!
 
 # {musica} Figlia di Sion {media https://www.youtube.com/watch?v=_lzF7mmVt-8}
 
-[A]D'improvviso mi [A7+]son svegliata[A7]
-il mio cuore è un [D]battito d'ali[D-]
-fra i colori del [A]nuovo giorno,
-da lon[E]tano l'ho visto arri[A]vare.
+D'improvviso mi son svegliata
+il mio cuore è un battito d'ali
+fra i colori del nuovo giorno,
+da lontano l'ho visto arrivare.
 
 È vestito di rosso il mio re,
 una fiamma sull'orizzonte,
 oro scende dai suoi capelli,
 ed i fiumi ne son tutti colmi.
->[D]D'oro e di [E]gemme mi vesti[A7]rò,[D]
->fra tutte le [E]donne sarò la più bel[A7]la,[D]
->E quando il [E]mio signore[F#-] mi guarde[B7]rà[D]
->d'amore il suo [E]cuore trabocche[A]rà.
+>D'oro e di gemme mi vestirò,
+>fra tutte le donne sarò la più bella,
+>E quando il mio signore mi guarderà
+>d'amore il suo cuore traboccherà.
 Fate presto, correte tutti
 è il mio sposo che arriva già,
 sulla strada stendete mantelli,
@@ -1384,22 +1368,46 @@ della sua luce mi ricoprirà.
 
 # {musica} Parola d'amore {media https://www.youtube.com/watch?v=Jydd6hhTJ4Y}
 
-Hai man[A]dato, Padre, la tua Pa[G]rola,
-è la [B-]vera forza della sal[E4]vezza. [E7]
-Nel tuo [A]Verbo, Dio, mi hai gene[G7+]rato,
-questa [B-]mia vita voglio vivere in [E4]te. [E7]
->Sulla [F#-]tua parola getto le [C#-]reti,
->segni e pro[D]digi presto ve[A]drò.[E]
->Io de[F#-]pongo, Padre, ogni pec[C#-]cato
->e nel mio [D]cuore [B-][]accolgo [E4]te, [E7]Parola d'a[A]mor.
-[A][G][A][G]
-Sulla [A]mia strada ti sei rive[g]lato,
-ogni [b-]mio passo la Parola ha gui[e4]dato. [e7]
-Nelle [a]tue promesse non mi hai mai de[g7+]luso,
-cante[b-]rò per sempre la tua bon[e4]tà. [e7]
+Hai mandato, Padre, la tua Parola,
+è la vera forza della salvezza. 
+Nel tuo Verbo, Dio, mi hai generato,
+questa mia vita voglio vivere in te. 
+>Sulla tua parola getto le reti,
+>segni e prodigi presto vedrò.
+>Io depongo, Padre, ogni peccato
+>e nel mio cuore accolgo te, Parola d'amor.
+
+Sulla mia strada ti sei rivelato,
+ogni mio passo la Parola ha guidato. 
+Nelle tue promesse non mi hai mai deluso,
+canterò per sempre la tua bontà. 
 >*
->[A-]D'a[E-]mor, d'a[F7+]more, d'a[C]mo[G4]re.
->[E7]Io de[A-]pongo, Pad[Cdim]re, ogni pec[E-]cato
->e nel mio [F]cuo[D-]re accolgo [G4]te, [G]Parola d'a[C]mor.
->Parola d'a[Bb]mor, Parola d'a[C]more, Parola d'a[Bb]mo[A]re.
+>D'amor, d'amore, d'amore.
+>Io depongo, Padre, ogni peccato
+>e nel mio cuore accolgo te, Parola d'amor.
+>Parola d'amor, Parola d'amore, Parola d'amore.
+
+
+
+# {musica} Ascolto la tua voce {media https://www.youtube.com/watch?v=pcz3aoaTWEI}
+
+Ascolto la tua voce Signor, spero nella tua parola.
+In te rifugio io troverò perchè sei la mia dimora.
+>Finchè soffierà il vento
+>e ogni vita avrà il suo canto
+>se all'alba un fiore si aprirà,
+>bagnerà la sabbia il mare,
+>scioglierà la neve il sole,
+>il creato la tua voce ascolterà.
+Io vedo la tua luce Signor, come il sole all'aurora.
+Vicino a te io camminerò, non avrà ombre la sera.
+>*
+Io sento la tua pace Signor, tu mi dai la gioia vera.
+A te per sempre io canterò, proclamando la tua gloria.
+>*
+
+>Finchè soffierà il vento
+>e ogni vita avrà il suo canto
+>se all'alba un fiore si aprirà,
+>il creato la tua voce ascolterà.
 `
