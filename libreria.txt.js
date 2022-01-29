@@ -1,5 +1,5 @@
 let libreria = `
-#{musica} Apri i miei occhi {media https://www.youtube.com/watch?v=Qf_xvOnb-P0}
+#{musica} Apri i miei occhi {media https://www.youtube.com/watch?v=QfxvOnb-P0}
 
 >Apri i miei occhi Signore,
 >aprimi gli occhi del cuor:
@@ -32,7 +32,7 @@ Kyrie eleison, Christe eleison.
 
 
 
-#{musica} Gloria nell'alto dei cieli
+#{musica} Gloria nell'alto dei cieli {media https://www.youtube.com/watch?v=22ZW25Dil0k}
 
 >Gloria, gloria a Dio.
 >Gloria, gloria nell’alto dei cieli.
@@ -295,7 +295,7 @@ fanne dono che porterà la vita tua.
 
 
 
-#{musica} Lode al nome tuo {media https://www.youtube.com/watch?v=fsdt3_akU_0}
+#{musica} Lode al nome tuo {media https://www.youtube.com/watch?v=fsdt3akU0}
 
 Lode al nome tuo, dalle terre più floride,
 dove tutto sembra vivere, lode al nome tuo.
@@ -458,7 +458,7 @@ e ti proclamo mio Signore.
 
 
 
-#{musica} Abbracciami {media https://www.youtube.com/watch?v=c_jr5UXoyiM}
+#{musica} Abbracciami {media https://www.youtube.com/watch?v=cjr5UXoyiM}
 
 Gesù parola viva e vera,
 sorgente che disseta e cura ogni ferita,
@@ -521,18 +521,18 @@ nel nome del Signore.
 
 #{musica} Alla tua presenza {media https://www.youtube.com/watch?v=WzH7HFzAflk}
 
-_Alla tua presenza portaci Signor,
+Alla tua presenza portaci Signor,
 nei tuoi atri noi vogliamo dimorare.
-_Nel tuo tempio intoneremo inni a te,
-_canti di lode alla tua maestà
+Nel tuo tempio intoneremo inni a te,
+canti di lode alla tua maestà
 
-_Il tuo Santo Spirito ci guidi là dove sei tu,
-_alla tua presenza Signore Gesù.
-_In eterno canteremo gloria a te, Signor.
-_Alla tua presenza,
-_alla tua presenza,
+Il tuo Santo Spirito ci guidi là dove sei tu,
+alla tua presenza Signore Gesù.
+In eterno canteremo gloria a te, Signor.
+Alla tua presenza,
+alla tua presenza,
 per sempre insieme a te
-_Gesù.____
+Gesù.
 
 
 
@@ -588,8 +588,8 @@ Ascolta Israele il Signore è nostro Dio, uno è il Signor.
 
 #{musica} Io ti amo {media https://www.youtube.com/watch?v=XPrvaRfWLz4}
 
-_Mh, mh, mh, _mh.
-_Io ti amo, io ti amo, amo te, Signor.
+Mh, mh, mh, mh.
+Io ti amo, io ti amo, amo te, Signor.
 
 Signore tu mi scruti e mi conosci,
 intendi da lontano i miei pensieri,
@@ -599,7 +599,7 @@ tu sei il mio Signor.
 >Io ti amo, io ti amo, amo te, Signor.
 >Io ti amo, io ti amo, amo te, Signor.
 
-_Mh, mh, mh, _mh.
+Mh, mh, mh, mh.
 
 Sei tu che mi hai creato nel segreto,
 nel seno di mia madre mi hai formato,
@@ -618,11 +618,11 @@ tu sei il mio Signor.
 
 
 
-#{musica} Nelle tue mani {media https://www.youtube.com/watch?v=Zo6CuMpR_c8}
+#{musica} Nelle tue mani {media https://www.youtube.com/watch?v=Zo6CuMpRc8}
 
-_Nelle tue mani affido la vita,
-_Dio, mia salvezza sei tu.
-_volgi lo sguardo al mio cuore,
+Nelle tue mani affido la vita,
+Dio, mia salvezza sei tu.
+volgi lo sguardo al mio cuore,
 con Te al sicuro sarò.
 >Padre del cielo, per il tuo nome vivrò;
 >un sacrificio con la mia lode io ti offrirò
@@ -642,7 +642,7 @@ con te al sicuro vivrò.
 #{musica} Resta qui con noi {media https://www.youtube.com/watch?v=PUFlAzyWMY4}
 
 Le ombre si distendono, scende ormai la sera
-_e s'allontanano dietro i monti
+e s'allontanano dietro i monti
 i riflessi di un giorno che non finirà,
 di un giorno che ora correrà sempre
 perché sappiamo che una nuova vita
@@ -821,7 +821,7 @@ Gesù Re di gloria mio Signor.
 
 
 
-#{musica} Cristo Re {media https://www.youtube.com/watch?v=_BUs4qF81Vg}
+#{musica} Cristo Re {media https://www.youtube.com/watch?v=BUs4qF81Vg}
 
 Benedetto sei Signore, Re di pace e di vittoria,
 sei venuto in mezzo a noi, mite ed umile di cuore.
@@ -1073,23 +1073,23 @@ alleluia.
 
 # {musica} Ave dolce Maria {media https://www.youtube.com/watch?v=LlcIkVQ-TpI&list=PLue1X-oPNpdrwhJDUKzGwIcj0YeJD1pnK}
 
-_Vergine celeste, gioia del cuor,
-_mostraci la strada verso Gesù.
-_Vergine fedele, scelta da Dio,
-_Stella del mattino, degna d'onor.
+Vergine celeste, gioia del cuor,
+mostraci la strada verso Gesù.
+Vergine fedele, scelta da Dio,
+Stella del mattino, degna d'onor.
 >Ave dolce Maria, regina del cielo,
 >con fiducia a te veniam.
 >Cuore di madre, noi ti affidiamo ogni fragilità.
 >Perché tutto tu puoi nel tuo figlio Gesù.
 >Siam sicuri che tu non ci deluderai,  Maria.
-_Intercedi per noi, mh...
-_Intercedi per noi, mh...
+Intercedi per noi, mh...
+Intercedi per noi, mh...
 Vergine potente, madre di Dio,
 il tuo buon consiglio è luce per noi.
 Vergine clemente, ricca di grazie,
 tu che sei rifugio del peccator.
 >*
-_Mh...
+Mh...
 >Perché tutto tu puoi nel tuo figlio Gesù.
 >Siam sicuri che tu non ci deluderai,  Maria.
 Intercedi per noi.
@@ -1112,7 +1112,7 @@ Principio e fine Lui per sempre li unirà.
 È Figlio redentor, è Spirito creator.
 >*
 >*
-_Altro Dio non ho, nel suo nome io vivrò.
+Altro Dio non ho, nel suo nome io vivrò.
 Ed il cuore mio saprà che egli è il Re.
 Altro Dio non ho...
 >*
@@ -1126,13 +1126,13 @@ Altro Dio non ho...
 
 # {musica} Tu scendi dalle stelle
 
-_Tu scendi dalle stelle, o Re del Cielo,
+Tu scendi dalle stelle, o Re del Cielo,
 e vieni in una grotta, al freddo, al gelo,
-_e vieni in una grotta, al freddo, al gelo.
-_Oh Bambino, mio divino,
+e vieni in una grotta, al freddo, al gelo.
+Oh Bambino, mio divino,
 io Ti vedo qui tremar, oh Dio beato!
 Ah quanto Ti costò l'avermi amato,
-_ah quanto Ti costò l'avermi amato.
+ah quanto Ti costò l'avermi amato.
 
 A Te che sei del mondo il Creatore,
 mancano panno e fuoco, oh mio Signore.
@@ -1186,10 +1186,10 @@ amalo tu per me, s'io nol so amare.
 
 # {musica} Astro del ciel
 
-_Astro del ciel, Pargol divin
-_mite Agnello Redentor.
-_Tu che i vati da lungi sognar,
-_tu che angeliche voci annunziar.
+Astro del ciel, Pargol divin
+mite Agnello Redentor.
+Tu che i vati da lungi sognar,
+tu che angeliche voci annunziar.
 >Luce dona alle menti,
 >pace infondi nei cuor!
 >Luce dona alle menti,
@@ -1330,7 +1330,7 @@ a lui cantiamo lodi per sempre, alleluia!
 
 
 
-# {musica} Figlia di Sion {media https://www.youtube.com/watch?v=_lzF7mmVt-8}
+# {musica} Figlia di Sion {media https://www.youtube.com/watch?v=lzF7mmVt-8}
 
 D'improvviso mi son svegliata
 il mio cuore è un battito d'ali
@@ -1410,4 +1410,52 @@ A te per sempre io canterò, proclamando la tua gloria.
 >e ogni vita avrà il suo canto
 >se all'alba un fiore si aprirà,
 >il creato la tua voce ascolterà.
+
+
+
+# {musica} Roccia di fedeltà {media https://www.youtube.com/watch?v=WdMt_NBumPU}
+
+[Ab]Hai ascoltato, o Dio, [Bb7]il grido di chi soffre e spera,
+[Ab]fonte di ogni bene, [C-]hai libera[Bb]to il cuo[Eb]re.
+[Ab7+]Tu l'aqua viva [Bb]sei [Ab]quando il deserto è in[G-]torno a noi,
+[Ab7+]sempre noi lode[F-]remo il tuo [G7]nome.
+>[C]Grande sei tu, Signor, [A-]roccia di fedeltà,
+>[F]tu sei con noi, non ci abbandoni [G4]mai.[G]
+>[C]all'ombra del tuo amor [E-]su questa terra [A-]camminiam,
+>[F]forti con te, [D-]verso l'eterni[G4]tà, [G]roccia di fedel[C]tà.
+Hai riscattato, o Dio, la vita di chi in te confida,
+difesa da ogni male, tu sciogli le catene.
+Nella tempesta sei la mano che ci salverà,
+sempre noi loderemo il tuo nome.
+>*
+
+>[C]Grande sei tu, Si[F7+]gnor, [A-]roccia di fedeltà.
+>Grande sei tu, Signor, tu [C]sei con noi, [G]roccia di fedel[C]tà.
+>Roccia di fedel[F7+]tà, roccia di fedel[A-]tà.
+>Grande sei tu, Signor, tu [C]sei con noi, [G]roccia di fedeltà.
+>[C]All'ombra del tuo amor [E-]su questa terra [A-]camminiam,
+>[F]forti con te, [D-]verso l'eterni[G4]tà, [G]roccia di fedel[C]tà.
+
+
+
+# {musica} Popoli tutti acclamate {media https://www.youtube.com/watch?v=LGP3L88t9NU}
+
+
+[A][]Mio Dio,[E] Signore, [F#-]nulla è [E]pari a [D]Te.
+Ora e per [A/C#]sempre, [D]voglio lod[A/E]are
+[F#-7]il Tuo grande a[G]mor [D/F#]per [E4]noi.[E]
+Mia roccia Tu sei, pace e conforto mi dai.
+Con tutto il cuore e le mie forze, sempre io Ti adorerò.
+>[A]Popoli [F#-]tutti acclam[D]ate al Si[D/E]gno[E]re,
+>[A]gloria e po[F#-]tenza can[D7+]tiamo al [E4]re,[E]
+>m[F#-]ari e monti si p[D]rostrino a Te,
+>al Tuo [E]nome, [F#-]o Signo[E/G#]re. [E/B]
+>[A]Canto di g[F#-]ioia per quel[D]lo che [D/E]fai,[E]
+>per [A]sempre Sig[F#-]nore con [D]Te reste[E4]rò,[E]
+>non c'è [F#-]promessa, non [D]c'e fedel[D/E]tà [E7]che in T[A]e.
+
+>*
+>[B]Canto di g[G#-]ioia per quel[E]lo che [E/F#]fai,[F#]
+>per [B]sempre Sig[G#-]nore con [E]Te reste[F#4]rò,[F#]
+>non c'è [G#-]promessa, non [E]c'è fedel[E/F#]tà [F#7]che in T[B]e.
 `

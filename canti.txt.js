@@ -1,6 +1,6 @@
 let canti = `
-. 23 gennaio 2022
-# Terza domenica del tempo ordinario
+. 31 gennaio 2022
+# Quarta domenica del tempo ordinario
 . Anno C
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
@@ -10,7 +10,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Ingresso
-{ascolto la tua voce}
+{popoli tutti acclamate}
 --------------------------------------------------------------------------------
 
 {kyrie eleison}
@@ -21,10 +21,10 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 
 --------------------------------------------------------------------------------
 
-.Prima delle letture
-{Shêmá israel}
-
---------------------------------------------------------------------------------
+@.Prima delle letture
+@{Shêmá israel}
+@
+@--------------------------------------------------------------------------------
 
 {liturgia}
 
@@ -36,7 +36,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{parola d'amore}
+{nelle tue mani}
 
 --------------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Comunione
-{parola d'amore}
+{roccia di fedeltà}
 
 --------------------------------------------------------------------------------
 

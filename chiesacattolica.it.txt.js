@@ -7,60 +7,78 @@
 
 let liturgia=`
 Prima Lettura
-Leggevano il libro della legge e ne spiegavano il senso.
+Ti ho stabilito profeta delle nazioni.
 
-Dal libro di Neemìa
-Nee 8,2-4a.5-6.8-10
+Dal libro del profeta Geremìa
+Ger 1,4-5.17-19
  
-In quei giorni, il sacerdote Esdra portò la legge davanti all’assemblea degli uomini, delle donne e di quanti erano capaci di intendere.
+Nei giorni del re Giosìa, mi fu rivolta questa parola del Signore:
+ 
+«Prima di formarti nel grembo materno,
+ti ho conosciuto,
+prima che tu uscissi alla luce, ti ho consacrato;
+ti ho stabilito profeta delle nazioni».
+ 
+Tu, dunque, stringi la veste ai fianchi,
+àlzati e di’ loro tutto ciò che ti ordinerò;
+non spaventarti di fronte a loro,
+altrimenti sarò io a farti paura davanti a loro.
+ 
+Ed ecco, oggi io faccio di te
+come una città fortificata,
+una colonna di ferro
+e un muro di bronzo
+contro tutto il paese,
+contro i re di Giuda e i suoi capi,
+contro i suoi sacerdoti e il popolo del paese.
+Ti faranno guerra, ma non ti vinceranno,
+perché io sono con te per salvarti».
 
-Lesse il libro sulla piazza davanti alla porta delle Acque, dallo spuntare della luce fino a mezzogiorno, in presenza degli uomini, delle donne e di quelli che erano capaci d’intendere; tutto il popolo tendeva l’orecchio al libro della legge. Lo scriba Esdra stava sopra una tribuna di legno, che avevano costruito per l’occorrenza.
-
-Esdra aprì il libro in presenza di tutto il popolo, poiché stava più in alto di tutti; come ebbe aperto il libro, tutto il popolo si alzò in piedi. Esdra benedisse il Signore, Dio grande, e tutto il popolo rispose: «Amen, amen», alzando le mani; si inginocchiarono e si prostrarono con la faccia a terra dinanzi al Signore.
-
-I levìti leggevano il libro della legge di Dio a brani distinti e spiegavano il senso, e così facevano comprendere la lettura.
-
-Neemìa, che era il governatore, Esdra, sacerdote e scriba, e i levìti che ammaestravano il popolo dissero a tutto il popolo: «Questo giorno è consacrato al Signore, vostro Dio; non fate lutto e non piangete!». Infatti tutto il popolo piangeva, mentre ascoltava le parole della legge.
-
-Poi Neemìa disse loro: «Andate, mangiate carni grasse e bevete vini dolci e mandate porzioni a quelli che nulla hanno di preparato, perché questo giorno è consacrato al Signore nostro; non vi rattristate, perché la gioia del Signore è la vostra forza».
-
-Parola di Dio.
+Parola di Dio
  
 Salmo Responsoriale
-Dal Sal 18 (19)
-R. Le tue parole, Signore, sono spirito e vita.
+Dal Sal 70 (71)
+R. La mia bocca, Signore, racconterà la tua salvezza.
 
-La legge del Signore è perfetta,
-rinfranca l’anima;
-la testimonianza del Signore è stabile,
-rende saggio il semplice. R.
+In te, Signore, mi sono rifugiato,
+mai sarò deluso.
+Per la tua giustizia, liberami e difendimi,
+tendi a me il tuo orecchio e salvami. R.
  
-I precetti del Signore sono retti,
-fanno gioire il cuore;
-il comando del Signore è limpido,
-illumina gli occhi. R.
+Sii tu la mia roccia,
+una dimora sempre accessibile;
+hai deciso di darmi salvezza:
+davvero mia rupe e mia fortezza tu sei!
+Mio Dio, liberami dalle mani del malvagio. R.
  
-Il timore del Signore è puro,
-rimane per sempre;
-i giudizi del Signore sono fedeli,
-sono tutti giusti. R.
+Sei tu, mio Signore, la mia speranza,
+la mia fiducia, Signore, fin dalla mia giovinezza.
+Su di te mi appoggiai fin dal grembo materno,
+dal seno di mia madre sei tu il mio sostegno. R.
  
-Ti siano gradite le parole della mia bocca;
-davanti a te i pensieri del mio cuore,
-Signore, mia roccia e mio redentore. R.
+La mia bocca racconterà la tua giustizia,
+ogni giorno la tua salvezza.
+Fin dalla giovinezza, o Dio, mi hai istruito
+e oggi ancora proclamo le tue meraviglie. R.
  
 Seconda Lettura
-Voi siete corpo di Cristo, ognuno secondo la propria parte.
+Rimangono la fede, la speranza e la carità; ma la più grande di tutte è la carità.
 Dalla prima lettera di san Paolo apostolo ai Corìnzi
-1Cor 12,12-30
+1Cor 12,31 - 13,13
  
-Fratelli, come il corpo è uno solo e ha molte membra, e tutte le membra del corpo, pur essendo molte, sono un corpo solo, così anche il Cristo. Infatti noi tutti siamo stati battezzati mediante un solo Spirito in un solo corpo, Giudei o Greci, schiavi o liberi; e tutti siamo stati dissetati da un solo Spirito.
+Fratelli, desiderate intensamente i carismi più grandi. E allora, vi mostro la via più sublime.
 
-E infatti il corpo non è formato da un membro solo, ma da molte membra. Se il piede dicesse: «Poiché non sono mano, non appartengo al corpo», non per questo non farebbe parte del corpo. E se l’orecchio dicesse: «Poiché non sono occhio, non appartengo al corpo», non per questo non farebbe parte del corpo. Se tutto il corpo fosse occhio, dove sarebbe l’udito? Se tutto fosse udito, dove sarebbe l’odorato?
+Se parlassi le lingue degli uomini e degli angeli, ma non avessi la carità, sarei come bronzo che rimbomba o come cimbalo che strepita.
 
-Ora, invece, Dio ha disposto le membra del corpo in modo distinto, come egli ha voluto. Se poi tutto fosse un membro solo, dove sarebbe il corpo? Invece molte sono le membra, ma uno solo è il corpo. Non può l’occhio dire alla mano: «Non ho bisogno di te»; oppure la testa ai piedi: «Non ho bisogno di voi». Anzi proprio le membra del corpo che sembrano più deboli sono le più necessarie; e le parti del corpo che riteniamo meno onorevoli le circondiamo di maggiore rispetto, e quelle indecorose sono trattate con maggiore decenza, mentre quelle decenti non ne hanno bisogno. Ma Dio ha disposto il corpo conferendo maggiore onore a ciò che non ne ha, perché nel corpo non vi sia divisione, ma anzi le varie membra abbiano cura le une delle altre. Quindi se un membro soffre, tutte le membra soffrono insieme; e se un membro è onorato, tutte le membra gioiscono con lui.
+E se avessi il dono della profezia, se conoscessi tutti i misteri e avessi tutta la conoscenza, se possedessi tanta fede da trasportare le montagne, ma non avessi la carità, non sarei nulla.
 
-Ora voi siete corpo di Cristo e, ognuno secondo la propria parte, sue membra. Alcuni perciò Dio li ha posti nella Chiesa in primo luogo come apostoli, in secondo luogo come profeti, in terzo luogo come maestri; poi ci sono i miracoli, quindi il dono delle guarigioni, di assistere, di governare, di parlare varie lingue. Sono forse tutti apostoli? Tutti profeti? Tutti maestri? Tutti fanno miracoli? Tutti possiedono il dono delle guarigioni? Tutti parlano lingue? Tutti le interpretano?
+E se anche dessi in cibo tutti i miei beni e consegnassi il mio corpo per averne vanto, ma non avessi la carità, a nulla mi servirebbe.
+
+La carità è magnanima, benevola è la carità; non è invidiosa, non si vanta, non si gonfia d’orgoglio, non manca di rispetto, non cerca il proprio interesse, non si adira, non tiene conto del male ricevuto, non gode dell’ingiustizia ma si rallegra della verità. Tutto scusa, tutto crede, tutto spera, tutto sopporta.
+
+La carità non avrà mai fine. Le profezie scompariranno, il dono delle lingue cesserà e la conoscenza svanirà. Infatti, in modo imperfetto noi conosciamo e in modo imperfetto profetizziamo. Ma quando verrà ciò che è perfetto, quello che è imperfetto scomparirà. Quand’ero bambino, parlavo da bambino, pensavo da bambino, ragionavo da bambino. Divenuto uomo, ho eliminato ciò che è da bambino.
+
+Adesso noi vediamo in modo confuso, come in uno specchio; allora invece vedremo faccia a faccia. Adesso conosco in modo imperfetto, ma allora conoscerò perfettamente, come anch’io sono conosciuto. Ora dunque rimangono queste tre cose: la fede, la speranza e la carità. Ma la più grande di tutte è la carità!
 
 Parola di Dio.
  
@@ -76,26 +94,16 @@ a proclamare ai prigionieri la liberazione. (Lc 4,18)
 Alleluia.
  
 Vangelo
-Oggi si è compiuta questa Scrittura.
+Gesù come Elìa ed Eliseo è mandato non per i soli Giudei.
 
 Dal Vangelo secondo Luca
-Lc 1,1-4; 4,14-21
+Lc 4,21-30
  
-Poiché molti hanno cercato di raccontare con ordine gli avvenimenti che si sono compiuti in mezzo a noi, come ce li hanno trasmessi coloro che ne furono testimoni oculari fin da principio e divennero ministri della Parola, così anch’io ho deciso di fare ricerche accurate su ogni circostanza, fin dagli inizi, e di scriverne un resoconto ordinato per te, illustre Teòfilo, in modo che tu possa renderti conto della solidità degli insegnamenti che hai ricevuto.
+In quel tempo, Gesù cominciò a dire nella sinagoga: «Oggi si è compiuta questa Scrittura che voi avete ascoltato».
 
-In quel tempo, Gesù ritornò in Galilea con la potenza dello Spirito e la sua fama si diffuse in tutta la regione. Insegnava nelle loro sinagoghe e gli rendevano lode.
+Tutti gli davano testimonianza ed erano meravigliati delle parole di grazia che uscivano dalla sua bocca e dicevano: «Non è costui il figlio di Giuseppe?». Ma egli rispose loro: «Certamente voi mi citerete questo proverbio: “Medico, cura te stesso. Quanto abbiamo udito che accadde a Cafàrnao, fallo anche qui, nella tua patria!”». Poi aggiunse: «In verità io vi dico: nessun profeta è bene accetto nella sua patria. Anzi, in verità io vi dico: c’erano molte vedove in Israele al tempo di Elìa, quando il cielo fu chiuso per tre anni e sei mesi e ci fu una grande carestia in tutto il paese; ma a nessuna di esse fu mandato Elìa, se non a una vedova a Sarèpta di Sidòne. C’erano molti lebbrosi in Israele al tempo del profeta Eliseo; ma nessuno di loro fu purificato, se non Naamàn, il Siro».
 
-Venne a Nàzaret, dove era cresciuto, e secondo il suo solito, di sabato, entrò nella sinagoga e si alzò a leggere. Gli fu dato il rotolo del profeta Isaìa; aprì il rotolo e trovò il passo dove era scritto:
-
-«Lo Spirito del Signore è sopra di me;
-per questo mi ha consacrato con l’unzione
-e mi ha mandato a portare ai poveri il lieto annuncio,
-a proclamare ai prigionieri la liberazione
-e ai ciechi la vista;
-a rimettere in libertà gli oppressi,
-a proclamare l’anno di grazia del Signore».
-
-Riavvolse il rotolo, lo riconsegnò all’inserviente e sedette. Nella sinagoga, gli occhi di tutti erano fissi su di lui. Allora cominciò a dire loro: «Oggi si è compiuta questa Scrittura che voi avete ascoltato».
+All’udire queste cose, tutti nella sinagoga si riempirono di sdegno. Si alzarono e lo cacciarono fuori della città e lo condussero fin sul ciglio del monte, sul quale era costruita la loro città, per gettarlo giù. Ma egli, passando in mezzo a loro, si mise in cammino.
 
 Parola del Signore.
 `
