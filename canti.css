@@ -143,6 +143,9 @@ p.debug {
     border-radius: 4px;
 }
 
+.url {
+    display: none;
+}
 
 /* multi colonna su desktop */
 @media screen and (min-width: 900px) and (orientation: landscape) {
@@ -152,6 +155,21 @@ p.debug {
         max-height: calc(100vh - 10rem);
         max-width: 100%;
         column-gap: 32px;
+    }
+
+    .url {
+        display: block;
+        text-align: center;
+        position: fixed;
+        background-color: #eee;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: 24px;
+        font-size: 150%;
+        font-weight: bold;
+        box-shadow: 0 0 16px rgba(0, 0, 0, 0.25);
+        z-index: 10;
     }
 }
 
@@ -201,6 +219,7 @@ p.debug {
     position: fixed;
     right: 16px;
     bottom: 16px;
+    z-index: 20;
 }
 
 #spacer {

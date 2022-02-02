@@ -37,6 +37,9 @@ function parseSource(text) {
         if (p1l.startsWith("img ")) {
             return match;
         }
+        if (p1l.startsWith("url ")) {
+            return match;
+        }
         alertAndLog("Impossibile trovare \"" + p1 + "\" nella libreria.");
         return "%%" + match;
     });
@@ -260,6 +263,11 @@ function parseSource(text) {
     res = res.replace(/\{media +(.*?)\}/g, function(match, p1) {
         var link = links[parseInt(p1)];
         return '<img class="media" src="youtube.svg" data-link="' + link + '">';
+    })
+    
+    // url
+    res = res.replace(/\{url +(.*?)\}/g, function(match, p1) {
+        return '<div class="url">' + p1 + '</div>';
     })
 
     // tag (span dal titolo)

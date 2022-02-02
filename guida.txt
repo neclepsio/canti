@@ -70,6 +70,9 @@ Larghezza ed altezza sono definiti come unità CSS. Per esempio:
   {img auto 4em salmo.svg}
 Il nome del file non può contenere spazi.
 
+Per visualizzare l'indirizzo in modalità desktop, usare:
+  {url [indirizzo]}
+
 La punteggiatura verrà abbellita: 
   '     diventa   ‘ o ’
   "     diventa   “ o ”

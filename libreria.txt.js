@@ -1458,4 +1458,32 @@ Con tutto il cuore e le mie forze, sempre io Ti adorerò.
 >[B]Canto di g[G#-]ioia per quel[E]lo che [E/F#]fai,[F#]
 >per [B]sempre Sig[G#-]nore con [E]Te reste[F#4]rò,[F#]
 >non c'è [G#-]promessa, non [E]c'è fedel[E/F#]tà [F#7]che in T[B]e.
+
+
+
+# {musica} O Signore guardami {media https://www.youtube.com/watch?v=jV-RArO-etE}
+
+O Signore guardami, nella fede sono qui
+per toccare appena il lembo del mantello.
+E la forza che verrà sarà come unguento che
+mi risanerà e guarito io sarò.
+>Gesù, Ge__sù, vieni in me e guariscimi.
+>Ge_sù, vieni in me
+>e nella tua pace io vivrò.
+O Signore guardaci, nella fede siamo qui
+il tuo nome è potenza che guarisce.
+E se il mondo finirà la Parola resterà
+perchè tu sei via, vita e verità.
+>Gesù, Ge__sù, vieni in noi e guariscici.
+>Ge_sù, vieni in noi
+>e nella tua pace noi vivremo.
+tu ci chiami alla presenza del tuo amore.
+Ed il cuore canta già la tua grande fedeltà
+tu ci doni vita nuova e libertà.
+>Gesù, Gesù, vieni in noi...
+____ _Gesù, Ge__sù, vieni in noi e guariscici.
+O Gesù, _vieni in noi
+_e nella tua pace noi vivremo,
+_e nella tua pace noi vivremo,
+_e nella tua pace io vivrò.
 `

@@ -1,7 +1,8 @@
 let canti = `
-. 31 gennaio 2022
-# Quarta domenica del tempo ordinario
-. Anno C
+{url http://bit.ly/campitelli}
+. 3 febbraio 2022
+# San Biagio, vescovo e martire
+@. Anno C
 
 Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 
@@ -15,9 +16,9 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 
 {kyrie eleison}
 
---------------------------------------------------------------------------------
-
-{gloria nell'alto dei cieli}
+@--------------------------------------------------------------------------------
+@
+@{gloria nell'alto dei cieli}
 
 --------------------------------------------------------------------------------
 
@@ -36,7 +37,7 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 @--------------------------------------------------------------------------------
 
 . Offertorio
-{nelle tue mani}
+{il nostro cuore offriamo a te}
 
 --------------------------------------------------------------------------------
 
@@ -50,12 +51,17 @@ Benvenuto nella Parrocchia di Santa Maria in Campitelli di Grottaglie.
 --------------------------------------------------------------------------------
 
 . Comunione
-{roccia di fedeltà}
+{o signore guardami}
 
 --------------------------------------------------------------------------------
 
 . Dopo Comunione
 {tu sei santo, tu sei re}
+
+--------------------------------------------------------------------------------
+
+. Benedizione della gola
+{abbracciami}
 
 --------------------------------------------------------------------------------
 
